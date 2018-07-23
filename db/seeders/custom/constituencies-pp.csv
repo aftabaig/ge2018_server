@@ -1,0 +1,298 @@
+name,area,assembly_id
+PP-1,Attock-I,2
+PP-2,Attock-II,2
+PP-3,Attock-III,2
+PP-4,Attock-IV,2
+PP-5,Attock-V,2
+PP-6,Rawalpindi-I,2
+PP-7,Rawalpindi-II,2
+PP-8,Rawalpindi-II,2
+PP-9,Rawalpindi-IV,2
+PP-10,Rawalpindi-V,2
+PP-11,Rawalpindi-VI,2
+PP-12,Rawalpindi-VII,2
+PP-13,Rawalpindi-VIII,2
+PP-14,Rawalpindi-IX,2
+PP-15,Rawalpindi-X,2
+PP-16,Rawalpindi-XI,2
+PP-17,Rawalpindi-XII,2
+PP-18,Rawalpindi-XIII,2
+PP-19,Taxila-I,2
+PP-20,Taxila-II,2
+PP-21,Chakwal-I,2
+PP-22,Chakwal-II,2
+PP-23,Chakwal-III,2
+PP-24,Chakwal-IV,2
+PP-25,Jhelum-I,2
+PP-26,Jhelum-II,2
+PP-27,Jhelum-III,2
+PP-28,Gujrat-I,2
+PP-29,Gujrat-II,2
+PP-30,Gujrat-III,2
+PP-31,Gujrat-IV,2
+PP-32,Gujrat-V,2
+PP-33,Gujrat-VI,2
+PP-34,Gujrat-VII,2
+PP-35,Sialkot-I,2
+PP-36,Sialkot-II,2
+PP-37,Sialkot-III,2
+PP-38,Sialkot-IV,2
+PP-39,Sialkot-V,2
+PP-40,Sialkot-VI,2
+PP-41,Sialkot-VII,2
+PP-42,Sialkot-VIII,2
+PP-43,Sialkot-IX,2
+PP-44,Sialkot-X,2
+PP-45,Sialkot-XI,2
+PP-46,Narowal-I,2
+PP-47,Narowal-II,2
+PP-48,Narowal-III,2
+PP-49,Narowal-IV,2
+PP-50,Narowal-V,2
+PP-51,Gujranwala-I,2
+PP-52,Gujranwala-II,2
+PP-53,Gujranwala-III,2
+PP-54,Gujranwala-IV,2
+PP-55,Gujranwala-V,2
+PP-56,Gujranwala-VI,2
+PP-57,Gujranwala-VII,2
+PP-58,Gujranwala-VIII,2
+PP-59,Gujranwala-IX,2
+PP-60,Gujranwala-X,2
+PP-61,Gujranwala-XI,2
+PP-62,Gujranwala-XII,2
+PP-63,Gujranwala-XIII,2
+PP-64,Gujranwala-XIV,2
+PP-65,Mandi Bahauddin-I,2
+PP-66,Mandi Bahauddin-II,2
+PP-67,Mandi Bahauddin-III,2
+PP-68,Mandi Bahauddin-IV,2
+PP-69,Hafizabad-I,2
+PP-70,Hafizabad-II,2
+PP-71,Hafizabad-III,2
+PP-72,Sargodha-I,2
+PP-73,Sargodha-II,2
+PP-74,Sargodha-III,2
+PP-75,Sargodha-IV,2
+PP-76,Sargodha-V,2
+PP-77,Sargodha-VI,2
+PP-78,Sargodha-VII,2
+PP-79,Sargodha-VIII,2
+PP-80,Sargodha-IX,2
+PP-81,Sargodha-X,2
+PP-82,Khushab-I,2
+PP-83,Khushab-II,2
+PP-84,Khushab-III,2
+PP-85,Mianwali-I,2
+PP-86,Mianwali-II,2
+PP-87,Mianwali-III,2
+PP-88,Mianwali-IV,2
+PP-89,Bhakkar-I,2
+PP-90,Bhakkar-II,2
+PP-91,Bhakkar-III,2
+PP-92,Bhakkar-IV,2
+PP-93,Chiniot-I,2
+PP-94,Chiniot-II,2
+PP-95,Chiniot-III,2
+PP-96,Chiniot-IV,2
+PP-97,Faisalabad-I,2
+PP-98,Faisalabad-II,2
+PP-99,Faisalabad-III,2
+PP-100,Faisalabad-IV,2
+PP-101,Faisalabad-V,2
+PP-102,Faisalabad-VI,2
+PP-103,Faisalabad-VII,2
+PP-104,Faisalabad-VIII,2
+PP-105,Faisalabad-IX,2
+PP-106,Faisalabad-X,2
+PP-107,Faisalabad-XI,2
+PP-108,Faisalabad-XII,2
+PP-109,Faisalabad-XIII,2
+PP-110,Faisalabad-XIV,2
+PP-111,Faisalabad-XV,2
+PP-112,Faisalabad-XVI,2
+PP-113,Faisalabad-XVII,2
+PP-114,Faisalabad-XVIII,2
+PP-115,Faisalabad-XIX,2
+PP-116,Faisalabad-XX,2
+PP-117,Faisalabad-XXI,2
+PP-118,Toba Tek Singh-I,2
+PP-119,Toba Tek Singh-II,2
+PP-120,Toba Tek Singh-III,2
+PP-121,Toba Tek Singh-IV,2
+PP-122,Toba Tek Singh-V,2
+PP-123,Toba Tak Singh-VI,2
+PP-124,Jhang-I,2
+PP-125,Jhang-II,2
+PP-126,Jhang-III,2
+PP-127,Jhang-IV,2
+PP-128,Jhang-V,2
+PP-129,Jhang-VI,2
+PP-130,Jhang-VII,2
+PP-131,Nankana Sahib-I,2
+PP-132,Nankana Sahib-II,2
+PP-133,Nankana Sahib-III,2
+PP-134,Nankana Sahib-IV,2
+PP-135,Sheikhupura-I,2
+PP-136,Sheikhupura-II,2
+PP-137,Sheikhupura-III,2
+PP-138,Sheikhupura-IV,2
+PP-139,Sheikhupura-V,2
+PP-140,Sheikhupura-VI,2
+PP-141,Sheikhupura-VII,2
+PP-142,Sheikhupura-VIII,2
+PP-143,Sheikhupura-IX,2
+PP-144,Lahore-I,2
+PP-145,Lahore-II,2
+PP-146,Lahore-III,2
+PP-147,Lahore-IV,2
+PP-148,Lahore-V,2
+PP-149,Lahore-VI,2
+PP-150,Lahore-VII,2
+PP-151,Lahore-VIII,2
+PP-152,Lahore-IX,2
+PP-153,Lahore-X,2
+PP-154,Lahore-XI,2
+PP-155,Lahore-XII,2
+PP-156,Lahore-XIII,2
+PP-157,Lahore-XIV,2
+PP-158,Lahore-XV,2
+PP-159,Lahore-XVI,2
+PP-160,Lahore-XVII,2
+PP-161,Lahore-XVIII,2
+PP-162,Lahore-XIX,2
+PP-163,Lahore-XX,2
+PP-164,Lahore-XXI,2
+PP-165,Lahore-XXII,2
+PP-166,Lahore-XXIII,2
+PP-167,Lahore-XXIV,2
+PP-168,Lahore-XXV,2
+PP-169,Lahore-XXVI,2
+PP-170,Lahore-XXVII,2
+PP-171,Lahore-XXVIII,2
+PP-172,Lahore-XXIX,2
+PP-173,Lahore-XXX,2
+PP-174,Kasur-I,2
+PP-175,Kasur-II,2
+PP-176,Kasur-III,2
+PP-177,Kasur-IV,2
+PP-178,Kasur-V,2
+PP-179,Kasur-VI,2
+PP-180,Kasur-VII,2
+PP-181,Kasur-VIII,2
+PP-182,Kasur-IX,2
+PP-183,Okara-I,2
+PP-184,Okara-II,2
+PP-185,Okara-III,2
+PP-186,Okara-IV,2
+PP-187,Okara-V,2
+PP-188,Okara-VI,2
+PP-189,Okara-VII,2
+PP-190,Okara-VIII,2
+PP-191,Pakpattan-I,2
+PP-192,Pakpattan-II,2
+PP-193,Pakpattan-III,2
+PP-194,Pakpattan-IV,2
+PP-195,Pakpattan-V,2
+PP-196,Sahiwal-I,2
+PP-197,Sahiwal-II,2
+PP-198,Sahiwal-III,2
+PP-199,Sahiwal-IV,2
+PP-200,Sahiwal-V,2
+PP-201,Sahiwal-VI,2
+PP-202,Sahiwal-VII,2
+PP-203,Khanewal-I,2
+PP-204,Khanewal-II,2
+PP-205,Khanewal-III,2
+PP-206,Khanewal-IV,2
+PP-207,Khanewal-V,2
+PP-208,Khanewal-VI,2
+PP-209,Khanewal-VII,2
+PP-210,Khanewal-VIII,2
+PP-211,Multan-I,2
+PP-212,Multan-II,2
+PP-213,Multan-III,2
+PP-214,Multan-IV,2
+PP-215,Multan-V,2
+PP-216,Multan-VI,2
+PP-217,Multan-VII,2
+PP-218,Multan-VIII,2
+PP-219,Multan-IX,2
+PP-220,Multan-X,2
+PP-221,Multan-XI,2
+PP-222,Multan-XII,2
+PP-223,Multan-XIII,2
+PP-224,Lodhran-I,2
+PP-225,Lodhran-II,2
+PP-226,Lodhran-III,2
+PP-227,Lodhran-IV,2
+PP-228,Lodhran-V,2
+PP-229,Vehari-I,2
+PP-230,Vehari-II,2
+PP-231,Vehari-III,2
+PP-232,Vehari-IV,2
+PP-233,Vehari-V,2
+PP-234,Vehari-VI,2
+PP-235,Vehari-VII,2
+PP-236,Vehari-VIII,2
+PP-237,Bahawalnagar-I,2
+PP-238,Bahawalnagar-II,2
+PP-239,Bahawalnagar-III,2
+PP-240,Bahawalnagar-IV,2
+PP-241,Bahawalnagar-V,2
+PP-242,Bahawalnagar-VI,2
+PP-243,Bahawalnagar-VII,2
+PP-244,Bahawalnagar-VIII,2
+PP-245,Bahawalpur-I,2
+PP-246,Bahawalpur-II,2
+PP-247,Bahawalpur-III,2
+PP-248,Bahawalpur-IV,2
+PP-249,Bahawalpur-V,2
+PP-250,Bahawalpur-VI,2
+PP-251,Bahawalpur-VII,2
+PP-252,Bahawalpur-VIII,2
+PP-253,Bahawalpur-IX,2
+PP-254,Bahawalpur-X,2
+PP-255,Rahim Yar Khan-I,2
+PP-256,Rahim Yar Khan-II,2
+PP-257,Rahim Yar Khan-III,2
+PP-258,Rahim Yar Khan-IV,2
+PP-259,Rahim Yar Khan-V,2
+PP-260,Rahim Yar Khan-VI,2
+PP-261,Rahim Yar Khan-VII,2
+PP-262,Rahim Yar Khan-VIII,2
+PP-263,Rahim Yar Khan-IX,2
+PP-264,Rahim Yar Khan-X,2
+PP-265,Rahim Yar Khan-XI,2
+PP-266,Rahim Yar Khan-XII,2
+PP-267,Rahim Yar Khan-XIII,2
+PP-268,Muzaffargarh-I,2
+PP-269,Muzaffargarh-II,2
+PP-270,Muzaffargarh-III,2
+PP-271,Muzaffargarh-IV,2
+PP-272,Muzaffargarh-V,2
+PP-273,Muzaffargarh-VI,2
+PP-274,Muzaffargarh-VII,2
+PP-275,Muzaffargarh-VIII,2
+PP-276,Muzaffargarh-IX,2
+PP-277,Muzaffargarh-X,2
+PP-278,Muzaffargarh-XI,2
+PP-279,Muzaffargarh-XII,2
+PP-280,Layyah-I,2
+PP-281,Layyah-II,2
+PP-282,Layyah-III,2
+PP-283,Layyah-IV,2
+PP-284,Layyah-V,2
+PP-285,Dera Ghazi Khan-I,2
+PP-286,Dera Ghazi Khan-II,2
+PP-287,Dera Ghazi Khan-III,2
+PP-288,Dera Ghazi Khan-IV,2
+PP-289,Dera Ghazi Khan-V,2
+PP-290,Dera Ghazi Khan-VI,2
+PP-291,Dera Ghazi Khan-VII,2
+PP-292,Dera Ghazi Khan-VIII,2
+PP-293,Rajan Pur-I,2
+PP-294,Rajan Pur-II,2
+PP-295,Rajan Pur-III,2
+PP-296,Rajan Pur-IV,2
+PP-297,Rajan Pur-V,2

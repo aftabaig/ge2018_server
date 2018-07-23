@@ -1,0 +1,823 @@
+constituency_id,candidate_name,symbol_id
+NA-196,Aijaz Hussain Jakhrani,12
+NA-196,Khalid Nawaz Jakhrani,73
+NA-196,Sharif Khan,32
+NA-196,Shafiq Ahmed Khoso,196
+NA-196,Zaheer Ahmed,85
+NA-196,Abdul Ghani AG Ansari,31
+NA-196,Abdul Wahid,147
+NA-196,Fahad Khan,145
+NA-196,Muhammad Mian Soomro,19
+NA-196,Maula Baksh Soomro,5
+NA-196,Nawab Ali,281
+NA-197,Ehsan-ur-Rehman Mazari,12
+NA-197,Umed Ali,56
+NA-197,Khadim Hussain,130
+NA-197,Zulfiqar Ali,3
+NA-197,Raj Kumar,23
+NA-197,Rab Nawaz,196
+NA-197,Shoaib Khan Khoso,4
+NA-197,Shamsher Ali Mazari,31
+NA-197,Abdul Aziz Samejo,248
+NA-197,Abdul Ghani Bijarani,259
+NA-197,Faique Ali Jakhrani,282
+NA-197,Fatehdin Khan,11
+NA-197,Muhammad Bux Jakhrani,183
+NA-197,Muhammad Ali,18
+NA-197,Mir Salman Khan Bijarani,149
+NA-197,Mir Irfan Ali Khan Bijarani,129
+NA-197,Mir Ghalib Hussain Khan,73
+NA-197,Nareesh Kumar,13
+NA-197,Nazar Ali Khan,67
+NA-198,Akbar Khan,149
+NA-198,Ameer Ali Jatoi,101
+NA-198,Aftab Ahmed Soomro,19
+NA-198,Zohaib Jatoi,264
+NA-198,Syed Momin Ali Shah,67
+NA-198,Abid Hussain Bhayo,12
+NA-198,Abid Hussain Jatoi,87
+NA-198,Abdul Bari,26
+NA-198,Abdullah Pahore,31
+NA-198,Irfan Ahmed Khan Jatoi,196
+NA-198,Muhammad Ibrahim Jatoi,56
+NA-198,Naeem Ahmed Khan Jatoi,287
+NA-198,Wahid Bux Bhaya,177
+NA-199,Israr Aslam Abro,113
+NA-199,Baksh Khan Mahar,287
+NA-199,Zulfiqar Ali Kamario,12
+NA-199,Abdullah,31
+NA-199,Ghous Bux Khan Mahar,259
+NA-199,Qamaruddin Abro,196
+NA-199,Muhammad Arif Khan Mahar,149
+NA-199,Najaf Ali Khan Kamario,266
+NA-200,Bashir Ahmed,149
+NA-200,Bilawal Bhutton Zardari,12
+NA-200,Halima Bhutto,19
+NA-200,Khair Muhammad,201
+NA-200,Rashid Mehmood Soomro,31
+NA-200,Tariq Hussain S/O Aijaz Ali Soomro,129
+NA-200,Tariq Hussain,167
+NA-200,Zaheer Khan,266
+NA-200,Abid Hussain,34
+NA-200,Azizullah Bhutto,86
+NA-200,Ali Nawaz Kunbhar,272
+NA-200,Inayat Ali Umrani,105
+NA-200,Ghulam Murtaza,196
+NA-200,Ghulam Murtaza S/O Shah Muhammad Soomro,32
+NA-200,Gul Hassan,235
+NA-200,Muhabat Ali,299
+NA-200,Mehboob Ali,85
+NA-200,Mushtaque Hussain Buriro,56
+NA-201,Allah Bux Unar,259
+NA-201,Khursheed Ahmed Junejo,12
+NA-201,Saifullah Abro,167
+NA-201,Shafqat Hussain Unar,34
+NA-201,Ghulam Murtaza Shah,318
+NA-201,Qurat-ul-Ain,19
+NA-201,Muhammad Ali Bughio,235
+NA-201,Nazir Ahmed Bughio,142
+NA-202,Akhtar Hussain Shaikh,129
+NA-202,Ayaz Hussain,41
+NA-202,Aftab Shahban Mirani,12
+NA-202,Rabb Nawaz Tunia,237
+NA-202,Sarfaraz Ahmed,105
+NA-202,Sultan Ahmed Khan Khuhawar,196
+NA-202,Saifullah Abro,167
+NA-202,Liaqat Ali,149
+NA-202,Musarrat Shah,19
+NA-202,Muzafar Ali Brohi,177
+NA-202,Mir Imran Ali,153
+NA-202,Nasir Mehmood,31
+NA-202,Nazeer Hussain Magsi,287
+NA-203,Zulfiqar Ali,40
+NA-203,Sakhawat Ali,19
+NA-203,Saifullah Abro,280
+NA-203,Abdul Manan Chandio,139
+NA-203,Ghulam Murtaza Shah,318
+NA-203,Faiz Muhammad,259
+NA-203,Muhib Ali Phulpoto,53
+NA-203,Muhammad Hussam,317
+NA-203,Mir Amer Ali Khan Magsi,12
+NA-203,Nawabuddin,105
+NA-203,Nawabzada Rehan Chandio,204
+NA-204,Jam Waseem Ahmed,123
+NA-204,Khalid Ahmed Khan Lund,12
+NA-204,Shahbaz Ahmed Khan Lund,32
+NA-204,Abdul Haqure alias Mian Mitha,142
+NA-204,Abdul Wahab,118
+NA-204,Lutfullah,147
+NA-204,Muhammad Ishaq Laghari,196
+NA-204,Muhammad Yousif,31
+NA-204,Mian Rafique Ahmed,109
+NA-204,Hallar Khan Pitafi,212
+NA-205,Ahsanullah,12
+NA-205,Ikramullah Khan,25
+NA-205,Jam Asif Razzak Khan,44
+NA-205,Abdul Razzaque,142
+NA-205,Abdul Qayoom,31
+NA-205,Ali Muhammad Khan Mahar,101
+NA-205,Ali Nawaz Khan Mahar,11
+NA-205,Ghulam Ali Abbas,4
+NA-205,Mir Iftikhar Ahmed Khan Lund,32
+NA-206,Amanullah,167
+NA-206,Aftab Hussain Soomro,135
+NA-206,Jamal Abdul Nasir,177
+NA-206,Habibullah Siddique,149
+NA-206,Syed Khursheed Ahmed Shah,12
+NA-206,Syed Tahir Hussain Shah,19
+NA-206,Syed Farukh Ahmed Shah,314
+NA-206,Syed Kumail Hyder Shah,25
+NA-206,Abdul Jabbar,147
+NA-206,Ali Gohar Khan Indhar,325
+NA-206,Ghulam Mujtaba,93
+NA-206,Muhammad Hayat,130
+NA-206,Muhammad Saleh Indhar,31
+NA-206,Manzoor Hussain Shar,119
+NA-206,Naheed Begum,85
+NA-206,Nusrat Bano,218
+NA-206,Nek Muhammad,196
+NA-207,Akbar Ali,190
+NA-207,Amanullah Khoso,287
+NA-207,Ameer Bux alias Meer,149
+NA-207,Hafiz Muhammad Zaman,39
+NA-207,Hazoor Bux,123
+NA-207,Khuda Dino Sangi,314
+NA-207,Khurshid Afghan,201
+NA-207,Didar Ali,145
+NA-207,Rasheed Ahmed Shah,147
+NA-207,Saood Afzal,18
+NA-207,Sohail Niaz Khoso,85
+NA-207,Syed Ali Raza Shah,81
+NA-207,Syed Mohammad Ayoub,31
+NA-207,Shaista,239
+NA-207,Ziauddin Bhatti,40
+NA-207,Ghulam Murtaza,159
+NA-207,Gohar Ali Khoso,258
+NA-207,Mubeen Ahmed,19
+NA-207,Muhammad Tahir,284
+NA-207,Muhammad Amir Shaikh,129
+NA-207,Muhammad Murad,196
+NA-207,Nauman Islam Shaikh,12
+NA-207,Naveed Ali,218
+NA-207,Wazir Ali,75
+NA-207,Wazir Ali Jatoi,56
+NA-208,Asadullah,196
+NA-208,Syed Asad Abbas Zaidi,85
+NA-208,Syed Pervaiz Ali Shah Jeelani,6
+NA-208,Syed Ghous Ali Shah,259
+NA-208,Syed Qaim Ali Shah,11
+NA-208,Syed Nawaz Ali Shah alias Farukh,149
+NA-208,Qudratullah,147
+NA-208,Mir Muhammad Hanjrah,31
+NA-208,Nafisa Shah,12
+NA-208,Veero Mal,25
+NA-209,Ismail Shah,196
+NA-209,Pir Syed Ali Shah Jillani,12
+NA-209,Pir Sadruddin Shah,259
+NA-209,Syed Ameer Umar Jeelani,71
+NA-209,Abdul Haq,31
+NA-209,Ghulam Ali,266
+NA-209,Ghulam Mustafa,53
+NA-209,Munawar Ali Wassan,164
+NA-210,Javed Sikandar,266
+NA-210,Syed Javed Ali Shah Jillani,12
+NA-210,Syed Fahad Ali Shah Jillani,164
+NA-210,Syed Kazim Ali Shah,259
+NA-210,Syed Muharram Ali Shah,287
+NA-210,Inayatullah Shaikh,201
+NA-210,Lal Bux Sial,196
+NA-210,Muhammad Ramzan,31
+NA-210,Mukhtiar Hussain Narejo,147
+NA-210,Mahreen Razzaq Bhutto,199
+NA-210,Naimatullah Maitlo,123
+NA-210,Himat Ali Budh,128
+NA-211,Asghar Ali Shah,235
+NA-211,Allahando Shah alias Zafar Ali Shah,259
+NA-211,Imdad Ali Channa,142
+NA-211,Ameer Bux Rajper,281
+NA-211,Khalid Masood Channa,3
+NA-211,Syed Abrar Ali Shah,12
+NA-211,Sayed Hassan Ali Shah,44
+NA-211,Syed Zohaib Ali Shah,149
+NA-211,Syed Safdar Ali Shah,71
+NA-211,Syed Kaleemullah,85
+NA-211,Shahid Ikram,164
+NA-211,Shoukat Ali Arain,177
+NA-211,Abdul Sattar Rajper,201
+NA-211,Abdul Ghaffar alias Ghullam Murtaza,123
+NA-211,Ghazala Hussain,19
+NA-211,Qudsia Qazi,11
+NA-211,Qamar-ul-Zaman,284
+NA-211,Muhammad Ramzan,242
+NA-211,Mehmooda Begum,31
+NA-211,Maqsood Ali Khuhsik,287
+NA-211,Mumtaz Ali Chandio,160
+NA-211,Meer Muhammad Rajput,159
+NA-212,Imdad Ali,177
+NA-212,Haji Khan Mashori,129
+NA-212,Khalid Akhtar Jatoi,18
+NA-212,Zulfiqar Ali Behan,12
+NA-212,Razi Ali Khan Jatoi,330
+NA-212,Syed Kazim Ali Shah,19
+NA-212,Arif Mustafa Jatoi,67
+NA-212,Abdul Haq Dost Muhammad,44
+NA-212,Abdul Rehman,31
+NA-212,Aziz Ahmed Behan,107
+NA-212,Ghulam Murtaza Khan Jatoi,259
+NA-212,Gul Muhammad Channa,196
+NA-212,Mumtaz Ali Chandio,160
+NA-212,Mumtaz Ali,266
+NA-213,Asif Ali Zardari,12
+NA-213,Ikhtiar Hussain Tunio,119
+NA-213,Haji Khan Mashori,142
+NA-213,Zakir Hussain Jamali,31
+NA-213,Sardar Sher Muhammad Rind Baloch,259
+NA-213,Sardar Abdul Hameed Khoso,196
+NA-213,Saleem Raza,266
+NA-213,Syed Sajjad Hussain Shah Taqvi,101
+NA-213,Syed Ghulam Muhiuddin Shah,284
+NA-213,Syed Kazim Ali Shah,85
+NA-213,Abdul Razzaq Rustamani,174
+NA-213,Farooq Ahmed,19
+NA-213,Qadir Bux Magsi,281
+NA-213,Muhammad Ismail,55
+NA-213,Muhammad Abdul Rauf Siddiqui,159
+NA-213,Muhammad Mushtaque,71
+NA-213,Nisar Ali Keerio,129
+NA-214,Afshan Iqbal,142
+NA-214,Bahadur Khan Dahri,196
+NA-214,Khan Muhammad Dahri,44
+NA-214,Sardar Sher Muhammad Rind Baloch,135
+NA-214,Sarfaraz Urf Babu,41
+NA-214,Syed Zain Ul Abdin,53
+NA-214,Syed Ghulam Ali Shah,149
+NA-214,Syed Ghulam Mustafa Shah,12
+NA-214,Ghulam Irtaza Umar,32
+NA-214,Ghulam Murtaza,201
+NA-214,Falak Sher,109
+NA-214,Gul Muhammad Rind,19
+NA-214,Liaquat Ali,177
+NA-214,Mukhtiar Naz,284
+NA-214,Manthar Ali,302
+NA-214,Nadeem Keerio,55
+NA-214,Wilayat Ali,31
+NA-215,Haji Khuda Baksh,259
+NA-215,Rana Rashid Ali Khan,266
+NA-215,Saeed Khan Nizamani,196
+NA-215,Faraz,149
+NA-215,Muhammad Ishaq,284
+NA-215,Muhammad Qasim,287
+NA-215,Mushtaque,19
+NA-215,Mumtaz Hussain,105
+NA-215,Naveed Dero,12
+NA-215,Waseem Akhtar,159
+NA-216,Aurangzeb,107
+NA-216,Jam Muhammad Farooq Ali Khan,101
+NA-216,Jam Nafees Ali Khan,287
+NA-216,Khuda Bux,128
+NA-216,Saeed Ahmed,31
+NA-216,Shazia Jannat Marri,12
+NA-216,Ali Muhammad Marri,167
+NA-216,Quratulain Marri,266
+NA-216,Kishin Chand Parwani,259
+NA-216,Muhammad Aslam,19
+NA-216,Muhammad Hashim,44
+NA-216,Yasir Ali,196
+NA-217,Akbar Hussain Chughtain,31
+NA-217,Paras Dero,142
+NA-217,Roshanuddin Junejo,12
+NA-217,Shakeel Ahmed urf Karimdad,11
+NA-217,Salahuddin Junejo,201
+NA-217,Zafar Ali,129
+NA-217,Abdul Aziz Thahim,53
+NA-217,Ghulam Mujtaba Soomro,128
+NA-217,Ghayas Uddin,167
+NA-217,Muhammad Saleem,17
+NA-217,Muhammad Shakeel,159
+NA-217,Muhammad Mubeen,154
+NA-217,Mehar Ali alias Mahi Khan,259
+NA-217,Niaz Hussain,326
+NA-218,Bahadur Ali,71
+NA-218,Pir Aftab Hussain Shah Jeelani,266
+NA-218,Pir Hassan Ali Shah,12
+NA-218,Javed Ali,156
+NA-218,Hafiz Fayaz-ul-Hassan,31
+NA-218,Roop Chand,11
+NA-218,Rais Ahmed Khan,85
+NA-218,Sanjay Perwani,159
+NA-218,Syed Mumtaz Ali Shah,19
+NA-218,Abdul Haque,32
+NA-218,Abdul Majeed,147
+NA-218,Ali Nawaz Shah,167
+NA-218,Ghulam Jaffar Junejo,284
+NA-218,Lelan,196
+NA-218,Muhammad Jibran,93
+NA-218,Masood Ahmed Wasan,75
+NA-219,Arbab Ghulam Rahim,259
+NA-219,Jawad Ali,85
+NA-219,Chatro,32
+NA-219,Sajjad Ahmed,284
+NA-219,Ali Nawaz Shah,167
+NA-219,Mir Aijaz Ali Khan,75
+NA-219,Mir Hassan,149
+NA-219,Mir Mehboob Ali Talpur,196
+NA-219,Mir Munawwar Ali Talpur,12
+NA-220,Arbab Ghulam Rahim,280
+NA-220,Ishrat Naz,31
+NA-220,Ghulam Akbar Dars,120
+NA-220,Gul Hassan,53
+NA-220,Makhdom Shah Mahmood Hussain Qureshi,19
+NA-220,Nawab Muhammad Yousuf Talpur,12
+NA-220,Neelam Walgi,284
+NA-221,Pir Noor Muhammad Shah Jeelani,12
+NA-221,Jalaluddin,71
+NA-221,Dilawar Khan,287
+NA-221,Abdul Aziz,31
+NA-221,Makhdom Shah Mahmood Hussain Qureshi,19
+NA-221,Mumtaz Ali Rahimoon,101
+NA-222,Arbab Ali Amanullah,173
+NA-222,Arbab Anwar Jabbar,160
+NA-222,Arbab Togachi Fawad Razzaq,102
+NA-222,Arbab Zakaullah,259
+NA-222,Arbab Ghulam Rahim,171
+NA-222,Arbab Lutfullah,67
+NA-222,Tulchhi Bai,129
+NA-222,Abdul Ghani,55
+NA-222,Kanwar Kumar,149
+NA-222,Gianchand,266
+NA-222,Muhammad Ramzan,71
+NA-222,Muhammad Mean,196
+NA-222,Mahesh Kumar Malani,12
+NA-222,Hemoon,128
+NA-223,Ameer Abbas Leghari,53
+NA-223,Peeral Majeedano,105
+NA-223,Dost Ali,282
+NA-223,Ramesh Kumar,19
+NA-223,Syed Farman Ali Shah,15
+NA-223,Farhat Yasmeen,31
+NA-223,Gul Sher Sario,109
+NA-223,Muhammad Ali Abro,281
+NA-223,Makhdoom Jamil Uz Zaman,12
+NA-223,Makhdoom Zahid Ali Siddiqui,85
+NA-223,Makhdoom Shahzad Ali,160
+NA-223,Makhdoom Fazal Hussain Qureshi,259
+NA-223,Nargis Naz,284
+NA-223,Yasir Ahmed Shah,129
+NA-224,Altaf Hussain,281
+NA-224,Ameer Ali Thebo,53
+NA-224,Bhooro,201
+NA-224,Pir Ghulam Nabi Shah,142
+NA-224,Hussain Bux,71
+NA-224,Khalid Hussain,159
+NA-224,Zulfiqar Bachani,12
+NA-224,Syed Altaf Hussain Shah,151
+NA-224,Syed Ali Nawaz Shah Rizvi,11
+NA-224,Syed Inayat Ali Rizvi,282
+NA-224,Shabi ul Hassan Shah Rashdi,196
+NA-224,Abdul Sattar Bachani,149
+NA-224,Muhammad Sikandar,147
+NA-224,Muhammad Mohsin,259
+NA-224,Nazir Khan,47
+NA-224,Wali Muhammad Laghari,31
+NA-225,Ameer Ali Thebo,53
+NA-225,Khawand Bux Ghulam Muhammad,19
+NA-225,Syed Hussain Tariq,12
+NA-225,Syed Muzaffar Ali Shah,85
+NA-225,Abdul Hameed Memon,281
+NA-225,Ghulamullah Chang,17
+NA-225,Naheed Khan Marakzai,259
+NA-226,Jamshed Ali Shahikh,19
+NA-226,Zulfiqar Ali Halepoto,101
+NA-226,Rashi Ali Khan,85
+NA-226,Syed Abid Ali Shah,149
+NA-226,Shafiq Ahmed,11
+NA-226,Sabir Hussain,159
+NA-226,Soulat Naseer Pasha,284
+NA-226,Tahir Majeed,31
+NA-226,Ushair Khan,93
+NA-226,Ali Muhammad Sahito,12
+NA-226,Ghayoor Muhammad Khan,211
+NA-226,Faisal Nadeem Shaikh,55
+NA-226,Muhammad Hanif Khan,50
+NA-226,Muhammad Tahir,71
+NA-227,Abul Khair Muhammad Zubair,154
+NA-227,Dilshad Pathan,204
+NA-227,Salahuddin s/o Shaikh Rahimuddin,159
+NA-227,Salahuddin s/o Abdul Latif,71
+NA-227,Abdul Hameed Qarni Arain,299
+NA-227,Abdul Rasheed Arain,85
+NA-227,At-ul-Mustafa Jamil Rathore,107
+NA-227,Ghulam Mohiuddin,93
+NA-227,Karamat Ali Rajput,31
+NA-227,Q.Muhammad Hakam,19
+NA-227,Muhammad Rashid Khan,5
+NA-227,Muhammad Fareed Qureshi,177
+NA-228,Sumayya Abdul Qadir Nizamani,31
+NA-228,Syed Miran Muhammad Shah,126
+NA-228,Syed Naveed Qamar,12
+NA-228,Abdul Jabbar Memon,19
+NA-228,Ghulam Murtaza,105
+NA-228,Kashaf-ul-Hussain Shah,241
+NA-228,Lal Bux,201
+NA-228,Mir Ali Nawaz Talpur,259
+NA-229,Ghulam Ali Nizamani,149
+NA-229,Muhammad Ibrahim Kamboh,284
+NA-229,Muhammad Hassam Mirza,259
+NA-229,Muhammad Esa,31
+NA-229,Mir Raheel Talpur,1
+NA-229,Mir Ghulam Shah,25
+NA-229,Mir Ghulam Ali Talpur,12
+NA-230,Haji Rasool Bux Chandio,12
+NA-230,Sajjad Ali,218
+NA-230,Fateh Muhammad,31
+NA-230,Fehmida Mirza,259
+NA-230,Muhammad Hassam Mirza,266
+NA-230,Mirza Saqlain Abbas Baig,287
+NA-230,Mirza Ali Mehdi Baig,196
+NA-231,Aftab Ali Khan,326
+NA-231,Syed Ayaz Ali Shah Sheerazi,12
+NA-231,Syed Naseer Ahmed Shah Sheerazi,149
+NA-231,Shafqat Hussain Shah Sheerazi,281
+NA-231,Mumtaz Ali Shah,201
+NA-231,Molv Muhammad Saleh Alhadad,31
+NA-231,Ayesha Gulalai Wazir,214
+NA-231,Abdul Rehman Mallah,196
+NA-232,Arslan Bux Brohi,19
+NA-232,Habib url Rehman,196
+NA-232,Rabia,326
+NA-232,Syed Pir Ghulam Rehmani Shah,128
+NA-232,Shams un Nisa,12
+NA-232,Ghulam Abbas Attai,284
+NA-232,Mumtaz Ali Memon,149
+NA-233,Roshan Ali Buriro,135
+NA-233,Saeed Ahmed Jat,118
+NA-233,Sikandar Ali Rahoupoto,12
+NA-233,Sayed Jalal Mehmood,53
+NA-233,Shuja Ahmed,149
+NA-233,Shahmeer Gopang,31
+NA-233,Abdulr Rehman Memon,109
+NA-233,Abdul Nabi Shah,25
+NA-233,Ghullam Abbas Pirzada,160
+NA-233,Kesoo Mal Kheeal Das,284
+NA-234,Hameed Khatoon,31
+NA-234,Sayed Hyder Bux Shah,139
+NA-234,Irfan Ali Leghari,12
+NA-234,Karim Ali Jatoi,123
+NA-234,Liaquat Ali Jatoi,19
+NA-234,Mussarat,11
+NA-235,Ahsan Ali Jatoi,237
+NA-235,Ahmed Khan Lund,284
+NA-235,Junaid Ahmed Khan,44
+NA-235,Rafique Ahmed Jamali,12
+NA-235,Zubair Ahmed Jamali,11
+NA-235,Saeed Ahmed Jamali,302
+NA-235,Fatima,31
+NA-235,Karim Ali Jatoi,19
+NA-235,Muhammad Chana,53
+NA-235,Meer Jan Muhammad Khan Panhwar,149
+NA-236,Ashfaq Ahmed,85
+NA-236,Afshan,71
+NA-236,Pir Jan Muhammad,128
+NA-236,Jam Abdul Karim Bijar,12
+NA-236,Khadim Hussain Shaikh,123
+NA-236,Dewan Chand Chawla,159
+NA-236,Soomar,31
+NA-236,Syed Saleem Shah,162
+NA-236,Shahid Hussain,281
+NA-236,Qari Bux,284
+NA-236,Muhammad Islam,11
+NA-236,Muhammad Nadeem,259
+NA-236,Masroor Ali,19
+NA-236,Mushtaq Ahmed Ishtiaq Dhool,111
+NA-237,Afaq Jamal,85
+NA-237,Baber Hakeem Baloch,330
+NA-237,Jamil Ahmed Khan,19
+NA-237,Dr. Nadeem Maqbool,159
+NA-237,Rahman Dino Mahesar,196
+NA-237,Zain-ul-Abdin Ansari,284
+NA-237,Salman Ahmed,50
+NA-237,Syed Zahid Abbas Naqvi,105
+NA-237,Abdul Hakeem Baloch,12
+NA-237,Abdul Ghafoor,266
+NA-237,Aziz Muhammad,162
+NA-237,Faheem Ahmed,71
+NA-237,Muhammad Islam,31
+NA-237,Muhammad Shoaib,147
+NA-237,Muhammad Mureed,149
+NA-237,Manzoor Ali,259
+NA-238,Aitbar Khan,39
+NA-238,Ikramullah,104
+NA-238,Hafiz Aurangzeb,147
+NA-238,Khursheed Ali,300
+NA-238,Rao Muhammad Zubair,85
+NA-238,Zunaira Rehman,19
+NA-238,Zain Ul Abidin,17
+NA-238,Syed Imdad Hussain Shah,177
+NA-238,Syed Rafiullah,12
+NA-238,Syed Shah Muhammad Shah,284
+NA-238,Shahi Syed,162
+NA-238,Inayatullah,208
+NA-238,Ghulam Farooq,294
+NA-238,Gul Faraz Khan,159
+NA-238,Muhammad Islman,31
+NA-238,Muhammad Pervez,212
+NA-238,Muhammad Rafi,149
+NA-238,Muhammad Wali Shah,259
+NA-238,Nazir Ahmed,201
+NA-238,Nawaz Ali Jutt,118
+NA-239,Iqbal Ahmed,129
+NA-239,Bilal Hussain,149
+NA-239,Rasheed Siddiqui,93
+NA-239,Sajid Ahmed,167
+NA-239,Sohail Mansoor Khawaja,159
+NA-239,Syed Zaman Ali Jafari,71
+NA-239,Syed Imran Haider Abdi,12
+NA-239,Syed Masroor Alam,154
+NA-239,Syed Nadeem Razi,85
+NA-239,Shahan ul Quraish,309
+NA-239,Shaukat Ali,132
+NA-239,Shahzad Khan,1
+NA-239,Qazi Saleem Haider,266
+NA-239,Muhammad Ehsan,284
+NA-239,Muhammad Akram,19
+NA-239,Muhammad Haleem Khan Ghouri,31
+NA-239,Muhammad Tariq,21
+NA-239,Muhammad Abdul Aleem Qadri,29
+NA-239,Muhammad Naim,50
+NA-240,Iqbal Muhammad Ali Khan,159
+NA-240,Afaq Shafqat,50
+NA-240,Syed Asif Hasnain,85
+NA-240,Shah Jahan,167
+NA-240,Abdul Jameel Khan,31
+NA-240,Abdul Ghafoor,104
+NA-240,Farrukh Manzoor,19
+NA-240,Muhammad Iqbal Qureshi,11
+NA-240,Muhammad Asif,71
+NA-240,Muhammad Zahid,44
+NA-240,Muhammad Usman,219
+NA-240,Muhammad Irfan Waheed,330
+NA-240,Muhammad Ghazanfar,196
+NA-240,Muhammad Feroze,12
+NA-240,Mehmood Quershi,266
+NA-240,Noori Mian,272
+NA-241,Javed Zaman,162
+NA-241,Sabir Hussain Khan,201
+NA-241,Tahir Iqbal,71
+NA-241,Talib Zar Khan,284
+NA-241,Abdul Bari Hashmi,139
+NA-241,Abdul Hafiz,177
+NA-241,Faheem Khan,19
+NA-241,Farrukh Jabbar,93
+NA-241,Moazzam Ali Qureshi,12
+NA-241,Muhammad Danish Khan,85
+NA-241,Muhammad Zahid Awan,104
+NA-241,Muhammad Shahid,50
+NA-241,Muhammad Furqan,147
+NA-241,Muhammad moin Amer Pirzada,159
+NA-241,Nusrat Aqeel,154
+NA-242,Asadullah Bhutto,31
+NA-242,Bedal Masroo Badvi,53
+NA-242,Pir Umar Ud Din Zaffar,139
+NA-242,Hassan Sabir,85
+NA-242,Zohaib Umar Laghari,196
+NA-242,Syed Abdul Bari,167
+NA-242,Syed Muhammad Waqas Hashmi,71
+NA-242,Saif Ur Rehman,19
+NA-242,Sharafat Khan,284
+NA-242,Abdul Ghani,177
+NA-242,Kiran Zehra Kazmi,309
+NA-242,Kishwar Zehra,159
+NA-242,Muhammad Asghar Ali,104
+NA-242,Muhammad Iqbal,12
+NA-242,Muzami Iqbal Hashmi,55
+NA-242,Manzoor Ahmed,206
+NA-242,Noorullah s/o Hameed Ullah Khan,295
+NA-242,Noorullah s/o Abdul Kabeer,162
+NA-242,Noor Muhammad,123
+NA-243,Anwar Ahmed Farouqi,225
+NA-243,Khawaja Izhar Ul Hassan,56
+NA-243,Syed Asif Raza,177
+NA-243,Syed Ali Raza,159
+NA-243,Syed Kamran Ali Rizvi,50
+NA-243,Syed Nawaz ul Huda,71
+NA-243,Syeda Shehla Raz,12
+NA-243,Shahjahan,284
+NA-243,Abdul Wahab,118
+NA-243,Imran Ahmed Khan Niazi,19
+NA-243,Muhammad Usama Razi Khan,31
+NA-243,Muhammad Ayaz,277
+NA-243,Muhammad Kamran Khan,11
+NA-243,Muhammad Muzammil Qureshi,85
+NA-243,Muzammil Iqbal Hashmi,55
+NA-244,Amjad Ali Asif,149
+NA-244,H.M.Hanif,1
+NA-244,Tabish Hussain,259
+NA-244,Zahid Saeed,31
+NA-244,S. Akhtar Hussain Shah Bukhari,50
+NA-244,Syed Ali Haider Ziaid,19
+NA-244,Saif uddin,3
+NA-244,Shazia Razzaq Khan,162
+NA-244,Shokat,158
+NA-244,Sabir Hussain,29
+NA-244,Muhammad Zubair Khan,150
+NA-244,Muhammad Saeed Shafiq,85
+NA-244,Muhammad Tariq,266
+NA-244,Muhammad Abdul rauf Siddiqui,159
+NA-244,Muhammad Ali Atara,4
+NA-244,Muhammad Imran Kashif,11
+NA-244,Mudassir Iqbal,55
+NA-244,Miftah Ismail Ahmed,284
+NA-244,Nasir Khan,93
+NA-244,Nomi Bashir,173
+NA-244,Mian Waqar Akhtar Paganwala,12
+NA-244,Yasha Ullah Khan Afghan,71
+NA-245,Arshad Ali,37
+NA-245,Sameena Huma Meer,162
+NA-245,Khawaja Tariq Nazir,284
+NA-245,Zulfiqar Ali Kaim Khani,190
+NA-245,Saleem Sachwani,101
+NA-245,Saiffuddin,31
+NA-245,Sagheer Ahmed,85
+NA-245,Aamir Hussain,19
+NA-245,Abdul Anis Khan,167
+NA-245,Abdul Khursheed Khan,314
+NA-245,Farrukh Niaz Tanoli,12
+NA-245,Muhammad Ahmed Raza,71
+NA-245,Muhammad Jamil,73
+NA-245,Muhammad Shafiq Ahmed,50
+NA-245,Muhammad Farooq Sattar,159
+NA-246,Amjad Khan,32
+NA-246,Ejaz Ahmed,85
+NA-246,Ahmed,71
+NA-246,Umm-e-Kalsoom,101
+NA-246,Bilawal Bhutto Zardari,12
+NA-246,Jawad Ahmed,117
+NA-246,Hazrat Gul,162
+NA-246,Saleem Zia,284
+NA-246,Abid,110
+NA-246,Abdul Shakoor Shad,19
+NA-246,Chulam Muhammad Samoo,177
+NA-246,Muhammad Irshad,44
+NA-246,Muhammad Anwar,118
+NA-246,Muhammad Arshad,259
+NA-246,Mahfooz Yar Khan,159
+NA-246,Molana Noor-ul-Haq,31
+NA-247,Afnan Ullah Khan,284
+NA-247,Aftab Hussain Lakho,102
+NA-247,Javed Iqbal Khan,50
+NA-247,Deedar Ali,196
+NA-247,Raj Kumar,220
+NA-247,Syed Zaman Ali Jafri,71
+NA-247,Sayyid Mansoob Hasan,25
+NA-247,Arif-ur-Rehman Alvi,19
+NA-247,Abdul Jalil Khan,177
+NA-247,Abdul Habib,101
+NA-247,Ali Nawab,272
+NA-247,Abdul Aziz Memon,12
+NA-247,Abdul Wahab,118
+NA-247,Ghazia Ali,259
+NA-247,Fauzia Aqeel Lari,34
+NA-247,Fauzia Kasuri,85
+NA-247,Muhammad Jibran Nasir,169
+NA-247,Muhammad Husain Mehanti,31
+NA-247,Muhammad Farooq Sattar,159
+NA-247,Mati Ur Rehman,206
+NA-247,Nadir Khan Jamali,11
+NA-247,Nasreen Jalil,44
+NA-247,Naeem Uddin,18
+NA-248,Asghar Mehmood,71
+NA-248,Afshan Qumber Ali,159
+NA-248,Bashir Ahmed,25
+NA-248,Hafiz Aurangzaib,147
+NA-248,Subhan Ali,277
+NA-248,Sardar Aziz,19
+NA-248,Abdul Qadir Patel,12
+NA-248,Abdul Majeed,11
+NA-248,Gull Muhammad Afridi,31
+NA-248,Muhammad Salman Khan,284
+NA-248,Muhammad Alauddin,219
+NA-248,Muhammad Yousaf,85
+NA-249,Aslam Shah,159
+NA-249,Haji Muhammad,295
+NA-249,Hafiz Muhammad Mursalen,91
+NA-249,Hazrat Umar,104
+NA-249,Syed Atta Ullah Shah,31
+NA-249,Abid Hussain,71
+NA-249,Abdul Sattar,259
+NA-249,Abdul Qayyum Khan Kundi,277
+NA-249,Ali Akbar,227
+NA-249,Fouzia Hameed,85
+NA-249,Qadir Khan Mandokhail,12
+NA-249,Kamran Akhtar,121
+NA-249,Muhammad Salman Khan Baloch,167
+NA-249,Muhammad Faisal Vawda,19
+NA-249,Mian Muhammad Shehbaz Sharif,284
+NA-250,Aslam Shah,102
+NA-250,Syed Hafeezudeen,85
+NA-250,Syed Shah Nawaz,277
+NA-250,Syed Kashif Ali Shah,71
+NA-250,Shahi Syed,162
+NA-250,Attaullah,19
+NA-250,Attaullah,55
+NA-250,Ali Ahmed,12
+NA-250,Fayyaz Kaim Khani,159
+NA-250,Muhammad Ishaq,50
+NA-250,Muhammad Ashraf,167
+NA-250,Mehmood Khan,295
+NA-250,Naeem,31
+NA-251,Iqra Muzammil,55
+NA-251,Asif Saleem,46
+NA-251,Ziarat Khan,330
+NA-251,Sohail Khan,93
+NA-251,Syed Amin-ul-Haque,159
+NA-251,Syed Shahid Iqbal,277
+NA-251,Fahad Shafiq,284
+NA-251,Muhammad Aslam,19
+NA-251,Muhammad Jamil Zia,12
+NA-251,Muhammad Laeeque Khan,31
+NA-251,Muhammad Mumtaz Hussain Ansari,71
+NA-251,Muhammad Nehal Malik,85
+NA-251,Naeem Ullah,104
+NA-252,Iftikhar Akbar Randhawa,85
+NA-252,Akram Khan,164
+NA-252,Aftab Jehangir,19
+NA-252,Samina Sohail,149
+NA-252,Riaz Khan,74
+NA-252,Sheikh Abdullah,213
+NA-252,Abdul Khaliq Mirza,12
+NA-252,Abdul Latif Rind,292
+NA-252,Abdul Qadir Khanzada,159
+NA-252,Abdul Majeed,31
+NA-252,Farhat Hussain,196
+NA-252,Fazal Rabbi,160
+NA-252,Muhammad Ayub Khan,284
+NA-252,Muhammad Sajid Hussain,177
+NA-252,Muhammad Furqan,71
+NA-252,Muhammad Qamar Siddique,17
+NA-253,Usama Qadri,159
+NA-253,Sarwat Ejaz,272
+NA-253,Chaudhary Muhammad Javed Ishaq,12
+NA-253,Khalid Mumtaz,284
+NA-253,Khawaja Izhar Ul Hassan,173
+NA-253,Zain ul Abidin,206
+NA-253,Syed Mustafa Kamal,85
+NA-253,Abdul Hakim Quaid,17
+NA-253,Abdul Waseem,44
+NA-253,Omar Omari,204
+NA-253,Amber Naeem,93
+NA-253,Muhammad Ashraf Jabbar,19
+NA-253,Muhammad Amjad Ali,71
+NA-253,Muhammad Anzar Siddiq,34
+NA-253,Muhammad Farooq Khan,50
+NA-253,Muhammad Abid,161
+NA-253,Muhammad Usman,235
+NA-253,Muhammad Ali,111
+NA-253,Munim Zafar Khan,31
+NA-254,Afaq Shafqat,50
+NA-254,Arshad Abdullah Vohra,85
+NA-254,Danish Turabi,101
+NA-254,Rashid Naseem,31
+NA-254,Syed Rashid Rizvi,196
+NA-254,Syed Rehmatullah,90
+NA-254,Syed Abdul Mateen,66
+NA-254,Syed Muhammad Ali Abidi,282
+NA-254,Shaikh Salahuddin,159
+NA-254,Qazi Saleem Haider,266
+NA-254,Liza Mehdi,12
+NA-254,Muhammad Aslam Khan,19
+NA-254,Muhammad Iftikhar Alam,11
+NA-254,Muhammad Ateeq,71
+NA-254,Muhammad Faisal,139
+NA-254,Nasir Ahmed,242
+NA-254,Wali Muhammad,206
+NA-255,Arslan Khan,162
+NA-255,Khalid Maqbool Siddiqui,159
+NA-255,Zafar Ahmed Siddiqui,12
+NA-255,Abdul Samad Sardar,47
+NA-255,Ata-ul-Mustafa Jameel Rathor,85
+NA-255,Faizan Ahmed,50
+NA-255,Muhammad Jawed Hanif Khan,173
+NA-255,Muhammad Jameel Ahmed Khan,93
+NA-255,Muhammad Zahid Awan,104
+NA-255,Muhammad Adeel,71
+NA-255,Muhammad Mustaqeem Qurashi,31
+NA-255,Muhammad Masood Uddin Ayubi,140
+NA-255,Muhammad Kamran Khan,167
+NA-255,Mehmood Baqi Molvi,19
+NA-255,Nasir Uddin Mehmood,284
+NA-256,Ishtiaq Ahmed Shad,242
+NA-256,Dost Muhammad Faizi,284
+NA-256,Rehan Mansoor,66
+NA-256,Zain Aqil,39
+NA-256,Syed Sajid Hassan,12
+NA-256,Shahid Hussain,145
+NA-256,Sofia Yaqoob,162
+NA-256,Amir Wali uddin Chishti,159
+NA-256,Muhammad Irshad Siddiqui,11
+NA-256,Muhammad Afsar Ali Khan,44
+NA-256,Muhammad Riaz Haider,212
+NA-256,Muhammad Zaman Khan Lodhi,220
+NA-256,Muhammad Adil Siddiqui,85
+NA-256,Muhammad Ali Qadri,71
+NA-256,Muhammad Najeeb Haroon,19
+NA-256,Meraj Ul Huda Siddiqui,31

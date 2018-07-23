@@ -1,0 +1,1159 @@
+constituency_id,candidate_name,party_abbreviation,symbol_name
+PK-2,Ishtiaq Ahmad,Independent,Cricket Stumps 
+PK-2,Amir Muqam,PML N,Tiger 
+PK-2,Bakhat Amin,MMA,Book 
+PK-2,Jafar Shah,ANP,Lantern 
+PK-2,Sharafat Ali,PTI,Bat 
+PK-2,Nawazish Ali,PPPP,Arrow 
+PK-6,Akbar Ali Khan,APML,Eagle 
+PK-6,Nisarul Mulk,PMAP,Tree 
+PK-6,Mukhtar Raza,PPPP,Arrow 
+PK-6,Ali Khan,Independent,Fan 
+PK-6,Zafarullah Khan,JUI (Nazryat),Takhti 
+PK-6,Sher shah,ANP,Lantern 
+PK-6,shahi Nawab,MMA,Book 
+PK-6,Saad Eitezaz khan,ATP,Tyre 
+PK-6,Raza KHAN,AWP,Bulb 
+PK-6,Rahmat Ali,TLP,Crane 
+PK-6,Habib Ali Shah,PML N,Tiger 
+PK-6,Amjad Ali,PTI,Bat 
+PK-6,Imtiaz Khan,Independent,Apple 
+PK-6,Yaqoob Khan,Independent,Thermos 
+PK-15,Khalid Mehmood,Independent,Fan 
+PK-15,Muzafar Said,MMA,Book 
+PK-15,Mahmoood Zeb Khan,PPPP,Arrow 
+PK-15,Muhabat said,APML,Eagle 
+PK-15,Abdur Rauf,Independent,Pencil 
+PK-15,Shafi Ullah,PTI,Bat 
+PK-15,Shah Khizar,PML Z,Helicopter 
+PK-15,Sayad Inayat Ur Rehman,PML N,Tiger 
+PK-15,Sumera,Independent,Handbag 
+PK-15,Sajjad Ahmad,ANP,Lantern 
+PK-15,Noor Muhammad,Independent,Pickup 
+PK-13,Azhar Taqweem,PML N,Tiger 
+PK-13,shad Nawaz Khan,MMA,Book 
+PK-13,Shah saood,Independent,Butterfly 
+PK-13,Muhammad Azam Khan,PTI,Bat 
+PK-13,Muhammad Zamin Khan,PPPP,Arrow 
+PK-13,Malak Muhammad Zaib khan,ANP,Lantern 
+PK-13,Hidayat Ullah Khan,Independent,Pencil 
+PK-22,Bakht Biland Khan,QWP,Oil Lamp 
+PK-22,Raj wali Khan,MMA,Book 
+PK-22,Sardar Hussain,ANP,Lantern 
+PK-22,Said Muhammad Shamsher,PPPP,Arrow 
+PK-22,Abdul Kabir Khan,PTI,Bat 
+PK-22,Yousaf Ali,Independent,Teapot 
+PK-26,Afsar,Independent,Charpai 
+PK-26,Sidra Khalid,PTI,Bat 
+PK-26,Abdul Ghafar,Independent,Teapot 
+PK-26,Nusrat Sherazi,MMA,Book 
+PK-25,Abdullah Quresheshi,QWP,Oil Lamp 
+PK-25,Manan Shah Independent,Independent,Sun Flower 
+PK-25,Mallik Soon Mian,Independent,Sheep 
+PK-25,Muhammad Didar,Independent,Jeep 
+PK-25,Muhammad Idrees,MMA,Book 
+PK-25,Gul Akbar,Independent,Butterfly 
+PK-25,Karim Khan,Independent,Jug 
+PK-25,Falqoos,Independent,Ox 
+PK-25,Fazal Rahman,Independent,Apple 
+PK-25,Umar Siddique,Independent,Pitcher 
+PK-25,Attiqur Rahman,Independent,Gun 
+PK-25,Abdul kabeer Shah,Independent,Bucket 
+PK-25,Abdul Aleem,Independent,Bowl 
+PK-25,Shereen Gul Khan,PTI,Bat 
+PK-25,Sher Ghazi,Independent,Rabbit 
+PK-25,Saeed Ur Rehman,PRHP,Iron 
+PK-25,Sarwar Shah,Independent,Charpai 
+PK-25,Mian Gul,Independent,Revolver 
+PK-23,Afsar Ul Mulk Khan,PPPP,Arrow 
+PK-23,Mian Nazeer Rehman,Independent,Water Cooler 
+PK-23,Muhammad Yar,MMA,Book 
+PK-23,Mutawakil,ANP,Lantern 
+PK-23,Umar Zada,AWP,Bulb 
+PK-23,Abdul Hadi,PMAP,Tree 
+PK-23,Shaukat Ali,PTI,Bat 
+PK-23,Sarbaz Khan,Independent,Jeep 
+PK-23,Rashid Ahmad,Independent,Knife 
+PK-23,Hamid Iqbal Khan,Independent,Sheep 
+PK-23,Jehan Zeeb,PSP,Dolphin 
+PK-23,Jamal ud Din,JUP (Noorani),Key 
+PK-23,MUHAMMAD RASHAD KHAN,PML N,Tiger 
+PK-35,Taimoor Ullah Khan,PML N,Tiger 
+PK-35,Zareen Gul,PTI,Bat 
+PK-35,Syed Laiq Aziz Shah,PPPP,Arrow 
+PK-35,Shaukat Zareen,Independent,Suitcase 
+PK-35,Shaukat Ali Khan,MMA,Book 
+PK-35,Shehzad Haider,Independent,Pitcher 
+PK-35,Abdul Qadir Khan,PRHP,Iron 
+PK-35,Laiq Muhammad Khan,ANP,Lantern 
+PK-29,Amjad Wali Khan,Independent,Bunch of Grapes 
+PK-29,Wali Muhammad Khan,PML N,Tiger 
+PK-29,Muhammad Qasim,Independent,Thermos 
+PK-29,Muhammad Fayyaz,Independent,Charpai 
+PK-29,Muhammad Fayyaz,Independent,Duck 
+PK-29,Muhammad Fayyaz Khan,MMA,Book 
+PK-29,Muhammad Riaz Khan,ANP,Lantern 
+PK-29,Atta Muhammad,PRHP,Iron 
+PK-29,Saeed,QWP,Oil Lamp 
+PK-29,zain ul Marifeen,PML,Tractor 
+PK-29,Khanzada Zafar Ali Khan,Independent,Apple 
+PK-29,Taj Muhammad,PTI,Bat 
+PK-29,Taj Muhammad,Independent,Pickup 
+PK-18,Ayaz Muhammad,PMAP,Tree 
+PK-18,Muhammad Raza khan,Independent,Jeep 
+PK-18,Muhamad Ibrar,QWP,Oil Lamp 
+PK-18,kifayat Ullah,TLP,Crane 
+PK-18,Shakeel Ahmad,PTI,Bat 
+PK-18,Said Wahab,APML,Eagle 
+PK-18,Sajjad Ahmad,PML N,Tiger 
+PK-18,Amjad Ali,MMA,Book 
+PK-18,Ijaz Ali khan,Independent,Butterfly 
+PK-18,Ijaz Ali,ANP,Lantern 
+PK-18,Muhammad Humayun Khan,PPPP,Arrow 
+PK-44,Asad Qaiser,PTI,Bat 
+PK-44,Waseem Shah,Independent,Charpai 
+PK-44,Gul Zamin Shah,ANP,Lantern 
+PK-44,Fazal Akram,Independent,Jeep 
+PK-44,Usman Sher,MMA,Book 
+PK-44,Tahir Tasleem Khan,JUI (Nazryat),Takhti 
+PK-44,Sultan Sher,QWP,Oil Lamp 
+PK-44,Zaib Ur Rahman,PPP SB,Fist 
+PK-44,Hamid Ali,JUI (S),Ladder 
+PK-44,Baber Khan,PML N,Tiger 
+PK-44,Yousaf Ali,Independent,Thermos 
+PK-31,Babar saleem Swati,PTI,Bat 
+PK-31,Muhammad Naheem,Independent,Sun Flower 
+PK-31,Muhammad Nisar,AATPK,Chair 
+PK-31,Muhammad Atiq Ur Rehman,TLI,Cannon 
+PK-31,Muhammad Ibraheem,Independent,King 
+PK-31,Kamran Anwar,Independent,Bench 
+PK-31,Alamgir Khan Urf Maria,Independent,Sheep 
+PK-31,Arif Ameen,ATP,Tyre 
+PK-31,Zahoor Ahmad,PML N,Tiger 
+PK-31,Syed Tahir Hussain Shah,TLP,Crane 
+PK-31,Sultan Mehmood,ANP,Lantern 
+PK-31,Rustam Khan,PAT,Missile 
+PK-31,Khurram Shahzad Khan,MMA,Book 
+PK-31,Nadir Khan,Independent,Jeep 
+PK-5,Ameer zeb Shaharyar,PPPP,Arrow 
+PK-5,Muhammad Amin,MMA,Book 
+PK-5,Muhammad Iqbal,Independent,King 
+PK-5,Fazal Rahman,QWP,Oil Lamp 
+PK-5,Fazal Hakim Khan Yousafzai,PTI,Bat 
+PK-5,Arif Ullah Khan,JUI (Nazryat),Takhti 
+PK-5,Zia Ullah Khan,Independent,Apple 
+PK-5,Shahab Siyab,Independent,Pencil 
+PK-5,Shawkat Ali S/O Muhammad Ghani,Independent,Butterfly 
+PK-5,Shawkat Ali S/O Taj Muhammad,Independent,Mobile Phone 
+PK-5,Shahid Khan,APML,Eagle 
+PK-5,Syed Asif Ali Shah,Independent,Wrist Watch 
+PK-5,Barkat Ali,Independent,Jeep 
+PK-5,Irshad Ali,PML N,Tiger 
+PK-5,Wajid Ali Khan,ANP,Lantern 
+PK-55,Akhtar Gul,JUI (S),Ladder 
+PK-55,Nasir Khan,ANP,Lantern 
+PK-55,Muhammad Ihsan Ullah,TLP,Crane 
+PK-55,Fazli Rabbani,MMA,Book 
+PK-55,Abdul Wahab,TJP,Laptop 
+PK-55,Adil Nawaz,PTI,Bat 
+PK-55,Sattar khan,Independent,Suitcase 
+PK-55,Rahim Dad Khan,PPPP,Arrow 
+PK-55,Jamshid Khan,PML N,Tiger 
+PK-55,Jalal Uddin,APML,Eagle 
+PK-55,Arshad Ali,ATP,Tyre 
+PK-55,Nadeem Khan,PTI (G),Racket 
+PK-61,Ibrahim,TLP,Crane 
+PK-61,Muhammad Aslam,PPPP,Arrow 
+PK-61,Inayat Ur Rahman,MMA,Book 
+PK-61,Savid Khan,TJP,Laptop 
+PK-61,Rasheed Khan,PTI (G),Racket 
+PK-61,Rashid Ali Khan,Independent,Hammer 
+PK-61,Dawlat Khan,Independent,Apple 
+PK-61,Khair Ul Ibrar,Independent,Thermos 
+PK-61,Hafiz Sulaiman ul Haq,Independent,Bench 
+PK-61,Pervez Khattak,PTI,Bat 
+PK-61,Pervez Ahmad Khan,ANP,Lantern 
+PK-61,Ijaz Hussain,Independent,Charpai 
+PK-61,Ashraf Nawaz Khan,Independent,Transformer 
+PK-61,Muhammad Sajid Fahim,Independent,Jeep 
+PK-46,Ibn-e-Aman Khan,PPPP,Arrow 
+PK-46,Fazal Ilahi,Independent,Teapot 
+PK-46,Muhammad Afzal,PTI N,Batsman 
+PK-46,Muhmmad Ali,PTI,Bat 
+PK-46,Mehmood Ul Hassan,MMA,Book 
+PK-46,Burhan Ullah,QWP,Oil Lamp 
+PK-46,Shah Jehan Bacha,PML N,Tiger 
+PK-46,Muhammad Ayaz,ANP,Lantern 
+PK-20,Bakhat Afsar,ANP,Lantern 
+PK-20,Bakhat Jehan Khan,Independent,Jeep 
+PK-20,Riaz Khan,PTI,Bat 
+PK-20,Salim Khan,AATPK,Chair 
+PK-20,Saifullah Khan,PPPP,Arrow 
+PK-20,Abdullah,Independent,Kettle 
+PK-20,Fazal Ghafoor,MMA,Book 
+PK-20,Fazal Karim,PTI (G),Racket 
+PK-12,Habib Ullah,Independent,Newspaper 
+PK-12,Hanif Ullah Khan,Independent,Match Box 
+PK-12,Shahid Ullah,AATPK,Chair 
+PK-12,Muhammad Nisar Khan,PML N,Tiger 
+PK-12,Inayat Ullah,MMA,Book 
+PK-12,Najam Ud Din,PPPP,Arrow 
+PK-12,Naveed Anjum Khan,PTI,Bat 
+PK-12,Waheed Ullah Khan,ANP,Lantern 
+PK-12,ZAFAR AI KHAN,Independent,Mobile Phone 
+PK-10,Habib Zada,Independent,Newspaper 
+PK-10,Muhammad Ali,MMA,Book 
+PK-10,Muhammad Ismail,AATPK,Chair 
+PK-10,Gul Sher,ANP,Lantern 
+PK-10,Abdul Wahid,Independent,Pickup 
+PK-10,Abdul Ghaffar,PML N,Tiger 
+PK-10,Abdul khan,Independent,Apple 
+PK-10,Said Karim Shah,APML,Eagle 
+PK-10,Hameeda Shahid,PTI,Bat 
+PK-10,Malak Badshah Saleh,PPPP,Arrow 
+PK-68,Arbab Afzal Akbar,PML N,Tiger 
+PK-68,Arbab Jahandad,PTI,Bat 
+PK-68,Arbab Mir Afzal Khan Duadzai,PML,Tractor 
+PK-68,Qari Samiullah Jan,MMA,Book 
+PK-68,Malik Amroz Jan,Independent,Pencil 
+PK-68,Malik Tamash Khan,PPPP,Arrow 
+PK-68,Mumtaz Khan,ANP,Lantern 
+PK-68,Wajid Saddiq,PPP SB,Fist 
+PK-3,Azam Khan,PIRP,Badge 
+PK-3,Mukhtar Ali Khan,Independent,Suitcase 
+PK-3,Muhammad Shahi khan,PPPP,Arrow 
+PK-3,Mahboob Ur Rahman,Independent,Jeep 
+PK-3,Fazal Wahab,ANP,Lantern 
+PK-3,Ali Namdar Khan,PMAP,Tree 
+PK-3,ALi Shah,MMA,Book 
+PK-3,Shah Rooq Khan,APML,Eagle 
+PK-3,Sardar khan,PML N,Tiger 
+PK-3,Javaid Ali,Independent,Knife 
+PK-3,HAIDER ALI KHAN,PTI,Bat 
+PK-8,Iqbal Hussain,Independent,Charpai 
+PK-8,Fayaz Ali Shah,Independent,Apple 
+PK-8,Fazle Subhan,MMA,Book 
+PK-8,Azmat Ali Khan,PML N,Tiger 
+PK-8,Abdul wahab,APML,Eagle 
+PK-8,Zaffar Ulllah Khan,Independent,Sun Flower 
+PK-8,Sher Shah Khan,ANP,Lantern 
+PK-8,Said Akbar Khan,PPPP,Arrow 
+PK-8,Sajjad Khan,QWP,Oil Lamp 
+PK-8,Inamullah Khan Shama khel,Independent,Cricket Stumps 
+PK-8,Mohibullah Khan,PTI,Bat 
+PK-19,Amjad Ali,Independent,Bucket 
+PK-19,Gul Zaman,PML N,Tiger 
+PK-19,Fayaz Gul,Independent,Pickup 
+PK-19,Fazal Muhammad,Independent,Cricket Stumps 
+PK-19,Shams Ul Haq,Independent,Fridge 
+PK-19,Shafi Ullah,ANP,Lantern 
+PK-19,Syed Muhammad Ali Shah,PPPP,Arrow 
+PK-19,Haleem Said,Independent,Apple 
+PK-19,Jehangir Khan,QWP,Oil Lamp 
+PK-19,Jamal Ud Din,MMA,Book 
+PK-19,Musavir Khan,PTI,Bat 
+PK-53,Ikramullah Shahid,PPPP,Arrow 
+PK-53,Amir Haider Azam Khan,ANP,Lantern 
+PK-53,Khan Akbar,PML N,Tiger 
+PK-53,Zarghoon Shah,Independent,Sun Flower 
+PK-53,Syed Umar Farooq,PTI,Bat 
+PK-53,Muhammad Wiqas Khan,TLP,Crane 
+PK-53,Niaz Ali,MMA,Book 
+PK-53,Wilayat Khan,QWP,Oil Lamp 
+PK-53,Yousaf Shah,Independent,Chitrali Cap 
+PK-9,Amjad Ali,MMA,Book 
+PK-9,Nasrullah Khan,QWP,Oil Lamp 
+PK-9,Mahmood Khan,PTI,Bat 
+PK-9,Muhammad Ayub Khan,ANP,Lantern 
+PK-9,Fazal subhan,JUI (Nazryat),Takhti 
+PK-9,Abdullah Khan,PML N,Tiger 
+PK-9,Sherin Muhammad swati,AATPK,Chair 
+PK-9,Sayed Nasar Ali Shah,PPPP,Arrow 
+PK-9,Hamid Khan,PMAP,Tree 
+PK-9,Yousaf Khan,Independent,Bee 
+PK-27,Rozi Khan,Independent,Wrist Watch 
+PK-27,Saif Ur Rehman Qureshi,Independent,Pitcher 
+PK-27,Saifullah,Independent,Jeep 
+PK-27,Zia Ur Rahman,Independent,Cricket Stumps 
+PK-27,Fazal Ur Rahman,Independent,Bed 
+PK-27,Muhammad Asmatullah,QWP,Oil Lamp 
+PK-27,Mufti Ubaid Ur Rahman,Independent,Revolver 
+PK-27,Naseeruddin,MMA,Book 
+PK-27,MUHAMMAD IQBAL KHAN,PTI,Bat 
+PK-17,Saeed Gull,MMA,Book 
+PK-17,Said Iftikhaar Shah,AATPK,Chair 
+PK-17,Shafi Ur Rahman,APML,Eagle 
+PK-17,Shaukat Ali Khan,PML N,Tiger 
+PK-17,Aziz Ul Haq,Independent,Parrot 
+PK-17,Liaqat Ali Khan,PTI,Bat 
+PK-17,Mubarak Jan,Independent,Jeep 
+PK-17,Muhammad Muzaffar Khan,PPPP,Arrow 
+PK-17,Naeem Jan,ANP,Lantern 
+PK-30,Tabarik Ahmad,Independent,Pickup 
+PK-30,Mian Zia Ur Rehman,PML N,Tiger 
+PK-30,Manzar Sadiq,Independent,Thermos 
+PK-30,Muhammad Mushtaq Khan,Independent,Teapot 
+PK-30,Maria Fatima,PTI,Bat 
+PK-30,Amir Shahzad,TLP,Crane 
+PK-30,Syed Mazhar Ali Qasim Shah,Independent,Jeep 
+PK-30,Syed Alim Tahir,PRHP,Iron 
+PK-30,Syed Ahmad Hussain Shah,PPPP,Arrow 
+PK-30,Rashid Ali,AATPK,Chair 
+PK-30,Hamid Ali Khan,ANP,Lantern 
+PK-30,Wajid Humayun,Independent,Bowl 
+PK-24,Ahamad Saeed,Independent,Slate 
+PK-24,Muhammad Ali Khan,Independent,Bulb 
+PK-24,Faisal Zeb,ANP,Lantern 
+PK-24,Fazl Ullah Khan,PML N,Tiger 
+PK-24,Adul Maulab,PTI,Bat 
+PK-24,Sher Alam Khan,MMA,Book 
+PK-24,Saleem Zada,Independent,Spoon 
+PK-24,Sajjad Ahmad Khan,QWP,Oil Lamp 
+PK-24,Akhtar Ali,Independent,Fan 
+PK-24,NASRULLAH KHAN,AWP,Bulb 
+PK-71,Aman Ullah,PPPP,Arrow 
+PK-71,Muhammad Hanif Afridi,Independent,Pickup 
+PK-71,Abdul Kareem Khan,APML,Eagle 
+PK-71,Abdul Hafeez,ANP,Lantern 
+PK-71,Sifat Ullah,PML N,Tiger 
+PK-71,Shah Farman,PTI,Bat 
+PK-71,Samandar Khan,TLP,Crane 
+PK-71,Zar Muhammad,QWP,Oil Lamp 
+PK-71,Javed Khan,MMA,Book 
+PK-71,Hidayat Ullah,Independent,Jeep 
+PK-85,AKHTER ALI,Independent,Jeep 
+PK-85,MUHAMMAD ZAMAN KHATTAK,PPPP,Arrow 
+PK-85,MUHAMMAD RAUD AZHAR,Independent,Ox 
+PK-85,MUHAMMAD KHURSHEED,ANP,Lantern 
+PK-85,MUHAMMAD KHAN,Independent,Lock 
+PK-85,MEHBOOB JAN,PMAP,Tree 
+PK-85,FARID KHAN TOOFAN,PTI,Bat 
+PK-85,SHEHRYAR AKHTAR,Independent,Wrist Watch 
+PK-85,SAJJAD PERVAIZ,Independent,Gun 
+PK-85,JAVED IQBAL,Independent,Charpai 
+PK-85,MIAN NISAR GUL,MMA,Book 
+PK-65,Akhtar Khan,Independent,Water Cooler 
+PK-65,Mian Muhammad Sareer,Independent,Pencil 
+PK-65,Mian Iftikhaar Hussain,ANP,Lantern 
+PK-65,Muhammad Tariq Khattak,MMA,Book 
+PK-65,Muhammad Dawood Khan,PPPP,Arrow 
+PK-65,Tariq,PSP,Dolphin 
+PK-65,Saleh Muhammad,Independent,Combat Tank 
+PK-65,Khaleeq Ur Rehman,PTI,Bat 
+PK-65,Ishtiaq Ur Rehman,QWP,Oil Lamp 
+PK-65,Waheed khan,TLP,Crane 
+PK-78,Aurangzeb Khan,APML,Eagle 
+PK-78,Niaz Muhammad Momand,Independent,Roller of Wood 
+PK-78,Mahad Tariq,TLP,Crane 
+PK-78,Muhammad Irfn S/O Muhammad Ashiq,Independent,Hanger 
+PK-78,Muhammad Irfan S/O Abdul Salam,PTI,Bat 
+PK-78,Muhammad Shah,QWP,Oil Lamp 
+PK-78,Muhammad Bilal,PJDP,Gavel 
+PK-78,Muhammad Ismail,Independent,Tonga 
+PK-78,Muhammad Aslam Khan,Independent,Pomegranate 
+PK-78,Kashan Ahmad,Independent,Gas Cylinder 
+PK-78,Irfan Ullah,PPPP,Arrow 
+PK-78,Abid Ullah Khan,Independent,Ice Cream 
+PK-78,Khadim Ali,PML N,Tiger 
+PK-78,Hussain Khan Baz,Independent,Pencil 
+PK-78,Haji Ghulam Ali,MMA,Book 
+PK-78,Javed Nasim,PML,Tractor 
+PK-78,Haroon Bashir Bilour,ANP,Lantern 
+PK-69,Arbab Muhammad Usman Khan,Independent,Sun Flower 
+PK-69,Muhammad Sharif,PPPP,Arrow 
+PK-69,Inayat Ullah,Independent,Apple 
+PK-69,Shakeel Afridi,Independent,Jeep 
+PK-69,Saif-Ur-Rahim,Independent,Door 
+PK-69,Syed Muhammad Ishtiaq,PTI,Bat 
+PK-69,Khalid Waqar,MMA,Book 
+PK-69,Saqib Ullah Khan,ANP,Lantern 
+PK-69,Israr Khan,QWP,Oil Lamp 
+PK-69,Naushad Khan,TLP,Crane 
+PK-90,Akram Khan Durrani,MMA,Book 
+PK-90,Muhammad Salim,JUI (S),Ladder 
+PK-90,Liaquat Ali khan,APML,Eagle 
+PK-90,Faridullah Khan,QWP,Oil Lamp 
+PK-90,Farhad Ullah,Independent,Match Box 
+PK-90,Abdul Samad Khan,ANP,Lantern 
+PK-90,Abdur Rauf Qureshi,Independent,Apple 
+PK-90,Safdar Iqbal Shah,Independent,Charpai 
+PK-90,Haji Malik Adnan Khan,PTI,Bat 
+PK-90,Muhammad Usman Ali Khan,Independent,Generator 
+PK-7,Ihsan Ullah Shah,PPPP,Arrow 
+PK-7,Muhammad Iqbal,Independent,Combat Tank 
+PK-7,Fayaz Ali Shah,Independent,Apple 
+PK-7,Fazal Akbar,Independent,Transformer 
+PK-7,Abdul Ghafoor,PML N,Tiger 
+PK-7,Riaz Ahmad Khan,PMAP,Tree 
+PK-7,Hussain Ahmad Kanju,MMA,Book 
+PK-7,Jamroz Khan,AATPK,Chair 
+PK-7,Bakhat Mand Yas,Independent,Jeep 
+PK-7,Amjad Ali,PTI,Bat 
+PK-7,Waqar Ahmad Khan,ANP,Lantern 
+PK-37,Jawad Khan,Independent,Tulip 
+PK-37,Nasir Hussain,PPPP,Arrow 
+PK-37,Malik shahzad Mehmood,Independent,Lock 
+PK-37,Muhammad Imran Zafeer,PRHP,Iron 
+PK-37,Abdul Razzaq Abbasi,MMA,Book 
+PK-37,Sabahat Khan Jadoon,Independent,Pickup 
+PK-37,Sikandar Azam,Independent,Bucket 
+PK-37,Sardar Muhammad Idrees,Independent,Jeep 
+PK-37,Sardar Sheraz Afzal,Independent,Butterfly 
+PK-37,Sardar Aurangzaib,PML N,Tiger 
+PK-37,Sajjad Ahmad Khan,AATPK,Chair 
+PK-37,SAjid Hussain,Independent,Thermos 
+PK-37,Rukhsana Bibi,ANP,Lantern 
+PK-37,Rabia Gul,QWP,Oil Lamp 
+PK-37,Khan Bahadur Jadoon,Independent,Sewing Machine 
+PK-37,Khalid Mehmood,Independent,Gun 
+PK-37,Khalid Gohar,Independent,Pitcher 
+PK-37,Waqar Nabi,PTI,Bat 
+PK-33,Ahmad Sheryar Khan,Independent,Jeep 
+PK-33,Nawabzada Farid Salauddin,PTI,Bat 
+PK-33,Nasir Mehmood,MMA,Book 
+PK-33,Muhammad Safdar,PML N,Tiger 
+PK-33,Muhammad Iqbal,AATPK,Chair 
+PK-33,Mohabat Khan,Independent,Jug 
+PK-33,Ali Muhammad Khan,Independent,Combat Tank 
+PK-33,Ibad ur Rehman,PRHP,Iron 
+PK-33,Shahzad Haider,Independent,Pitcher 
+PK-33,Sarbuland Khan,TLP,Crane 
+PK-33,Zahidullah,Independent,Bucket 
+PK-33,Zulfikar Khan,Independent,Television 
+PK-33,Dilawar Khan,Independent,Jeep 
+PK-33,Wajeeh Uz Zaman Khan,PML,Tractor 
+PK-59,Babar Ali,PPPP,Arrow 
+PK-59,Taj Ali,PML N,Tiger 
+PK-59,Syed Zafar Ali Khan,PTI N,Batsman 
+PK-59,Abdur Rauf,MMA,Book 
+PK-59,Fazal Shakoor khan,PTI,Bat 
+PK-59,Qasim Ali,ANP,Lantern 
+PK-59,Muhammad Tahir,APML,Eagle 
+PK-59,Muhammad Hashim Khan,QWP,Oil Lamp 
+PK-59,Naib Khan,TJP,Laptop 
+PK-63,Ikhtiar Wali,PML N,Tiger 
+PK-63,Jamshid-ud-Din,PTI,Bat 
+PK-63,khan sher,Independent,Tulip 
+PK-63,Sardar Ali Khan,PRHP,Iron 
+PK-63,Shams Ur Rahman,Independent,Butterfly 
+PK-63,Liaqat Ali Shabab,PPPP,Arrow 
+PK-63,Muhammad Shahid,ANP,Lantern 
+PK-63,Mian Sarwar Muzzafar Shah,Independent,Jeep 
+PK-63,QURBAN AL KHAN,MMA,Book 
+PK-54,Iftikhar Ali,PTI,Bat 
+PK-54,Zarshad Khan,Independent,Newspaper 
+PK-54,Sher Afghan Khan,ANP,Lantern 
+PK-54,Ubaid Khan,Independent,Jeep 
+PK-54,Irfan Ali,TLP,Crane 
+PK-54,Malak Ijaz Khan,PPPP,Arrow 
+PK-54,Mumtaz Ali Khan,PML N,Tiger 
+PK-54,Nadar Shah,MMA,Book 
+PK-38,Arshad Wadood Khan,Independent,Bell 
+PK-38,Waheed Akhtar,Independent,Telephone 
+PK-38,Naseer Ahmad khan,Independent,Mobile Phone 
+PK-38,Nadeed Ahmad,Independent,Charpai 
+PK-38,Malik Naveed Sarwar,Independent,Pitcher 
+PK-38,Malik shahzad Mehmood,Independent,Lock 
+PK-38,Muhammad Yousaf Khan,TLP,Crane 
+PK-38,Muhammad Nabeel Abbasi,Independent,Butterfly 
+PK-38,Muhammad Bashir,Independent,Scooter 
+PK-38,Muhammad Arshad,PML N,Tiger 
+PK-38,Aqeel Ur Rehman Jadoon,Independent,Ice Cream 
+PK-38,Shazia Tehmas Khan,PPPP,Arrow 
+PK-38,Saleem Shah,PPP SB,Fist 
+PK-38,Sikander Azam,Independent,Jeep 
+PK-38,Sajjad Ahmad,Independent,Apple 
+PK-38,Zaid Bin ayub,QWP,Oil Lamp 
+PK-38,Haji Qalandar Khan Lodhi,PTI,Bat 
+PK-38,Bibi Shahnaz Raja,ANP,Lantern 
+PK-38,Waqas Ahmad,Independent,Pickup 
+PK-72,Ashfaq Ahmad Khalil,ANP,Lantern 
+PK-72,Manzoor Ali,PPPP,Arrow 
+PK-72,Kashif Azam,MMA,Book 
+PK-72,Fahim Ahmad,PTI,Bat 
+PK-72,Atta Ullah Khan,ATP,Tyre 
+PK-72,Abdul Wali,PRHP,Iron 
+PK-72,Zahir Khan,PML N,Tiger 
+PK-72,Tariq Khan,Independent,Knife 
+PK-72,Suhbat Khan,Independent,Pencil 
+PK-72,Shaukat Ali,Independent,Transformer 
+PK-72,Zar Ali khan,TLP,Crane 
+PK-72,Ejaz Akbar,Independent,Pickup 
+PK-72,Nargis Samin,QWP,Oil Lamp 
+PK-42,Arshad Khan,Independent,Pomegranate 
+PK-42,Malik Adeel Iqbal,Independent,Bullock Cart 
+PK-42,Malik Tahir Iqbal,Independent,Bowl 
+PK-42,Muhammad Waseem,TLP,Crane 
+PK-42,Muhammad Qasim Shah,PML N,Tiger 
+PK-42,Muhammad Ahmad Shah,Independent,Pickup 
+PK-42,Gohar Nawaz Khan,Independent,Bucket 
+PK-42,Faisal Zaman,Independent,Pitcher 
+PK-42,Faiza BIbi Rasheed,Independent,Pencil 
+PK-42,Abdullah Habib,Independent,Mountain 
+PK-42,Saima Khalid,PTI,Bat 
+PK-42,Sajid Naeem,Independent,Handbag 
+PK-42,Rizwana Saeed Mughal,Independent,Water Cooler 
+PK-42,Naseem Akhtar,MMA,Book 
+PK-64,Pervaiz Khattak,PTI,Bat 
+PK-64,Syed Haider Ali Shah,TLP,Crane 
+PK-64,Zahoor Ahmad,PML N,Tiger 
+PK-64,Muhammad Shahid,ANP,Lantern 
+PK-64,Mian Yousaf Jamal Shah,PPPP,Arrow 
+PK-64,PERVAIZ KHAN KHATTAK,MMA,Book 
+PK-40,Ejaz Ali Khan,PPPP,Arrow 
+PK-40,Naveed Asghar,Independent,Apple 
+PK-40,Qazi Muhammad Asad Khan,PML N,Tiger 
+PK-40,Qazi Attique ur Rehaman,PFP,Ship 
+PK-40,Faraziya Shaheen,ANP,Lantern 
+PK-40,Syed Qasid Ali Shah,TLP,Crane 
+PK-40,Razia Jaffari,MWMP,Tent 
+PK-40,Khalid Khan,AATPK,Chair 
+PK-40,Hamid Ali,MMA,Book 
+PK-40,Akbar Ayub Khan,PTI,Bat 
+PK-40,RASHID ZAMAN,TLI,Cannon 
+PK-34,Orang Zeb,TLP,Crane 
+PK-34,Muhammad Maqsood,PPPP,Arrow 
+PK-34,Muhammad Ali,Independent,Teapot 
+PK-34,Shahzada Muhammad Gushtasap khan,Independent,Charpai 
+PK-34,Shah Abdul Aziz,MMA,Book 
+PK-34,Sardar Waqar-ul-Mulk,Independent,Jeep 
+PK-34,Sardar Muhammad Yousaf Zaman,PML N,Tiger 
+PK-34,Sardar Muhammad Sultan,Independent,Gun 
+PK-34,Zahida Sabeel,PTI,Bat 
+PK-34,Raja Muhammad Ashfaq,Independent,Bucket 
+PK-34,Niaz Muhammad Khan,Independent,Telephone 
+PK-32,Ibrar Hussain,MMA,Book 
+PK-32,Muhammad Naeem,PML N,Tiger 
+PK-32,Muhammad Mahraj,Independent,Pencil 
+PK-32,Muhammad Zahoor,Independent,Gun 
+PK-32,Muhammad Shuja Khan,PPPP,Arrow 
+PK-32,Muhammad Siraj Hamayun,AATPK,Chair 
+PK-32,Fayyaz Muzaffar,ANP,Lantern 
+PK-32,Taleh Muhammad,TLP,Crane 
+PK-32,Zahid Chanzeb,PTI,Bat 
+PK-32,Raja Muhammad Hasrat,Independent,Jeep 
+PK-32,Habib Ur Rehman Tanoli,QWP,Oil Lamp 
+PK-32,Muhammad Naheem,Independent,Pickup 
+PK-57,Arshad Ali,QWP,Oil Lamp 
+PK-57,Pir Dilawar Shah,PPPP,Arrow 
+PK-57,Sohail Khan,Independent,Jeep 
+PK-57,Shakeel Bashir Khan,ANP,Lantern 
+PK-57,Aziz Ullah,PTI,Bat 
+PK-57,Kaleem Akbar,PML N,Tiger 
+PK-57,Muhammad Riaz Khan,MMA,Book 
+PK-4,Ibrahim,Independent,Pickup 
+PK-4,Musa Khan,Independent,Apple 
+PK-4,Muhammad Tahir,Independent,Wrist Watch 
+PK-4,Aziz Ullah Khan,PTI,Bat 
+PK-4,Irfan Ali Khan,PPPP,Arrow 
+PK-4,Asim Ullah khan,ANP,Lantern 
+PK-4,Shahid Khan,APML,Eagle 
+PK-4,Saif Ullah khan,Independent,Leaf 
+PK-4,Sana Ullah Khan,MMA,Book 
+PK-4,Amir Muqam,PML N,Tiger 
+PK-4,Iftikhar Ali,Independent,Fan 
+PK-4,Ishtiaq Ahmad,Independent,Cricket Stumps 
+PK-4,Naimat Ullah,PFM,Date Tree 
+PK-50,Azam Khan,Independent,Fan 
+PK-50,Nawabzada Khawaja Muhammad Khan Hoti,PPPP,Arrow 
+PK-50,Muhammad Ayaz Muhammad Khan,PML N,Tiger 
+PK-50,Muhammad Haroon Khan,ANP,Lantern 
+PK-50,Muhammad Atif,PTI,Bat 
+PK-50,Muhammad Zahid,Independent,Jeep 
+PK-50,Abdul Samad,AATPK,Chair 
+PK-50,Sayad Rahat Ali Shah,APML,Eagle 
+PK-50,Taj Ul Amin,MMA,Book 
+PK-50,Yousaf Zaman,QWP,Oil Lamp 
+PK-1,Amir Ullah,Independent,Chitrali Cap 
+PK-1,Wazir Khan,Independent,Revolver 
+PK-1,Misbah ud Din,Independent,Binoculars 
+PK-1,Ghulam Muhammad,PPPP,Arrow 
+PK-1,Atta Ullah,PSP,Dolphin 
+PK-1,Abdul Wali Khan Abid,PML N,Tiger 
+PK-1,Abdur Rehman,Independent,Apple 
+PK-1,Shahzada Aman Ur Rehman,Independent,Pitcher 
+PK-1,Shafiq Ur Rehman,Independent,Pickup 
+PK-1,Syed Sardar Husain Shah,Independent,Study Table with Chair 
+PK-1,Sohrab Khan,APML,Eagle 
+PK-1,Saadat Hussain Makhfi,Independent,Jeep 
+PK-1,Sardar Ahmad Khan,ANP,Lantern 
+PK-1,Siraj ud Din,PRHP,Iron 
+PK-1,Israr-ud-Din,PTI,Bat 
+PK-1,Hidayat ur Rehman,MMA,Book 
+PK-47,Ajmali Khan,Independent,Charpai 
+PK-47,Muhammad Fayaz,Independent,Thermos 
+PK-47,Ali Raza,APML,Eagle 
+PK-47,Irfan Ullah,PTI N,Batsman 
+PK-47,Shehram Khan,PTI,Bat 
+PK-47,Shehzad Ali khan,Independent,Pitcher 
+PK-47,Rahman Ali,QWP,Oil Lamp 
+PK-47,Ameer Rahmna,ANP,Lantern 
+PK-47,Ajaz Akram Bacha,PML N,Tiger 
+PK-47,Nisar Ali Khan,JUI (Nazryat),Takhti 
+PK-62,Ameer Alam Khan,MMA,Book 
+PK-62,Muhammad Nehaal,PML N,Tiger 
+PK-62,Muhammad Altaf-ud-Din,Independent,Jeep 
+PK-62,Muhammad Idrees,PTI,Bat 
+PK-62,Fazal Mehmood,Independent,Thermos 
+PK-62,Zafar Ullah,Independent,Sun Flower 
+PK-62,Dedaar-ud-Din,Independent,Table Tennis Bat 
+PK-62,Khalil Abbas,ANP,Lantern 
+PK-62,Peer zaman Khatak,Independent,Apple 
+PK-62,Bibi Saeeda,Independent,Transformer 
+PK-62,Baseer Ahmad Khatak,PPPP,Arrow 
+PK-62,Malik Shah Pasand Khan,TLP,Crane 
+PK-51,Imtiaz Bibi,QWP,Oil Lamp 
+PK-51,Amir Farzand Khan,PTI,Bat 
+PK-51,Bakhtawar Khan,PPPP,Arrow 
+PK-51,Haris Khan Toru,Independent,Wrist Watch 
+PK-51,Himayatullah Mayar,ANP,Lantern 
+PK-51,khan Badshah,TLP,Crane 
+PK-51,Syed Kamal,Independent,Parrot 
+PK-51,Maulana Israr Ul Haq,MMA,Book 
+PK-51,Noor Muhammad,PML N,Tiger 
+PK-14,Bakhat Baidar,PPPP,Arrow 
+PK-14,Mian Said Nabi Bakhsh,QWP,Oil Lamp 
+PK-14,Muhammad Ibrahim,TLP,Crane 
+PK-14,Ubaid Ullah Anwar,PRHP,Iron 
+PK-14,Zia Ud Din,AATPK,Chair 
+PK-14,Said Ghani,PML N,Tiger 
+PK-14,Zakir Ullah Khan,MMA,Book 
+PK-14,Haider Ali,Independent,Jeep 
+PK-14,Hussain Shah,ANP,Lantern 
+PK-14,Jamil Ahmad,Independent,Calendar 
+PK-14,Hamayun Khan,PTI,Bat 
+PK-16,Izaz Ul Mulk,MMA,Book 
+PK-16,bahadar khan,ANP,Lantern 
+PK-16,Sarbiland Khan,PTI,Bat 
+PK-16,Zia ul Haq,PRHP,Iron 
+PK-16,Abdul Rahman Khan,PML N,Tiger 
+PK-16,Muhammad iqbal,PPPP,Arrow 
+PK-16,Muhammad Huzaifa,Independent,Fan 
+PK-11,Amir Zaman Khan,ANP,Lantern 
+PK-11,Azam Khan,MMA,Book 
+PK-11,Badshah Rawan,APML,Eagle 
+PK-11,Hayat Khan,PML N,Tiger 
+PK-11,Sahib Zada Sana Ullah,PPPP,Arrow 
+PK-11,Malik Fakhar Hayat Khan,PTI,Bat 
+PK-66,Arbab Shehryar Khan,Independent,Transformer 
+PK-66,Mehmood Jaan,PTI,Bat 
+PK-66,Muhammad Hashim Babar,QWP,Oil Lamp 
+PK-66,Liaquat Ali khan,ANP,Lantern 
+PK-66,Kiramat Ullah khan,PPPP,Arrow 
+PK-66,Saif Ullah khan,JUI (S),Ladder 
+PK-66,Syed Liaquat Hussain Shah,PML N,Tiger 
+PK-66,Syed Abbas Ali Shah,TJP,Laptop 
+PK-66,Hasmat Khan,MMA,Book 
+PK-66,Wisal Khan,Independent,Generator 
+PK-77,Bilal Muhammad,PJDP,Gavel 
+PK-77,Naseer Hussain,Independent,Ice Cream 
+PK-77,Muhammad Nawab Ali,Independent,Roller of Wood 
+PK-77,Muhammad Umar khan,ANP,Lantern 
+PK-77,Muhammad Adeel,QWP,Oil Lamp 
+PK-77,Gul Rahman,PP,Balloons 
+PK-77,Kamran Khan Bangesh,PTI,Bat 
+PK-77,Abid Nawaz Khan Durrani,APML,Eagle 
+PK-77,Taif JAn,TJP,Laptop 
+PK-77,saima shahzad,TLP,Crane 
+PK-77,Syed Zahir Ali Shah,PPPP,Arrow 
+PK-77,Khair Ul Bashar,MMA,Book 
+PK-77,Haider Zaman,AATPK,Chair 
+PK-77,Hassan Mehmood Jan,PML N,Tiger 
+PK-77,Noor Hussain,ATP,Tyre 
+PK-96,Ahmad Kundi,PPPP,Arrow 
+PK-96,Najeed Ullah Khan,JUI (Nazryat),Takhti 
+PK-96,Muhammad Waseem Khan,PML N,Tiger 
+PK-96,Muhammad Shafiq-ul-Hai,Independent,Gun 
+PK-96,Gul Din Khan,Independent,King 
+PK-96,Faisal Kareem Kundi,Independent,Water Cooler 
+PK-96,Thair Waseem,Independent,Pitcher 
+PK-96,Tariq Rahim kundi,PTI,Bat 
+PK-96,Shero Ullah Khan,ANP,Lantern 
+PK-96,Shah Jahan,Independent,Fridge 
+PK-96,Syed Hassain Mohy ud Din,Independent,Jeep 
+PK-96,Sami Ullah Alizai,Independent,Bucket 
+PK-96,SardarAbdul Haleem Qasuria,MMA,Book 
+PK-96,Hameed Ullah Khan Qadri,Independent,Kettle 
+PK-96,Arshad Illahi,TLP,Crane 
+PK-96,Noor Sat Khan,Independent,Sparrow 
+PK-43,Asif Kareem Khan,JUI (Nazryat),Takhti 
+PK-43,Muhammad Aqeel farooqi,Independent,Stethoscope 
+PK-43,Muhammad Sheraz,PML N,Tiger 
+PK-43,Muhammad Jamil,JUI (S),Ladder 
+PK-43,Muhammad Ishfaq,PPPP,Arrow 
+PK-43,Faisal Khan,ANP,Lantern 
+PK-43,Abdul Hafeez,Independent,Pitcher 
+PK-43,Zahoor Muhammad,Independent,Fan 
+PK-43,Zia Ullah Khan,QWP,Oil Lamp 
+PK-43,Shamsul Qamar,Independent,Jug 
+PK-43,Sarfraz Khan Jadoon,Independent,Charpai 
+PK-43,Sajjad Khan Jadoon,MMA,Book 
+PK-43,Rangez Ahmad,PTI,Bat 
+PK-43,Rizwan Ullah,Independent,Gun 
+PK-43,Hakim khan,AWP,Bulb 
+PK-43,Javed Zaman Khan,Independent,Jeep 
+PK-43,Aurang Sher,JPP,Fountain 
+PK-43,Irshad Ahmad,Independent,Thermos 
+PK-43,Muzakkir Shah,Independent,Kettle 
+PK-89,Asghar Ali,Independent,Kettle 
+PK-89,Naeem Khan,Independent,Ox 
+PK-89,Mehr Sultana,PPPP,Arrow 
+PK-89,Malik DIlnawaz Khan,Independent,House 
+PK-89,Muhammad Idress,Independent,Leaf 
+PK-89,Umarzali Khan,Independent,Thermos 
+PK-89,Umer Jan,Independent,Hud Hud 
+PK-89,Adnan Khan,QWP,Oil Lamp 
+PK-89,Abdul Wali Khan,Independent,Human Eye 
+PK-89,Safdar Iqbal Shah,Independent,Scooter 
+PK-89,Sahib Zaman,Independent,Charpai 
+PK-89,Sherin Malik,MMA,Book 
+PK-89,Shah Muhammad Khan,PTI,Bat 
+PK-89,Hizbullah,Independent,Hanger 
+PK-89,Hamid Shah,Independent,Apple 
+PK-89,Tehsil Khan,Independent,Jeep 
+PK-89,Waqar Khan,Independent,Transformer 
+PK-91,Akhtar Munir Marwat,Independent,Revolver 
+PK-91,Najeeb Ullah Khan,Independent,Fan 
+PK-91,Munawar Khan,MMA,Book 
+PK-91,Mansoor Kamal Marwat,Independent,Pencil 
+PK-91,MOhib Ullah Khan,Independent,Calendar 
+PK-91,Qudrat Ullah Khan,Independent,Gun 
+PK-91,Farman Ullah Khan,Independent,Green Chilli 
+PK-91,Farzana Sherin,PPPP,Arrow 
+PK-91,Ali Muhammad Khan,Independent,Goat 
+PK-91,Atta Ur Rehman,Independent,Apple 
+PK-91,Aziz Khan,Independent,Suitcase 
+PK-91,Abdul Halim,Independent,Pitcher 
+PK-91,Sher Afzal Khan,Independent,Waist Coat 
+PK-91,Haji Jamil Ur Rehman Nasir,Independent,Human Eye 
+PK-91,Johr Muhammad,PTI,Bat 
+PK-91,Amir Nawaz Khan,Independent,Pickup 
+PK-91,Waheed Aslam Khan,TLP,Crane 
+PK-39,Asif Zubair sheikh,Independent,Pickup 
+PK-39,Mushtaq Ahmad Ghani,PTI,Bat 
+PK-39,Muhammad Safdar,Independent,Lock 
+PK-39,Muhammad Amjad Khan,MMA,Book 
+PK-39,Qasma Shaheen,TLP,Crane 
+PK-39,Inayatullah Khan Jadoon,PML N,Tiger 
+PK-39,Umair Anwar,AATPK,Chair 
+PK-39,Shafiq ur Rehman,PPPP,Arrow 
+PK-39,Syed Karar Hussain Shah,Independent,Sun Flower 
+PK-39,Syed Shah Faisal,Independent,Kettle 
+PK-39,Syed Shahid Raza,ANP,Lantern 
+PK-39,Zulfiqar Ali,QWP,Oil Lamp 
+PK-39,AMJad Jadoon,Independent,Round Table 
+PK-39,Ejaz Ahmad,Independent,Pitcher 
+PK-39,Wasim Khan,Independent,Bowl 
+PK-95,Ihtsham Jawad,Independent,Pitcher 
+PK-95,Noman Akbar Khan,TLP,Crane 
+PK-95,Makhdoom Syed Murid Kazim Shah,Independent,Kettle 
+PK-95,Mukhdoomzada Mujtabul Hassan Shah,Independent,Revolver 
+PK-95,Makhdoomzada Muhammad Aftab Haider,ANP,Lantern 
+PK-95,Makhdoomzada Syed Mushtaq Hussain,Independent,Tandoor 
+PK-95,Muhammad Naeem Khan,Independent,Cricket Stumps 
+PK-95,Muhammad Javed Khan,PML N,Tiger 
+PK-95,Obaid-ur-Rehman,Independent,Jug 
+PK-95,Abdul Wajid,Independent,Charpai 
+PK-95,Abdul Karim,Independent,Thermos 
+PK-95,Syed Muhammad Najaf Ali Shah,PPPP,Arrow 
+PK-95,Syed Pir Hanif Shah,Independent,Apple 
+PK-95,Salman Javed Khan,Independent,Water Cooler 
+PK-95,Hameed Ullah Khan Qadri,Independent,Jeep 
+PK-95,Ehsanullah,Independent,Bucket 
+PK-95,MAKHDOMZADA SYED JAVED UL HASSAN,Independent,Lock 
+PK-41,Arshad Ayub Khan,PTI,Bat 
+PK-41,Raja Faisal Zaman,PML N,Tiger 
+PK-41,Raja Muhammad Javed,PPPP,Arrow 
+PK-41,Saira Syed,ANP,Lantern 
+PK-41,Sardar Muhammad Mushtaq Khan,Independent,Bucket 
+PK-41,Abid Mukhtar Choudhary,Independent,Jeep 
+PK-41,Aadil Hameed,PML,Tractor 
+PK-41,Farzana Rehan,MMA,Book 
+PK-41,Nasrullah Khan,TLP,Crane 
+PK-94,Ahmad Habib Ullah Khan Kundi,Independent,Basket 
+PK-94,Muhammad Dilawar Khan Kundi,Independent,Street Light 
+PK-94,Faisal Kareem Kundi,Independent,Scooter 
+PK-94,Gulam QAdir Khan,ANP,Lantern 
+PK-94,Irfan Ullah Khan Kundi,PTI,Bat 
+PK-94,Abdul Malik,Independent,Sun Flower 
+PK-94,Shah Fahad Ansari,PPPP,Arrow 
+PK-94,Sami Ullah Khan Burki,PML N,Tiger 
+PK-94,Saeed Ahmad,Independent,Match Box 
+PK-94,Bilal Khan,Independent,Lock 
+PK-94,Inam Ullah Khan,Independent,Bell 
+PK-94,Aman Ullah Khan,Independent,Jeep 
+PK-94,Muhammad Ramzan,Independent,Fan 
+PK-45,Amjad Ali Khan,ANP,Lantern 
+PK-45,Muhammad Naseem,TLP,Crane 
+PK-45,Muhammad Farooq khan,Independent,Thermos 
+PK-45,Muhammad Amin,MMA,Book 
+PK-45,Fazal Adnan Khan,Independent,Charpai 
+PK-45,Fazal Akram,Independent,Jeep 
+PK-45,Abdul Karim,PTI,Bat 
+PK-45,Sikandar Irfan,PPPP,Arrow 
+PK-45,Sardar Ali,Independent,Fan 
+PK-45,Sajjad Ali,Independent,Persian Wheel 
+PK-45,Hameed khan,QWP,Oil Lamp 
+PK-45,Nawab Zada,PML N,Tiger 
+PK-56,Ahmad Shah,PMAP,Tree 
+PK-56,Manzoor Ahmad,Independent,Bottle 
+PK-56,Maaz ullah,PPPP,Arrow 
+PK-56,Muhammad Yasin,Independent,Apple 
+PK-56,Muhammad Yasir Amin,ANP,Lantern 
+PK-56,Gohar Ali,MMA,Book 
+PK-56,Fayaz Ali,Independent,Fan 
+PK-56,Umara Khan,PJDP,Gavel 
+PK-56,Soba Dar Khan,Independent,Charpai 
+PK-56,Sheraz Hassan,PML N,Tiger 
+PK-56,Sikandar Hayat Khan,QWP,Oil Lamp 
+PK-56,Khalid Khan,PTI,Bat 
+PK-56,Humayun Khattak,Independent,Jeep 
+PK-48,Jawad Khan Baizai,PPPP,Arrow 
+PK-48,Hafiz Akhter Ali,MMA,Book 
+PK-48,Sikandar Hayat,PML N,Tiger 
+PK-48,Shahab Ullah,Independent,Match Box 
+PK-48,Muhammad Khitab Badshah,Independent,Thermos 
+PK-48,Muhammad Farooq Khan,ANP,Lantern 
+PK-48,Muhammad Shaukat Ali,PTI,Bat 
+PK-52,Arsallah Khan HOti,PML N,Tiger 
+PK-52,Babar Khan Yousafzai,QWP,Oil Lamp 
+PK-52,Rehana Bibi,AWP,Bulb 
+PK-52,Sikandar Khan,TLP,Crane 
+PK-52,Muhammad Aurangzeb khan Hoti,PPPP,Arrow 
+PK-52,Muhammad Zahir Shah,PTI,Bat 
+PK-52,Nishtar Khan,Independent,Pomegranate 
+PK-52,ALI KHAN,ANP,Lantern 
+PK-52,AMANAT SHAH HAQANI,MMA,Book 
+PK-60,Babar Ali Khan,QWP,Oil Lamp 
+PK-60,Muhammad Arif,PTI,Bat 
+PK-60,Muhammad Shoaib,PRHP,Iron 
+PK-60,Musamir Shah,MMA,Book 
+PK-60,Gul Zada Khan,Independent,Jeep 
+PK-60,Farah khan,PML N,Tiger 
+PK-60,Irfan Ali,TJP,Laptop 
+PK-60,Syed Zahid Ali Shah,Independent,Apple 
+PK-60,Rajeed Ullah,APML,Eagle 
+PK-60,Hameed Ullah,Independent,Thermos 
+PK-60,Hussain Khan,Independent,Bullock Cart 
+PK-60,Javed Iqbal Khan,PPPP,Arrow 
+PK-60,Mirajud Din,ANP,Lantern 
+PK-80,Aftab Alam Afridi,PTI,Bat 
+PK-80,Amjid Khan Afridi,Independent,Apple 
+PK-80,Javed Iqbal,Independent,Ghulail 
+PK-80,Jamila Paracha,PML N,Tiger 
+PK-80,Khalid Mehmood,PRHP,Iron 
+PK-80,Zaewali Shah,TLP,Crane 
+PK-80,Shaukat Habib,MMA,Book 
+PK-80,Abdul Shakoor Khan,PPPP,Arrow 
+PK-80,Muhammad Ihsan Ullah,Independent,Stethoscope 
+PK-86,wahid Ullah,Independent,Jeep 
+PK-86,NASEEB ULLAH,Independent,Pickup 
+PK-86,MANSOOR AHMED,Independent,Transformer 
+PK-86,MALIK QASIM KHAN KHATTAK,PTI,Bat 
+PK-86,MUHAMMAD HAROON,Independent,Fan 
+PK-86,MUHAMMAD SAEED NAWAZ,Independent,Apple 
+PK-86,IMMAD AZAM,Independent,Cricket Stumps 
+PK-86,ARIF KHAN,Independent,Bed 
+PK-86,ABDUL BARI,Independent,Kettle 
+PK-86,ZAFAR AZAM,MMA,Book 
+PK-86,ZIA UL MALIK,QWP,Oil Lamp 
+PK-86,SAJJAD AHMED,ANP,Lantern 
+PK-86,ZAR GUL KHAN,Independent,Gun 
+PK-86,DIL FARAZ KHAN,PSP,Dolphin 
+PK-86,HAMOOD UR REHMAN,Independent,Study Table with Chair 
+PK-86,JAHANZAIB KHAN,PPP,Sword 
+PK-86,Yar Muhammad,Independent,Hen 
+PK-86,WAHID IQBAL,JUI (Nazryat),Takhti 
+PK-49,Arshad HUssain,MQM Pakistan,Kite 
+PK-49,Muhammad Ibrahim Biland,MMA,Book 
+PK-49,Adnan Khan,Independent,Fan 
+PK-49,Abdul Manan,TLP,Crane 
+PK-49,Tufail Anjum,PTI,Bat 
+PK-49,Tariq Saleem,PML N,Tiger 
+PK-49,Zameer Gul,TJP,Laptop 
+PK-49,Shah Rukh Aman Khan,ANP,Lantern 
+PK-49,Khaist Begum,PPPP,Arrow 
+PK-49,Javed Khan,Independent,Scooter 
+PK-49,Muhammad Zahir,Independent,Bucket 
+PK-70,Jan Afzal,MMA,Book 
+PK-70,Khush Dil Khan Advocate,ANP,Lantern 
+PK-70,Rajmali Khan,APML,Eagle 
+PK-70,Shah Farman,PTI,Bat 
+PK-70,Shahid Khan,PML N,Tiger 
+PK-70,Ghazanfar Ali,PPPP,Arrow 
+PK-70,Muhammad Daud Khan Barki,Independent,Apple 
+PK-70,Muhammad Shafiq,TLP,Crane 
+PK-70,Niaz Ur Rehman Khan Momand,QWP,Oil Lamp 
+PK-98,Alhaj Sardar Umar Farooq Khan,Independent,Newspaper 
+PK-98,Muhammad Fazal Rehman,Independent,Charpai 
+PK-98,Muhammad Aamir,Independent,Pitcher 
+PK-98,Lutaf Ur Rehman,MMA,Book 
+PK-98,Fakher Ullah Khan,Independent,Bucket 
+PK-98,Ubaid Ur Rahman,Independent,Gun 
+PK-98,Andul Rauf,JUI (Nazryat),Takhti 
+PK-98,Sultan Muhammad Din,TLP,Crane 
+PK-98,Saeed Ahmad Mushtaq,Independent,Pomegranate 
+PK-98,Khursheed Bibi,PML N,Tiger 
+PK-98,Khalid Salim,PTI,Bat 
+PK-98,Amir Ahmad,Independent,Goat 
+PK-98,Malik Raza Muhammad,Independent,Jeep 
+PK-81,Asif Saif Ullah Khan,PPPP,Arrow 
+PK-81,Umar Saddiq,Independent,Bowl 
+PK-81,Asmatullah Khan,Independent,Pitcher 
+PK-81,Abdul Samood,Independent,Human Eye 
+PK-81,Shah Dad Khan,MMA,Book 
+PK-81,Zahid Ali Shah,Independent,Scooter 
+PK-81,Tahseen Ahmad,JUI (S),Ladder 
+PK-81,Amin Shah,PHRP,Umbrella 
+PK-81,Imtiaz Shahid,PTI,Bat 
+PK-81,Akbar Jan,Independent,Slate 
+PK-81,Iqbal Din,Independent,Fan 
+PK-81,Iftikhar Ud Din,ANP,Lantern 
+PK-81,SHAHBAZ KHAN,PRHP,Iron 
+PK-82,Badshah Gul,ANP,Lantern 
+PK-82,Muhammad Fayaz,Independent,Fan 
+PK-82,Muhammad Janan Niaza,Independent,Gun 
+PK-82,Asmat Ullah Khan,PRHP,Iron 
+PK-82,Syed Majid Falook,Independent,Butterfly 
+PK-82,Syed Qalb e Hassan,MMA,Book 
+PK-82,Syed Iftikhaar Hussain Shah,Independent,Sun Flower 
+PK-82,Jamila Paracha,PML N,Tiger 
+PK-82,Peer Adil Shah,PPPP,Arrow 
+PK-82,ZIA ULLAH KHAN,PTI,Bat 
+PK-28,Javaid khan,QWP,Oil Lamp 
+PK-28,Zubair Khan,PTI,Bat 
+PK-28,Sardar Ullah Khan,Independent,Jeep 
+PK-28,Shah Hussain Khan,MMA,Book 
+PK-28,Ghulam Ullah,Independent,Corn 
+PK-28,Muhammad Arshad Khan,ANP,Lantern 
+PK-28,Muhammad Akram Khan,PML N,Tiger 
+PK-28,MUHAMMAD NAEEM KHAN,PPPP,Arrow 
+PK-79,Arbab Akbar Nawaz Khan,Independent,Binoculars 
+PK-79,Malik Naushad Khan,MMA,Book 
+PK-79,Lal Zaman,Independent,Apple 
+PK-79,Fazal Ilahi,PTI,Bat 
+PK-79,Ghulam Haider Khan,QWP,Oil Lamp 
+PK-79,Umar Khittab,PPPP,Arrow 
+PK-79,Abdul Jabbar,ANP,Lantern 
+PK-79,Shujat Khan,Independent,Pickup 
+PK-79,Syed Noor Ullah Shah,TJP,Laptop 
+PK-79,Raees Khan,PML N,Tiger 
+PK-79,Khalid Ahmad,Independent,Cricket Stumps 
+PK-79,Hujjat Ullah,TLP,Crane 
+PK-79,Surayya Shahab,Independent,Bell 
+PK-79,Wakeel Khan,APML,Eagle 
+PK-73,Asad Khan,Independent,Pitcher 
+PK-73,Matiullah,Independent,Telephone 
+PK-73,Muhammad Nadir Khan,AAP,Wheat Bunch 
+PK-73,Muhammad Siddiq,Independent,Pickup 
+PK-73,Muhmaad Shaukat Khurshid,Independent,Apple 
+PK-73,Muhammad Saleem Akhtar Durrani,ANP,Lantern 
+PK-73,Falak Niaz Khalil,QWP,Oil Lamp 
+PK-73,Farhad Ali,PML N,Tiger 
+PK-73,Shabir Ahmad,ATP,Tyre 
+PK-73,Khalid Masood,Independent,Pencil 
+PK-73,Khalid Mehmood,Independent,Thermos 
+PK-73,Haibat Ullah,TJP,Laptop 
+PK-73,Taimur Saleem Khan,PTI,Bat 
+PK-73,Amanullah,MMA,Book 
+PK-73,Yaseen Khan,PPPP,Arrow 
+PK-74,Arbab Zarak Khan,PPPP,Arrow 
+PK-74,Pir Fida Muhammad,PTI,Bat 
+PK-74,Syed Haider Shah,PML N,Tiger 
+PK-74,Abdul Raheem,Independent,Pencil 
+PK-74,Atiq Ur Rehman,MMA,Book 
+PK-74,Kaleem Ullah,AATPK,Chair 
+PK-74,Muhammad Ibrar,ANP,Lantern 
+PK-75,Asif Ullah,Independent,Ice Cream 
+PK-75,Wajid Ullah Khan,PTI,Bat 
+PK-75,Misbah ud Din,PPPP,Arrow 
+PK-75,Muhammad Waqar,Independent,Computer 
+PK-75,Qamar Zaman,PML N,Tiger 
+PK-75,Zafar Ali,AATPK,Chair 
+PK-75,Tahir Wahab,Independent,Pomegranate 
+PK-75,Safdar Khan,Independent,Combat Tank 
+PK-75,Shakeel Ali Shah,TLP,Crane 
+PK-75,Syed Aqil Shah,ANP,Lantern 
+PK-75,Radesh,Independent,Jug 
+PK-75,Changez Khan,Independent,Table 
+PK-75,Arbab Muhammad Farooq Jan,MMA,Book 
+PK-75,Ahmad Khan,JUI (Nazryat),Takhti 
+PK-75,Ibrahim Khan,PRHP,Iron 
+PK-75,Wahid Khan,APML,Eagle 
+PK-67,Asif Iqbal Daudzai,MMA,Book 
+PK-67,Malik Naseem Ahmad Khan,ANP,Lantern 
+PK-67,Muhammad Alam,Independent,Flower Pot 
+PK-67,Muhammad Shafi,QWP,Oil Lamp 
+PK-67,Muhammad Asghar Khan,Independent,Transformer 
+PK-67,Liaquat Ali khan,Independent,Human Eye 
+PK-67,Fazal Ullah,PML N,Tiger 
+PK-67,Shehzad Khan,Independent,Jeep 
+PK-67,Syed Abdul Wahab,Independent,Hen 
+PK-67,Saleem Khan,Independent,Sewing Machine 
+PK-67,Raza Ullah Khan,PPPP,Arrow 
+PK-67,Aurangzeb Khan,TJP,Laptop 
+PK-67,Insaf Khan,Independent,Apple 
+PK-67,Arbab Muhammad Wasim Khan,PTI,Bat 
+PK-67,Noor Akbar,Independent,Computer 
+PK-36,Iftikhar Ahmad Abbasi,Independent,Pickup 
+PK-36,Nazir Ahmad Abbasi,PTI,Bat 
+PK-36,Muhammad Kamran Abbasi,Independent,Mountain 
+PK-36,Muhammad Anwar Abbasi,Independent,Goat 
+PK-36,Fazl-e-Hadi Iftikhar Abbasi,Independent,Bench 
+PK-36,Imran Khan,Independent,Excavator 
+PK-36,Abdullah,PRHP,Iron 
+PK-36,Shabir Ahmad,Independent,Pitcher 
+PK-36,Syed Naseer Hussain Shah,Independent,Bucket 
+PK-36,Sardar Manzoor Mumtaz Abbasi,PPPP,Arrow 
+PK-36,Sardar Farid Ahmad Khan,Independent,Jeep 
+PK-36,Sajid Quresh Khan,MMA,Book 
+PK-36,Robina Zahid,ANP,Lantern 
+PK-36,Rajab Ali Khan Abbasi,Independent,Fan 
+PK-36,Rashid Yaqoob,TSH,Truck 
+PK-36,Zulfiqar Ali Abbasi,TLP,Crane 
+PK-36,Hamayun Abdur Rehman Abbasi,Independent,Lock 
+PK-93,Insan Ullah Khan,Independent,Human Eye 
+PK-93,Faheem Ullah,ATP,Tyre 
+PK-93,Qareeb Ullah Khan,PML N,Tiger 
+PK-93,Kernel Khan,Independent,Scooter 
+PK-93,Muhammad Waqas Khan,Independent,Suitcase 
+PK-93,Mashal Khan,PPPP,Arrow 
+PK-93,Mansoor Ahmad,Independent,Pencil 
+PK-93,Munawar Khan,Independent,Jeep 
+PK-93,Mir Ajab Khan,Independent,Apple 
+PK-93,Ali Khan,Independent,Ox 
+PK-93,Zafar Ullah Khan,Independent,Wrist Watch 
+PK-93,Tariq Saeed,PTI,Bat 
+PK-93,Insan Ullah Khan,Independent,Bullock Cart 
+PK-93,Amir Zada Khan,QWP,Oil Lamp 
+PK-93,Inam Ullah Khan,Independent,Cricket Stumps 
+PK-93,Anwar Hayat Khan,MMA,Book 
+PK-93,Hafiz Hussain Ahmad,Independent,Charpai 
+PK-93,Riaz Ullah Khan,Independent,Gun 
+PK-93,Zareen Riaz,Independent,Ring 
+PK-93,Sadr Ud Din,ANP,Lantern 
+PK-93,Noor Ali Khan,TLP,Crane 
+PK-84,Adam Khan,Independent,Thermos 
+PK-84,Shama Jan,Independent,Fridge 
+PK-84,Shahzad khan,Independent,Apple 
+PK-84,Ghazi Jan,PPPP,Arrow 
+PK-84,Fazal Akbar,Independent,Still Camera 
+PK-84,Gulab Sher,Independent,Revolver 
+PK-84,Muhammad Asghar Khan,Independent,Fan 
+PK-84,Muhammad Zahoor,PTI,Bat 
+PK-84,Muhammad Abdullah,Independent,Pencil 
+PK-84,Malak Waheed Khan,PML N,Tiger 
+PK-84,Said Haider Ali Shah,ANP,Lantern 
+PK-84,Said Janan,Independent,Wrist Watch 
+PK-84,Zaman Noor Bakhsh,Independent,Tonga 
+PK-84,Akhtar Muneer Bangash,Independent,School Bag 
+PK-84,Irshad Nabi Bangash,Independent,Transformer 
+PK-84,Afrasiyab,Independent,Wheel Chair 
+PK-84,Aman Ullah,Independent,Bee 
+PK-84,Aman Ullah Khan,Independent,Jeep 
+PK-84,Jehan Zeb,MMA,Book 
+PK-84,Hussain Jalali,Independent,Sun Flower 
+PK-84,Hameed Shah,Independent,Flower Pot 
+PK-84,Rageen Shah,Independent,Chitrali Cap 
+PK-84,Hidayat ur Rehman,Independent,Match Box 
+PK-92,Ashraf Ali Khan,Independent,Fan 
+PK-92,Muhammad Idrees Khan,Independent,Calendar 
+PK-92,Muhammad Ayub Khan,ANP,Lantern 
+PK-92,Muhammad Jamal Khan,Independent,Butterfly 
+PK-92,Muhammad Kamal Khan,Independent,Cricket Stumps 
+PK-92,Malik Noor Arslan,Independent,Ice Cream 
+PK-92,Mansoor Kamal Marwat,Independent,Gun 
+PK-92,Naseemullah,Independent,Transformer 
+PK-92,Noor Saleem Malik,MMA,Book 
+PK-92,Fahimullah Khan,TLP,Crane 
+PK-92,Imran Nawab,Independent,Slate 
+PK-92,Inamullah Khan,Independent,Tap 
+PK-92,Bashir Ahmad,Independent,Feather 
+PK-92,Habib Ur Rehman,Independent,Suitcase 
+PK-92,Zafranullah,ATP,Tyre 
+PK-92,Sakhi Marjan,PPPP,Arrow 
+PK-92,Shahidullah,Independent,Pickup 
+PK-92,Saifullah Khan,Independent,Apple 
+PK-92,Zahir Shah,Independent,Parrot 
+PK-92,Hisham Inamullah Khan,PTI,Bat 
+PK-76,Arshad Khan,APML,Eagle 
+PK-76,Hidayat Ullah Khan,ANP,Lantern 
+PK-76,Muhammad Nadeem,PML N,Tiger 
+PK-76,Muhammad Zakir Shah,Independent,Jeep 
+PK-76,Gul Muhammad,Independent,Apple 
+PK-76,Fida Muhammad,Independent,Pencil 
+PK-76,Ali Muhammad,TJP,Laptop 
+PK-76,Alamzeb,Independent,Pickup 
+PK-76,Zia Ullah Afridi,PPPP,Arrow 
+PK-76,Hayat Ullah Khan,PJDP,Gavel 
+PK-76,Bah Rullah S/O Zaheer Ullah,Independent,Suitcase 
+PK-76,Bah Rullah S/O Sheikh Abdullah,MMA,Book 
+PK-76,Aurangzeb Khan,Independent,Wrist Watch 
+PK-76,Amjid Ali,QWP,Oil Lamp 
+PK-76,Asif Khan,PTI,Bat 
+PK-76,Asif Jan,Independent,Ice Cream 
+PK-76,ASIF IQBAL,Independent,Knife 
+PK-58,Ihsan Ullah Khan,MMA,Book 
+PK-58,Falak Niaz,TLP,Crane 
+PK-58,Farooq Shah,Independent,Hand Pump 
+PK-58,Abdur Rahman Khan,QWP,Oil Lamp 
+PK-58,Alam Khan,PPPP,Arrow 
+PK-58,Siddiq Ahmad,Independent,Pencil 
+PK-58,Sumaira Khan,PML N,Tiger 
+PK-58,Sultan Muhammad Khan,PTI,Bat 
+PK-58,Aimal Wali Khan,ANP,Lantern 
+PK-58,Yousaf Khan,Independent,Suitcase 
+PK-21,Sardar Ali Khan,Independent,Pitcher 
+PK-21,Sarzamin Khan,PIRP,Badge 
+PK-21,Syed Fakh-e-Jehan,PTI,Bat 
+PK-21,Talimand Khan,AWP,Bulb 
+PK-21,Qaisar Wali Khan,ANP,Lantern 
+PK-21,Nasar Ali,MMA,Book 
+PK-97,Aizad Nawaz Khan,PML N,Tiger 
+PK-97,Malik Mehrban,Independent,Jeep 
+PK-97,Malik Mushtaq Ahmad,MMA,Book 
+PK-97,Malik Muhammad Ramzan,Independent,Pencil 
+PK-97,Muhammad Khan,Independent,Goat 
+PK-97,Muhammad Altaf khan,JUI (Nazryat),Takhti 
+PK-97,Muhammad Arshad Nawaz,PJDP,Gavel 
+PK-97,Qayum Nawaz,PPPP,Arrow 
+PK-97,Qaizar Khan,Independent,Pitcher 
+PK-97,Ali Ameen Khan,PTI,Bat 
+PK-97,Abdul Latif,PRHP,Iron 
+PK-97,Khadim Hussain,Independent,Telephone 
+PK-97,Chaudhary Siraj Ud Din,MQM Pakistan,Kite 
+PK-97,Javed Imran,Independent,Lock 
+PK-97,Taimur Ali Khan,ANP,Lantern 
+PK-97,Malik NIsar Ahmad Thand,APML,Eagle 
+PK-83,Asif Rehman,Independent,Goat 
+PK-83,Mudasir Hussain,Independent,Jug 
+PK-83,Muhammad Tufail,Independent,Pencil 
+PK-83,Gul Sana DIn,Independent,Hammer 
+PK-83,Ubaid Ullah,MMA,Book 
+PK-83,Alam Zada,PP,Balloons 
+PK-83,Zafar Rehman,Independent,Pitcher 
+PK-83,Shah Faisal Khan,PTI,Bat 
+PK-83,Saif Ur Rehman,PML N,Tiger 
+PK-83,Syed Zahid Hussain Mian,Independent,Jeep 
+PK-83,Syed Hussain Ali Shah Al-Hussaini,ANP,Lantern 
+PK-83,Sultan Akbar,Independent,Parrot 
+PK-83,Ulfat Hussain,PPPP,Arrow 
+PK-83,Waad Ur Rehman Qureshi,Independent,Apple 
+PK-88,Akhtar Ali Shah,Independent,Apple 
+PK-88,Paktoon Yar Khan,PTI,Bat 
+PK-88,Javed Khan,Independent,Charpai 
+PK-88,Zahid Akram Durrani,MMA,Book 
+PK-88,SyedA Yasmeen Safdar,PPPP,Arrow 
+PK-88,Sher Muhammad Khan,Independent,Fan 
+PK-88,Irfan Ullah Khan,Independent,Jeep 
+PK-88,Farman Ullah Khan,QWP,Oil Lamp 
+PK-88,Muhammad Raees Khan,Independent,Transformer 
+PK-87,Islam Noor,JUI (S),Ladder 
+PK-87,Taimur Baz,ANP,Lantern 
+PK-87,Zahid Ullah Khan,PTI,Bat 
+PK-87,Sher Azam Khan,PPPP,Arrow 
+PK-87,Arab Khan,Independent,Sun Flower 
+PK-87,Fahim Ullah,QWP,Oil Lamp 
+PK-87,Kefayat Rasool Waizri,Independent,Medal 
+PK-87,Gul Azim Khan,MMA,Book 
+PK-87,Number Ali Khan,Independent,Charpai 

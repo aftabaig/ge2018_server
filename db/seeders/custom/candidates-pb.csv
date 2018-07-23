@@ -1,0 +1,956 @@
+constituency_id,candidate_name,party_abbreviation,symbol_name
+PB-36,Hafiz Muhammad Ibrahim Lehri,MMA,Book 
+PB-36,Mir Zafarullah Khan Zehri,BNP-A,Camel 
+PB-36,Mir Shafique ur Rehman,Independent,Rabbit 
+PB-36,Muhammad Anwer,Independent,Suitcase 
+PB-36,Abdullah Ali,PTI,Bat 
+PB-36,Abdul Rasool,BNP,Axe 
+PB-36,Shah Muhammad,JUI (Nazryat),Takhti 
+PB-36,Saifullah,Independent,Lock 
+PB-36,Rameen Rustam,BAP,Cow 
+PB-36,Hassan Ali Sasoli,Independent,Human Eye 
+PB-36,Mir Naimatullah Zehri,Independent,Spade 
+PB-13,Izhar hussain,Independent,Jeep 
+PB-13,Mahbul,ANP,Lantern 
+PB-13,Mir Baig,Independent,Wheel Chair 
+PB-13,Faiq Ali Jamali,BAP,Cow 
+PB-13,Ghulam Haider,BNP,Axe 
+PB-13,Umer Khan Jamali,PTI,Bat 
+PB-13,Ali Haider,Independent,Pitcher 
+PB-13,Attaullah,JUI (Nazryat),Takhti 
+PB-13,Abdul Majeed,MMA,Book 
+PB-13,Abdul Aziz Khosa,Independent,Fan 
+PB-13,Sain Bakhsh,PJDP,Gavel 
+PB-13,Zareena Gul,PPPP,Arrow 
+PB-13,Rahat Jamali,Independent,Bucket 
+PB-13,Khan Mohammad,PFP,Ship 
+PB-13,Habibullah,JQM,Electric Pole 
+PB-13,Ghanwar Ali,GDA,Star 
+PB-8,Aurangzeb Khetran,Independent,Gun 
+PB-8,Meer Nadir Shah,BNP-A,Camel 
+PB-8,Mir Shahjahan Khan Khetran,BAP,Cow 
+PB-8,Mir Zahid Shah,PFM,Date Tree 
+PB-8,Muhammad Tariq,PTI,Bat 
+PB-8,Abdul Majeed,BNP,Axe 
+PB-8,Abdul Kareem,NP,Saw 
+PB-8,Abdullah Jan,PMAP,Tree 
+PB-8,Shazia Shahjahan Khetran,Independent,Mobile Phone 
+PB-8,Sardar Abdul Rehman Khetran,Independent,Sewing Machine 
+PB-8,Rehmat Khan,JWP,Wheel 
+PB-8,Bibi Zohra,Independent,Knife 
+PB-8,Wadera Nazeer Ahmed,BNM,Sickle 
+PB-15,Ahmed Nawaz,PPPP,Arrow 
+PB-15,Nisar Ahmed,PTI,Bat 
+PB-15,Meer Hassan,PFP,Ship 
+PB-15,Muhammad Saddique,MMA,Book 
+PB-15,Muhammad Dauran,NP,Saw 
+PB-15,Qadir Bakhsh,Independent,Jug 
+PB-15,Abdul Aziz Khosa,Independent,Fan 
+PB-15,Saddam Hussain,BNP,Axe 
+PB-15,Sohrab Khan,Independent,Ox 
+PB-15,Saleem Ahmed,BAP,Cow 
+PB-15,Siraj Rehman,Independent,Goat 
+PB-15,Raheem Bakhsh Raja,Independent,Pitcher 
+PB-15,Nawabzada Shazain Bugti,JWP,Wheel 
+PB-20,Agha Syed Liaqat Ali,PMAP,Tree 
+PB-20,Sheer Muhammad Tareen,Independent,Goat 
+PB-20,Nizamuddin,Independent,Sewing Machine 
+PB-20,Zafar Ali,Independent,Pomegranate 
+PB-20,Abdul Hadi Tareen,Independent,Leaf 
+PB-20,Attiq ul Rehman,PML N,Tiger 
+PB-20,Lutfullah,Independent,Sun Flower 
+PB-20,Muhammad Raheem,Independent,Jeep 
+PB-20,Muhammad Zaman,Independent,Slate 
+PB-20,Shamsullah,Independent,Pickup 
+PB-20,Shakila Navid Qazi,BNP,Axe 
+PB-20,Syed Noor Ul Haq,Independent,Mobile Phone 
+PB-20,Aman Ullah,PTI,Bat 
+PB-20,Khalid Shah,Independent,Mountain 
+PB-20,Syed Jamal Abdul Nasir,PPPP,Arrow 
+PB-20,Syed Abdul Bari,ANP,Lantern 
+PB-20,Syed Abdul Salam,Independent,Apple 
+PB-20,Syed Muhammad Raheem Agha,BAP,Cow 
+PB-20,Syed Muhammad Ramzan,PRHP,Iron 
+PB-20,Syed Muhammad Fazal Agha,MMA,Book 
+PB-20,Naseeb Ullah,Independent,Printer 
+PB-34,Allah Bakhsh,JUI (Nazryat),Takhti 
+PB-34,Mir Rehmatullah,Independent,Ox 
+PB-34,Muhammad Arif,Independent,Jeep 
+PB-34,Mabat Khan,Independent,Parrot 
+PB-34,Abdul Waheed,Independent,Gun 
+PB-34,Sardar Zada Sadat,AATPK,Chair 
+PB-34,Haji Arz Muhammad Barech,Independent,Goat 
+PB-34,Taj Muhammad,Independent,Hud Hud 
+PB-34,Bahadur Shah,TLI,Cannon 
+PB-34,Balach Khan,PPPP,Arrow 
+PB-34,Amanullah Notezai,PTI,Bat 
+PB-34,Amanullah,BAP,Cow 
+PB-34,Najeebullah,MMA,Book 
+PB-33,Aurangzaib,Independent,Jeep 
+PB-33,Mujeeb Ur Rehman,Independent,Sewing Machine 
+PB-33,Muhammad Ayub,BNP-A,Camel 
+PB-33,Muhammad Akram,Independent,Suitcase 
+PB-33,Muhammad Rahim,BNP,Axe 
+PB-33,Muhammad Naeem,Independent,Computer 
+PB-33,Manzoor Ahmed,Independent,Pitcher 
+PB-33,Mir Ahmed Khan Mengal,Independent,Sun Flower 
+PB-33,Mir Ghulam Dastagir Badini,BAP,Cow 
+PB-33,Mir Muhammad Ishaq,Independent,Hud Hud 
+PB-33,Fazal Ur Rehman,AATPK,Chair 
+PB-33,Fazal Ur Rehman,Independent,Apple 
+PB-33,Aziz Ahmed,Independent,Wheel Barrow 
+PB-33,Sana Ullah,Independent,Pickup 
+PB-33,Changaiz Khan,PTI,Bat 
+PB-33,Khair Bakhsh,NP,Saw 
+PB-33,Remat Ullah,JWP,Wheel 
+PB-33,Sher Muhammad,Independent,Bucket 
+PB-33,Abdul Haye,MMA,Book 
+PB-33,Abdul Rauf,PML N,Tiger 
+PB-33,Abdul Waheed,Independent,Gun 
+PB-33,Fida Ur Rehman,JUI (Nazryat),Takhti 
+PB-33,Wazir Khan Mengal,Independent,Rabbit 
+PB-22,Jalaluddin,AATPK,Chair 
+PB-22,Mohammad Hashim Khan,Independent,Door 
+PB-22,Muhammad Nawaz,MMA,Book 
+PB-22,Mohammad Shafey,Independent,Roots 
+PB-22,Mohammad Anwar,JUI (Nazryat),Takhti 
+PB-22,Muhammad Akbar,ANP,Lantern 
+PB-22,Abdul Majeed Khan,PMAP,Tree 
+PB-22,Abdul Khaliq,BNP,Axe 
+PB-22,Abdul Bari,BAP,Cow 
+PB-22,Sadeeq,PPPP,Arrow 
+PB-22,Sirajuddin,Independent,Basket 
+PB-22,Ahmed Khan,Independent,Fort 
+PB-22,Muhammad Hashim Khan,Independent,Apple 
+PB-3,Hamid Ullah,JUI (S),Ladder 
+PB-3,Nawabzada Muhammad Ashraf Jogezai,Independent,Suitcase 
+PB-3,Nawabzada Sher Shah Khan Jogezai,BAP,Cow 
+PB-3,Mulana Noor Ullah,MMA,Book 
+PB-3,Malik Aman Ullah Mehterzai,JUI (Nazryat),Takhti 
+PB-3,Khudai Dad Kakar,BNP,Axe 
+PB-3,Muhammad Naseem,ANP,Lantern 
+PB-3,Muhammad Amin Khan Jogezai,Independent,Wrist Watch 
+PB-3,Sardar Muhammad Akram Kakar,Independent,Slate 
+PB-3,Roshan Khan,PTI,Bat 
+PB-3,Rehmat Ullah,Independent,Pitcher 
+PB-3,Nawab Muhammad Ayaz Khan Jogezai,PMAP,Tree 
+PB-2,Jaffar Khan Mandokhail,PML,Tractor 
+PB-2,Saif Ur Rehman Mardanzai,PPPP,Arrow 
+PB-2,Sohrab Khan,Independent,Sharpener 
+PB-2,Raza Muhammad Raza,PMAP,Tree 
+PB-2,Haji Jamal Shah Kakar,PML N,Tiger 
+PB-2,Noor ul Amin,Independent,Basket 
+PB-2,Mehmood Khan Mandokhail,Independent,Jeep 
+PB-2,Muhammad Nawaz,Independent,Kettle 
+PB-2,Muhammad Anwar Mandokhail,ANP,Lantern 
+PB-2,Muhammad Aslam Mandokhail,Independent,Pickup 
+PB-2,Shah Zaman Kakar,Independent,Road Roller 
+PB-2,Shehbaz Khan Mandokhail,BAP,Cow 
+PB-2,Samad Khan,PTI,Bat 
+PB-2,Bibi Jamila,Independent,Suitcase 
+PB-2,Baz Khan,Independent,Match Box 
+PB-2,Anwar Jan Kibzai,Independent,Teapot 
+PB-2,Ameer Ullah Khan,Independent,Charpai 
+PB-2,Gulab Khan,MMA,Book 
+PB-2,Abdullah Khan,Independent,Slate 
+PB-2,Abdul Raheem Mandokhail,Independent,Brick 
+PB-2,Abdul Raheem,Independent,Pomegranate 
+PB-2,Abdul hameed,JUI (Nazryat),Takhti 
+PB-2,Mitha Khan Kakar,Independent,Bunch of Grapes 
+PB-1,Muhammad Ishaq Shah Mufakir,Independent,Kettle 
+PB-1,Abdul hameed,JUI (Nazryat),Takhti 
+PB-1,Zahir Khan,PPPP,Arrow 
+PB-1,Shair Hassan,Independent,Suitcase 
+PB-1,Sultan Muhammad Sherani,PMAP,Tree 
+PB-1,Sardar Abdul Rahim Harifal,Independent,Charpai 
+PB-1,Sardar Babar Khan,PTI,Bat 
+PB-1,Hameed Ahmed,Independent,Newspaper 
+PB-1,Haq nawaz Buzdar,BNP,Axe 
+PB-1,Haji Muhammad Hassan Sherani,MMA,Book 
+PB-1,Haji Dadan,Independent,Gun 
+PB-1,Jalil Ahmed Khan,PML N,Tiger 
+PB-1,Amanullah,ANP,Lantern 
+PB-1,Nazar Khan,BAP,Cow 
+PB-1,Muhammad Akhtar,Independent,Hud Hud 
+PB-5,Ghous ud Din,PSP,Dolphin 
+PB-5,Malak Muhammad Hanif,Independent,Sheep 
+PB-5,Fateh Muhammad,TLP,Crane 
+PB-5,Muhammad Aslam,BNP,Axe 
+PB-5,Muhammad Iqbal Tareen,Independent,Door 
+PB-5,Muhammad Jameel,Independent,Scooter 
+PB-5,Muhammad Rasool,Independent,Goat 
+PB-5,Muhammad Zahid,Independent,Basket 
+PB-5,Muhammad Rasool,ANP,Lantern 
+PB-5,Muhammad Saleem,Independent,Newspaper 
+PB-5,Muhammad Shah Khan,PPPP,Arrow 
+PB-5,Muhammad Sabir,JUI (Nazryat),Takhti 
+PB-5,Muhammad Gul,Independent,Bottle 
+PB-5,Muhammad Younis,Independent,Hen 
+PB-5,Nisar Ahmed,Independent,Frame 
+PB-5,Haibat Khan,Independent,Window 
+PB-5,Ghafoor Muhammad,NPCP,Swallow 
+PB-5,Zafar Khan,PMAP,Tree 
+PB-5,Sher Afzal Khan,Independent,Wrist Watch 
+PB-5,Adam Khan,TJP,Laptop 
+PB-5,Jalal Ud Din,Independent,Apple 
+PB-5,Jahanzaib Luni,Independent,Binoculars 
+PB-5,Haidar Khan Nasar,PTI,Bat 
+PB-5,Khalil ur Rehman,NP,Saw 
+PB-5,Sardar Dur Muhammad Nasar,BAP,Cow 
+PB-5,Sardar Kamal Khan Tareen,JI,Scale 
+PB-5,Sardar Muzfar Khan Luni,Independent,Mobile Phone 
+PB-5,Shadi Khan,Independent,Table 
+PB-5,Yahya Khan Nasar,MMA,Book 
+PB-5,Masood Ali Khan,Independent,Jeep 
+PB-11,Wahid Bakhsh,Independent,Generator 
+PB-11,Muhammad Aslam Umrani,Independent,Jeep 
+PB-11,Sakeena Bibi,Independent,'S' 
+PB-11,Sardar Abdul Sattar Khan,Independent,Pencil 
+PB-11,Sain Bakhsh,Independent,Goat 
+PB-11,Asghar Ali,Independent,Kettle 
+PB-11,Bashir Ahmed,GDA,Star 
+PB-11,Jaffar Kareem,Independent,Scooter 
+PB-11,Hamza Khan,Independent,Mountain 
+PB-11,Khalil Ahmed,Independent,Sewing Machine 
+PB-11,Rustam Khan,JUP (Noorani),Key 
+PB-11,Syed Khadim Hussain Shah,Independent,Bullock Cart 
+PB-11,Syed Imran Shah,Independent,Pitcher 
+PB-11,Sabir Hussain,Independent,Sun Flower 
+PB-11,Muhammad Ismael,BNP,Axe 
+PB-11,Muhammad Ishaq,Independent,Sheep 
+PB-11,Qadir Bakhsh,PQYP,Peacock 
+PB-11,Mir Shaukat Ali,PTI,Bat 
+PB-11,Mir Sikandar Ali,BAP,Cow 
+PB-11,Mir Muhammad Sadiq Umrani,PPPP,Arrow 
+PB-11,Nisar Ahmed,Independent,Telephone 
+PB-11,Ghulam Mujtaba Abro,Independent,Gun 
+PB-11,Zahoor Hassan Jamote,Independent,Fan 
+PB-11,Abdul Hakeem,MMA,Book 
+PB-11,Abdul Majid,JQM,Electric Pole 
+PB-11,Abdul Wahid,MOP,Ostrich 
+PB-11,Arz Muhammad,Independent,Pickup 
+PB-11,Ali Hassan,NP,Saw 
+PB-11,Ghulam Rasool,Independent,Charpai 
+PB-11,Muhammad Arif,Independent,Ox 
+PB-11,Zafarullah,AATPK,Chair 
+PB-7,Ahmed Khan,ANP,Lantern 
+PB-7,Muhammad Baro Khan Barozai,Independent,Pitcher 
+PB-7,Majida Abro,JQM,Electric Pole 
+PB-7,Qaim ud din,PPPP,Arrow 
+PB-7,Fehmida Bibi,PMAP,Tree 
+PB-7,Ghulam Mujtaba Abro,Independent,Charpai 
+PB-7,Ghulam Rasool,BNP,Axe 
+PB-7,Safia Hafeez,MMA,Book 
+PB-7,Abdul Ghaffar,Independent,Duck 
+PB-7,Abdul Majid,Independent,Telephone 
+PB-7,Mir Sher Dil Khan,Independent,Rabbit 
+PB-7,Mir Ali Murdan Khan Domki,Independent,Bullock Cart 
+PB-7,Mir Ali Nawaz Khan,Independent,Fan 
+PB-7,Mir Muhammad Asghar Khan Marri,Independent,Revolver 
+PB-7,Muhammad Malook,Independent,Lock 
+PB-7,Muzaffar Nazar,Independent,Transformer 
+PB-7,Mir Bijar Khan,Independent,Pickup 
+PB-7,Amanullah,TJP,Laptop 
+PB-7,Changaiz Baloch,BNM,Sickle 
+PB-7,Habibullah,TLI,Cannon 
+PB-7,Hasnain Iqbal Minhas,PJDP,Gavel 
+PB-7,Sardarzada M K Domki,Independent,Knife 
+PB-7,Sardar Sarfraz Chakar Domki,BAP,Cow 
+PB-7,Sardar Muhammad Sadiq,Independent,Basket 
+PB-7,Sardar Yar Muhammad Rind,PTI,Bat 
+PB-7,Syed Imdad Hussain Shah,TLP,Crane 
+PB-7,Syed Ghulam Shah,NPCP,Swallow 
+PB-7,Shahid Ameen Baloch,BNP-A,Camel 
+PB-7,Sheraz Ali,Independent,Teapot 
+PB-7,Mir Sardar Khan Rind,Independent,Pencil 
+PB-7,Yar Muhammad,NP,Saw 
+PB-10,Nawab Zada Shahzain Bugti,Independent,Goat 
+PB-10,Mir Liaqat Ali Khan,MMA,Book 
+PB-10,Mir Khan,TLP,Crane 
+PB-10,Mir Jan Muhammad,Independent,Combat Tank 
+PB-10,Mir Ahmed,BNP,Axe 
+PB-10,Guaram Bugti,JWP,Wheel 
+PB-10,Faqeer Muhammad,Independent,Leaf 
+PB-10,Atta Ullah,Independent,Kettle 
+PB-10,Abdul Haq,Independent,Fan 
+PB-10,Tariq Hussain,Independent,Jeep 
+PB-10,Sarfraz Ahmed Bugti,BAP,Cow 
+PB-10,Jalamb Khan Bugti,Independent,Gun 
+PB-10,Ahmed Jan,PPPP,Arrow 
+PB-10,Mosam Khan,Independent,Hud Hud 
+PB-14,Haider Ali Jamali,PPPP,Arrow 
+PB-14,Mir Jan Muhammad Khan Jamali,BAP,Cow 
+PB-14,Noor Jahan,Independent,Bucket 
+PB-14,Muhammad Hanif,PMAP,Tree 
+PB-14,Muhammad Siddique,BNP-A,Camel 
+PB-14,Mehrullah,MMA,Book 
+PB-14,Muhammad Amin,BNP,Axe 
+PB-14,Muhammad Iqbal,Independent,Apple 
+PB-14,Farooq Jamali,Independent,Jeep 
+PB-14,Ali Sher,PSP,Dolphin 
+PB-14,Ali Hassan,NP,Saw 
+PB-14,Shaukat Ali,TLP,Crane 
+PB-14,Sajad Ahmed,Independent,Fan 
+PB-14,Raja Nisar Ahmed,JQM,Electric Pole 
+PB-14,Zulfiqar Ali Jamali,Independent,Television 
+PB-14,Major Khan,Independent,Wrist Watch 
+PB-16,Aurangzeb Alamgir Magsi,Independent,Kettle 
+PB-16,Farhan Hussain,PPPP,Arrow 
+PB-16,Muhammad Rafiq,Independent,Pitcher 
+PB-16,Nawabzada Tariq Magsi,BAP,Cow 
+PB-21,Noor Shah,Independent,Combat Tank 
+PB-21,Mohammad omer Khan,Independent,Lock 
+PB-21,Mohammad Hanifia,Independent,Jeep 
+PB-21,Azmat Ullah,Independent,Pencil 
+PB-21,Abdul Wali Khan,BAP,Cow 
+PB-21,Abdul Qahar,PMAP,Tree 
+PB-21,Shukar Uddin,PTI,Bat 
+PB-21,Saif Ullah,ATP,Tyre 
+PB-21,Zamarak Khan,ANP,Lantern 
+PB-21,Haji Abdul ali,Independent,Letter Box 
+PB-21,Haji Habib Ullah Kakozai,MMA,Book 
+PB-21,Bismillah Khan Kakar,PPPP,Arrow 
+PB-21,Ahmed Khan,Independent,Fort 
+PB-21,Mohammad Kazim Khan,Independent,Apple 
+PB-12,Basheer Ahmed,Independent,Jeep 
+PB-12,Muola Bakhsh,Independent,Bullock Cart 
+PB-12,Muhammad Murad,BNP,Axe 
+PB-12,Muhammad Qasim,TLP,Crane 
+PB-12,Muhammad Khan,BAP,Cow 
+PB-12,Kishwar Ahmed,PML N,Tiger 
+PB-12,Ghulam Rasool,Independent,Charpai 
+PB-12,Ali Hassan,NP,Saw 
+PB-12,Abdul Sattar,Independent,Sewing Machine 
+PB-12,Abdul Raouf,Independent,Suitcase 
+PB-12,Abbas Ali Umrani,Independent,Pitcher 
+PB-12,Abid Ali,MOP,Ostrich 
+PB-12,Syed Akbar Shah,BNP-A,Camel 
+PB-12,Sikandar Hayat,Independent,Ox 
+PB-12,Saira Ayub,PTI,Bat 
+PB-12,Nizam ud Din Lehri,MMA,Book 
+PB-26,Wali Muhammad,MMA,Book 
+PB-26,Syed Nasir Ali Shah,BNP,Axe 
+PB-26,Sardar Gulab Khan,Independent,Jeep 
+PB-26,Zulfiqar Ali Khan,Independent,King 
+PB-26,Dur Muhammad,PPPP,Arrow 
+PB-26,Khudai Nazar,JUI (Nazryat),Takhti 
+PB-26,Hamida,JWP,Wheel 
+PB-26,Halima,BAP,Cow 
+PB-26,Tania,ANP,Lantern 
+PB-26,Bibi Safoora,BNP-A,Camel 
+PB-26,Syed Nasrullah,Independent,Apple 
+PB-26,Shazia Ahmed,NP,Saw 
+PB-26,Walayat Khan,Independent,Sheep 
+PB-26,Naimatullah,Independent,Fan 
+PB-26,Muhammad Yousaf,Independent,Pickup 
+PB-26,Muhammad Mehdi,PMAP,Tree 
+PB-26,Muhammad Tahir Khan,Independent,Tap 
+PB-26,Muhammad Idrees,PTI,Bat 
+PB-26,Fazal Muhammad,Independent,Pomegranate 
+PB-26,Abdul Khaliq,AATPK,Chair 
+PB-26,Ahmed Ali,HDP,Crescent 
+PB-26,Barkat Ali,MWMP,Tent 
+PB-31,Rozi Muhammad,Independent,Pickup 
+PB-31,Muhaaamad Haleem,Independent,Pomegranate 
+PB-31,Muhammad Hashim,ANP,Lantern 
+PB-31,Malik Abdul Razzaq Satooriani,Independent,Revolver 
+PB-31,Mir Abdul Sattar,BNP-A,Camel 
+PB-31,Mir Gul,Independent,Lock 
+PB-31,Mir Lashkari Raisani,BNP,Axe 
+PB-31,Mir Muhammad Usman Pirkani,BAP,Cow 
+PB-31,Nasrullah Khan Bareech,PMAP,Tree 
+PB-31,Muhammad Ishaq,MMA,Book 
+PB-31,Liaquat Ali,Independent,Gun 
+PB-31,Sardar Sher Dil Khan Zagar Mengal,Independent,Hammer 
+PB-31,Syed Zahoor Ahmed,Independent,Apple 
+PB-31,Syed Ali Muhammad Shah,Independent,Bullock Cart 
+PB-31,Abdul Sattar,Independent,Bed 
+PB-31,Abdul Ghaffar,JWP,Wheel 
+PB-31,Ubaidullah,JUI (Nazryat),Takhti 
+PB-31,Atta Muhammad,PTI,Bat 
+PB-31,Gul Shah,Independent,Human Eye 
+PB-31,Nawabzada sher Muhammad Shahwani,Independent,Jeep 
+PB-32,Akhtar Rehman Shahwani,PPPP,Arrow 
+PB-32,Liaqat Ali,Independent,Gun 
+PB-32,Muhammad Ashraf,Independent,Apple 
+PB-32,Muhammad Arif,Independent,Wheel Chair 
+PB-32,Muhammad Nawaz Shahwani,Independent,Bunch of Grapes 
+PB-32,Malik Muhammad Yar,Independent,Hammer 
+PB-32,Munir Ahmed,PML,Tractor 
+PB-32,Molana Abdul Ghafoor Haideri,MMA,Book 
+PB-32,Mir Muhammad Ulfat,Independent,Radio 
+PB-32,Naseer Ahmed,BNP,Axe 
+PB-32,Nawabzada Muzafar Ullah Shahwani,BAP,Cow 
+PB-32,Qadir Bakhsh Muhammad Hassani,Independent,Jeep 
+PB-32,Fehmeeda Kausar,PTI,Bat 
+PB-32,A Nawaz,Independent,Sheep 
+PB-32,Bibi Saleha,ANP,Lantern 
+PB-32,Sanaullah,JWP,Wheel 
+PB-32,Hafeez Ullah,Independent,Mobile Phone 
+PB-32,Hamdullah,Independent,Sparrow 
+PB-32,Khan Zaman,PMAP,Tree 
+PB-32,Zahida Laghari,BNM,Sickle 
+PB-32,Samiullah,Independent,Pencil 
+PB-32,Syed Muhammad Ibrahim Shah,JUI (Nazryat),Takhti 
+PB-32,Abdul Rehman,Independent,Lock 
+PB-32,A Nawaz,BNP-A,Camel 
+PB-32,Yasmin Bibi Lehri,NP,Saw 
+PB-4,Asghar Khan,Independent,Hen 
+PB-4,ABDUL HADI,Independent,Mic 
+PB-4,Atta Muhammad Gul,Independent,Jeep 
+PB-4,Attaullah,Independent,Sheep 
+PB-4,Gul Muhammad Khan,BNP,Axe 
+PB-4,Muhammad Akram,Independent,Charpai 
+PB-4,Muhammad Ayub Khan Nassar,PML N,Tiger 
+PB-4,Muhammad Khan,BAP,Cow 
+PB-4,Mehmood Khan,TJP,Laptop 
+PB-4,Molvi Faiz Ullah,MMA,Book 
+PB-4,Naqeeb Ullah Khan,PTI,Bat 
+PB-4,Abdul Karim,Independent,Pomegranate 
+PB-4,Abdul Salam,ANP,Lantern 
+PB-4,Aimal Khan,Independent,Goat 
+PB-4,Jafar Khan,Independent,Human Eye 
+PB-4,Habib Ullah,Independent,Suitcase 
+PB-4,Sir Buland Khan Jogezai,PPPP,Arrow 
+PB-4,Sikandar Hayat Khan Jogezai,Independent,Pickup 
+PB-4,Shah Muhammad,JUI (S),Ladder 
+PB-4,Shafi ud Din,JUI (Nazryat),Takhti 
+PB-4,Shafi Ullah,PFM,Date Tree 
+PB-4,Shams ud Din,Independent,Kettle 
+PB-4,Shams ud Din,Independent,Slate 
+PB-4,OBAID ULLAH JAN BABAT,PMAP,Tree 
+PB-27,Hamza Khan,Independent,Pomegranate 
+PB-27,Syed Bismillah,PTI,Bat 
+PB-27,Syed Raza,Independent,Computer 
+PB-27,Syed Abdullah Shah,Independent,Bullock Cart 
+PB-27,Syed Muhammad,Independent,Flower Pot 
+PB-27,Syed Muhammad Raza,MWMP,Tent 
+PB-27,Sadiq Khan,Independent,Chitrali Cap 
+PB-27,Abdul Bari,Independent,Pencil 
+PB-27,Abdul Khaliq,HDP,Crescent 
+PB-27,Sahar Gul,PPPP,Arrow 
+PB-27,Salar Khan Kakar,Independent,Jeep 
+PB-27,Nida Muhammad,Independent,Gun 
+PB-27,Mehrullah,JUI (Nazryat),Takhti 
+PB-27,Muhammad Yousaf,Independent,Pitcher 
+PB-27,Muhammad Naeem,Independent,Telephone 
+PB-27,Muhammad Tahir Khan,Independent,Tap 
+PB-27,Muhammad Hassan,BNP-A,Camel 
+PB-27,Muhammad Azam,Independent,Match Box 
+PB-27,Noor ud Din Kakar,Independent,Fan 
+PB-27,Abdul Rehman,Independent,Brick 
+PB-27,Abdul Ghaffar Khan Kakar,Independent,Lock 
+PB-27,Abdul Qayoum,Independent,Slate 
+PB-27,Hazrat Ali,PSP,Dolphin 
+PB-27,Jamil Ahmed,Independent,Mobile Phone 
+PB-27,Bashir Ahmed,Independent,Door 
+PB-27,Bismillah Khan,Independent,Suitcase 
+PB-27,Barat Khan,Independent,Jug 
+PB-27,Altaf Hussain,Independent,Television 
+PB-27,Aslam Khan,Independent,Apple 
+PB-27,Arshad Iqbal,Independent,Scooter 
+PB-27,Hukam Khan,Independent,Stethoscope 
+PB-27,Hameed Ul Mehdi,Independent,Pickup 
+PB-27,Asmatullah,Independent,Butterfly 
+PB-27,Ali Yawar,Independent,Key with Lock 
+PB-27,Umar Farooq,ANP,Lantern 
+PB-27,Liaqat,MMA,Book 
+PB-27,Muhammad Ibrahim,BNP,Axe 
+PB-27,Hamayun Rasheed Alkozai,PML N,Tiger 
+PB-27,Wali Muhammad,BAP,Cow 
+PB-27,Zakir Hussain Kasi,PMAP,Tree 
+PB-27,Ahmedullah Khan,PML,Tractor 
+PB-38,Nawabzada Mir Israrullah,BNP-A,Camel 
+PB-38,Khair Muhammad,TLP,Crane 
+PB-38,Sardar Sana Ullah Zehri,PML N,Tiger 
+PB-38,Tariq Akram,BNM,Sickle 
+PB-38,Abdul Khaliq,MMA,Book 
+PB-38,Abdul Rehman,Independent,Lock 
+PB-38,Abdul Rehman,Independent,Tap 
+PB-38,Abdul Qadeer,Independent,Pitcher 
+PB-38,Muhammad Malook,PTI,Bat 
+PB-38,Murad Khan,Independent,Apple 
+PB-38,Mir Shafiq Ur Rehman Mengal,Independent,Rabbit 
+PB-38,Mir Imran Jattak,PPPP,Arrow 
+PB-38,Mir Gul Khan Sasoli,BAP,Cow 
+PB-38,Jan Muhammad,Independent,Mountain 
+PB-24,Jamil Ahmed Mashwani,Independent,Pomegranate 
+PB-24,Munir Ahmed Khan Kakar,PTI,Bat 
+PB-24,Malik Naeem Khan Bazai,ANP,Lantern 
+PB-24,Rehmat Ullah,JUI (Nazryat),Takhti 
+PB-24,Saz ud din,MMA,Book 
+PB-24,Samt Ullah,Independent,Apple 
+PB-24,Abdul Ahad,BAP,Cow 
+PB-24,Abdul Naeem Nasar,Independent,Pencil 
+PB-24,Abdul waris,APML-J,Bicycle 
+PB-24,Gulab Khan Khilji,Independent,Pickup 
+PB-24,Attiq ur Rehman,JUI (S),Ladder 
+PB-24,Muhammad Nouman Khan Nasar,PML N,Tiger 
+PB-24,Muhammad Yousaf Khan,PMAP,Tree 
+PB-24,Muhammad Younis Kasi,Independent,Wrist Watch 
+PB-24,Hazrat Ali,NP,Saw 
+PB-24,Nawabzadar Aurangzeb Jogezai,BNP,Axe 
+PB-29,Ahmed Raza,JUP (Noorani),Key 
+PB-29,Niaz Muhammad,NP,Saw 
+PB-29,Abdul Razaq,Independent,Lock 
+PB-29,Abdul Waheed,QWP,Oil Lamp 
+PB-29,Ata Muhammad Kakar,Independent,Butterfly 
+PB-29,Allah Ud Din Kakar,ANP,Lantern 
+PB-29,Farah Ashraf,Independent,Sun Flower 
+PB-29,Fojan,Independent,Jeep 
+PB-29,Feroz Khan,PSP,Dolphin 
+PB-29,Liaqat Ali,Independent,Railway Engine 
+PB-29,Mujeeb Ur Rehman Tareen,Independent,Oil Tanker 
+PB-29,Muhammad Saleem,MQM Pakistan,Kite 
+PB-29,Muhammad Imran,Independent,Tap 
+PB-29,Muhammad Farooq,MMA,Book 
+PB-29,Naveed Ahmed,JWP,Wheel 
+PB-29,Najeebullah,Independent,Apple 
+PB-29,Akhtar Hussain Langove,BNP,Axe 
+PB-29,Akhtar Muhammad,Independent,Pomegranate 
+PB-29,Asadullah Jan,Independent,Human Eye 
+PB-29,Javed Iqbal,Independent,Pickup 
+PB-29,Hazrat Umar,PMAP,Tree 
+PB-29,Khan Muhammad,PPPP,Arrow 
+PB-29,Dinna Khan,Independent,Gun 
+PB-29,Khan Doulat Khan,Independent,Ring 
+PB-29,Rahila Hameed Khan Durrani,PML N,Tiger 
+PB-29,Saad Abdul Ghafoor,Independent,Radio 
+PB-29,Saeed Ahmed Hashimi,BAP,Cow 
+PB-29,Abdul Bari,PTI,Bat 
+PB-29,Mehrullah,JUI (Nazryat),Takhti 
+PB-29,Momina Babar,Independent,Brick 
+PB-30,Mir Muhammad Ismail Lehri,BAP,Cow 
+PB-30,Ahmed Nawaz,BNP,Axe 
+PB-30,Haji Muhammad Gul,BNP-A,Camel 
+PB-30,Syed Habibullah Shah,TLI,Cannon 
+PB-30,Syed Abdul Khaliq,PMAP,Tree 
+PB-30,Abdul Hayee,PTI,Bat 
+PB-30,Muhammad Hayat,PRHP,Iron 
+PB-30,Muhammad Imran Bangulzai,Independent,Jeep 
+PB-30,Muhammad Essa,MMA,Book 
+PB-30,Muhammad Younis,PML N,Tiger 
+PB-30,Mir Atta Muhammad Bangalzai,NP,Saw 
+PB-30,Meer Gull,Independent,Apple 
+PB-30,Ahmed Raza,PPPP,Arrow 
+PB-19,Tariq Ahmed Khan,Independent,Apple 
+PB-19,Muhammad Asghar Khilji,Independent,Human Eye 
+PB-19,Inayatullah Khan,Independent,Printer 
+PB-19,Abdullah Khan,Independent,Jeep 
+PB-19,Abdul Bari Kakar,ANP,Lantern 
+PB-19,Nehmatullah Khan,BAP,Cow 
+PB-19,Syed Shahnawaz Khiral,PTI,Bat 
+PB-19,Samiullah,Independent,Match Box 
+PB-19,Sardar Ghulam Mustafa Khan,PMAP,Tree 
+PB-19,Zeenat Shahwani,BNP,Axe 
+PB-19,Dolat Shah,Independent,Gun 
+PB-19,Khair Muhammad Khan Tareen,PPPP,Arrow 
+PB-19,Khan Saadullah Khan Tareen,PML N,Tiger 
+PB-19,Hayatullah,Independent,Newspaper 
+PB-19,Thekedar Hayatullah,JUI (Nazryat),Takhti 
+PB-19,Syed Naseebullah,PRHP,Iron 
+PB-19,Bashir Khan,Independent,Pitcher 
+PB-19,Asghar Ali Tareen,MMA,Book 
+PB-19,Nizamuddin,Independent,Sewing Machine 
+PB-37,Wadera Sultan Ud din,Independent,Sun Flower 
+PB-37,Irfan Karim,Independent,Bunch of Grapes 
+PB-37,Abdul Wahid,Independent,Slate 
+PB-37,Abdul Samad,Independent,Pomegranate 
+PB-37,Saddam Hussain,Independent,Jeep 
+PB-37,Safqat Ullah,Independent,Human Eye 
+PB-37,Syed Muhammad Ashraf Shah,NP,Saw 
+PB-37,Saad Ullah,PPPP,Arrow 
+PB-37,Sardarzada Mir Saeed Ahmed,MMA,Book 
+PB-37,Sardarzada Muhammad Naeem,BNP,Axe 
+PB-37,Habib Khan,PSP,Dolphin 
+PB-37,Ali Nawaz Muhammad Hassni,NPCP,Swallow 
+PB-37,Ahmed Waleed,Independent,Sheep 
+PB-37,Naseer Ahmed Baloch,PST,Table Lamp 
+PB-37,Mir Nazeer Ahmed,BNP-A,Camel 
+PB-37,Mir Muhammad Ulfat,Independent,Radio 
+PB-37,Mir Zia ullah,BAP,Cow 
+PB-37,Mir Sami ullah,PTI,Bat 
+PB-37,Mir Babrak,Independent,Mountain 
+PB-37,Mir Ahmed Khan Mengal,Independent,Rabbit 
+PB-37,Muhammad Yousaf,Independent,Binoculars 
+PB-37,Muhammad Hanif,Independent,Apple 
+PB-37,Muhammad Hayat,JUI (Nazryat),Takhti 
+PB-37,Sana Ullah,TLP,Crane 
+PB-49,Bashir Ahmed,PSP,Dolphin 
+PB-49,Nizam Uddin,NP,Saw 
+PB-49,Muhammad Saleh Bhootani,BAP,Cow 
+PB-49,Muhammad Sharif,PPPP,Arrow 
+PB-49,Muhammad Iqbal,Independent,Lock 
+PB-49,Qudrat Ullah,BNP-A,Camel 
+PB-49,Ghulam Qadir,Independent,Hen 
+PB-49,Ali Murad,Independent,Jeep 
+PB-49,Abdul Ghani,Independent,Rabbit 
+PB-49,Abdul Sattar,Independent,Gun 
+PB-49,Amir Hussain,PTI,Bat 
+PB-49,Shehzad Saleh Bhootani,Independent,Binoculars 
+PB-49,Shah Muhammad Siddiqui,MMA,Book 
+PB-49,Syed Arif Shah,Independent,Excavator 
+PB-49,Khalifa Nawaz Ali,Independent,Charpai 
+PB-49,Nawaz Ali Burfat,Independent,Crocodile 
+PB-45,Bibi Malik Naz,Independent,Revolver 
+PB-45,Mir Mohammad Anwar,BNP,Axe 
+PB-45,Miran Khan,Independent,Ghulail 
+PB-45,Miran,Independent,Mobile Phone 
+PB-45,Manzoor Ahmed,Independent,Hammer 
+PB-45,Mohammad Hayat Baloch,BNP-A,Camel 
+PB-45,Muhammad Ismail Bulidai,Independent,Lock 
+PB-45,Qadeer Ahmed,Independent,House 
+PB-45,Abdul Aziz,Independent,Oil Tanker 
+PB-45,Zahoor Ahmed Buledai,BAP,Cow 
+PB-45,Zafar Ullah,Independent,Jug 
+PB-45,Sher Jan,Independent,Kettle 
+PB-45,Khalil Ahmed Bulidai,Independent,Mountain 
+PB-45,Hafiz Nasir ud Din Zamurani,MMA,Book 
+PB-45,Nawab Shambazai,PML N,Tiger 
+PB-41,Mir Mujib ur Rehman Muhammad Hassani,BAP,Cow 
+PB-41,Khaliq Dad,PRHP,Iron 
+PB-41,Zahid Ali,MMA,Book 
+PB-41,Sajad Ullah,Independent,Pencil 
+PB-41,Sardar Ali Akbar,PTI,Bat 
+PB-41,Sardar Muhammad Hussain,Independent,Human Eye 
+PB-41,Saif ur Rehman,BNP,Axe 
+PB-41,Ibad ur Rehman,Independent,House 
+PB-41,Aziz Ahmed Muhammad Hassani,Independent,Wheel Barrow 
+PB-41,Mir Ehsan Ellahi,Independent,Teapot 
+PB-41,Mir Ahmed Nawaz Muhammad Hassani,Independent,Rabbit 
+PB-41,Nazar Muhammad,Independent,Jeep 
+PB-41,Naeem Ullah,PPPP,Arrow 
+PB-41,Noor Ahmed,Independent,Sheep 
+PB-41,Haider Ali,Independent,King 
+PB-47,Irshad Dhandai,Independent,Generator 
+PB-47,Nadir Shah,Independent,Lock 
+PB-47,Mir Muhammad Ali Rind,Independent,Fan 
+PB-47,Mir Douda Khan Darzada,Independent,Hammer 
+PB-47,Munir Ahmed,Independent,Computer 
+PB-47,Majid Ali,Independent,House 
+PB-47,Aziz Ahmed,NP,Saw 
+PB-47,Abdul Rauf Rind,BAP,Cow 
+PB-47,Abdul Rasheed,Independent,Jeep 
+PB-47,Abdul Rasheed,Independent,Thermos 
+PB-47,Syed Taimoor Shah,Independent,Door 
+PB-47,Jamil Ahmed Dashti,BNP,Axe 
+PB-47,Bushra,PPPP,Arrow 
+PB-47,Barkat Ali,BNP-A,Camel 
+PB-47,Asma,MMA,Book 
+PB-47,Waris Ali,PTI,Bat 
+PB-18,Asfandyar Khan Kakar,BAP,Cow 
+PB-18,Maullah Dad,Independent,Tulip 
+PB-18,Muhammad Saleem,PTI,Bat 
+PB-18,Muhammad Hassan,PMAP,Tree 
+PB-18,Muhammad Anwar,JUI (Nazryat),Takhti 
+PB-18,Muhammad Anwar,Independent,Pencil 
+PB-18,Gohar Eijaz Khan Kakar,Independent,Sharpener 
+PB-18,Kaleemullah Khan,Independent,Fan 
+PB-18,Kamran Khan,JWP,Wheel 
+PB-18,Abdul Wahid Siddiqui,MMA,Book 
+PB-18,Abdul Jalil Bazai,QWP,Oil Lamp 
+PB-18,Abdul Bari,ANP,Lantern 
+PB-18,Zainullah Kakar,Independent,Fire Engine 
+PB-18,Mir Wise,PML N,Tiger 
+PB-44,Arshad Khan,Independent,Lock 
+PB-44,Muhammad Ashraf,Independent,Road Roller 
+PB-44,Muhammad Akram,PSP,Dolphin 
+PB-44,Muhammad Akram,Independent,Wheel Barrow 
+PB-44,Muhammad Azeem,Independent,Excavator 
+PB-44,Moula Bakhsh,Independent,Hud Hud 
+PB-44,Mehrullah Hassani,Independent,Rabbit 
+PB-44,Mir Habibullah Hasrat Mirwani,PPPP,Arrow 
+PB-44,Wahid Hassan,Independent,Charpai 
+PB-44,Mohammad Ashraf,PML N,Tiger 
+PB-44,Mehboob Ali,Independent,Sheep 
+PB-44,Ghulam Jan,Independent,Hammer 
+PB-44,Asadullah,BNP-A,Camel 
+PB-44,Haider Ali,Independent,Pickup 
+PB-44,Khuda Rehm,Independent,Kettle 
+PB-44,Khair Jan,NP,Saw 
+PB-44,Sardar Muhammad Aslam Mirwani,BNP,Axe 
+PB-44,Shamim Ahmed,Independent,Jug 
+PB-44,Abdul Qudoos,BAP,Cow 
+PB-44,Attaullah Baloch,MMA,Book 
+PB-44,Wazeer Gul,Independent,Sewing Machine 
+PB-40,Naimatullah Bizenjo,BAP,Cow 
+PB-40,Nasrullah,Independent,Sheep 
+PB-40,Mir Muhammad,Independent,Rabbit 
+PB-40,Mir Shah Bizenjo,NP,Saw 
+PB-40,Muhammad Akhtar Mengal,BNP,Axe 
+PB-40,Liaquat Ali,TLP,Crane 
+PB-40,Qadeer Ahmed,PPPP,Arrow 
+PB-48,Barkat Ali,PPPP,Arrow 
+PB-48,Mansoor Ahmed Shah,Independent,Rabbit 
+PB-48,Muhammad Mansoor,NP,Saw 
+PB-48,Muhammad Shakir,MMA,Book 
+PB-48,Muhammad Asghar,BNP-A,Camel 
+PB-48,Abdi Khan,Independent,Apple 
+PB-48,Zafar Ali,Independent,Pitcher 
+PB-48,Shay Mureed,Independent,Sun Flower 
+PB-48,Hammal Khan,BNP,Axe 
+PB-48,Mir Akbar Askani,BAP,Cow 
+PB-28,Agha Faisal Shah,MQM Pakistan,Kite 
+PB-28,Muhammad Ismail,BNP,Axe 
+PB-28,Muhammad Asif,ALPP,Hut 
+PB-28,Kaleemullah,PRHP,Iron 
+PB-28,Ghulam Farooq,PMAP,Tree 
+PB-28,Ali Iftikhar,Independent,Mountain 
+PB-28,Atta ur Rehman,MMA,Book 
+PB-28,Abdul Samad Khan,AATPK,Chair 
+PB-28,Abdul Baqi,Independent,Television 
+PB-28,Zahir Yaqoob,Independent,Binoculars 
+PB-28,Tahir Mehmood Khan,BAP,Cow 
+PB-28,Salah ud Din Khilji,Independent,Gun 
+PB-28,Shehzad Khan,Independent,Tap 
+PB-28,Shamshad Mughal,Independent,Leaf 
+PB-28,Yasir Bashir,Independent,Sparrow 
+PB-28,Naseem ur Rehman Khan,PML N,Tiger 
+PB-28,Naseer Ahmed,ATP,Tyre 
+PB-28,Muneer Ahmed,PML,Tractor 
+PB-28,Muhammad Raheem,Independent,Apple 
+PB-28,Muhammad Saleem,Independent,Tulip 
+PB-28,Muhammad Abbas Mir,Independent,King 
+PB-28,Ehsan ul Haq,Independent,Loudspeaker 
+PB-28,Iqbal Hussain Shah,PPPP,Arrow 
+PB-28,Iqbal Hussain Qureshi,Independent,Scooter 
+PB-28,Anwar Naseem Kasi,Independent,Flower Pot 
+PB-28,Behroz Hussain Baloch,Independent,Jeep 
+PB-28,Taj Muhammad,Independent,Mobile Phone 
+PB-28,Javed Iqbal,Independent,Bucket 
+PB-28,Habibullah,Independent,Telephone 
+PB-28,Hazrat Khan,Independent,Combat Tank 
+PB-28,Rajesh Kumar,NPCP,Swallow 
+PB-28,Rozi Khan,Independent,Mic 
+PB-28,Sajjad Ahmed,Independent,Butterfly 
+PB-28,Syed Sanaullah,PSP,Dolphin 
+PB-28,Syed Noor Yaseen,ANP,Lantern 
+PB-28,Shah Wali,JWP,Wheel 
+PB-28,Shakeel Ahmed,Independent,Phole Gobhi 
+PB-28,Muhammad Mobeen Khilji,PTI,Bat 
+PB-28,Malik Muhammad Alam Kasi,BPP,Gate 
+PB-25,Naimatullah,APT,Boat 
+PB-25,Abdul Wli,Independent,Telephone 
+PB-25,Akhtar Muhammad,Independent,Pickup 
+PB-25,Amir Afzal Khan Mundokhail,PML N,Tiger 
+PB-25,Khan Muhammad,PMAP,Tree 
+PB-25,Khudai Nazar,JUI (S),Ladder 
+PB-25,Sardar Khan Mirza Khan Kharoti,Independent,Jeep 
+PB-25,Syed Liaqat Ali,PSP,Dolphin 
+PB-25,Saifullah Khan,Independent,Pomegranate 
+PB-25,Abdul Ameen,Independent,Stethoscope 
+PB-25,Abdul Rehman,Independent,Sun Flower 
+PB-25,Abdul Rahim,Independent,Basket 
+PB-25,Abdul Rashid,ANP,Lantern 
+PB-25,Ghulam Haider,MUMCP,Combat Aircraft 
+PB-25,Kaneez Fatima,BNP-A,Camel 
+PB-25,Nawab Salman Khan Khilji,Independent,Human Eye 
+PB-25,Ali Jan,Independent,Pencil 
+PB-25,Mir Alam Khan,QWP,Oil Lamp 
+PB-25,Manzoor Ahmed,BAP,Cow 
+PB-25,Malik Faisal Khan,PTI,Bat 
+PB-25,Malik Sikandar Khan,MMA,Book 
+PB-25,Malik Khan Wali Nasar,Independent,Thermos 
+PB-25,Muhammad Hashim,Independent,Apple 
+PB-25,Muhammad Luqman,BNP,Axe 
+PB-25,Muhammad Farooq,Independent,Cricket Stumps 
+PB-25,Muhammad Zahir,Independent,Tap 
+PB-25,Muhammad Sharif,PPPP,Arrow 
+PB-25,Abdul Qadir Luni,JUI (Nazryat),Takhti 
+PB-23,Abdul Khaliq Khan,BAP,Cow 
+PB-23,Naimatullah Achakzai,Independent,Pressure Cooker 
+PB-23,Muhammad Qasim,Independent,Tap 
+PB-23,Muhammad Tahir,Independent,Chitrali Cap 
+PB-23,Muhammad Sadiq,Independent,Railway Engine 
+PB-23,Muhammad Sadiq,Independent,Sun Flower 
+PB-23,Kosar Amin,Independent,Telephone 
+PB-23,Ghulam Haider,APT,Boat 
+PB-23,Abdul Wali,Independent,Trolley 
+PB-23,Abdul Manan,PML N,Tiger 
+PB-23,Abdul Ghani,Independent,Pitcher 
+PB-23,Noor Muhammad,Independent,Apple 
+PB-23,Asad Khan,Independent,Sheep 
+PB-23,Asghar Khan,ANP,Lantern 
+PB-23,Salahuddin Khan,Independent,Suitcase 
+PB-23,Rafiullah,PML,Tractor 
+PB-23,Rehmatullah,Independent,Pencil 
+PB-23,Hameed Khan,Independent,Pickup 
+PB-23,Hamid Khan Achakzai,PMAP,Tree 
+PB-23,Hafiz Amanullah Achakzai,Independent,Lock 
+PB-23,Haji Molvi Muhammad Hanif,MMA,Book 
+PB-23,Jamal Abdul nasir,Independent,Sparrow 
+PB-23,Jalat Khan,Independent,Table 
+PB-23,Bismillah,Independent,Ghulail 
+PB-23,Abdul salam Khan,Independent,Charpai 
+PB-6,Ahmed Shah,Independent,Apple 
+PB-6,Muhammad Javed,Independent,Jug 
+PB-6,Mohib Ullah,MMA,Book 
+PB-6,Allah Ud Din,JUI (Nazryat),Takhti 
+PB-6,Ajab Khan,Independent,Charpai 
+PB-6,Obaid Ullah,BNP-A,Camel 
+PB-6,Abdul Rahim,PMAP,Tree 
+PB-6,Abdul Baqi Tareen,ANP,Lantern 
+PB-6,Syed Alam Shah,Independent,Spade 
+PB-6,Sardarzada Akbar Khan,PTI,Bat 
+PB-6,Rehmat Ullah,JUI (S),Ladder 
+PB-6,Muhammad Yasin,Independent,Gun 
+PB-6,Muzamil Shah,Independent,Leaf 
+PB-6,Nawab Khan,BNP,Axe 
+PB-6,Noor Muhammad,BAP,Cow 
+PB-6,Noor Muhammad,Independent,Suitcase 
+PB-6,Haji Khan Muhammad,Independent,Slate 
+PB-6,Muhammad Qasim,Independent,Hen 
+PB-46,Imdad Ali,Independent,Butterfly 
+PB-46,Naseer Ahmed,BAP,Cow 
+PB-46,Qadeer Ahmed,PPPP,Arrow 
+PB-46,Ghulam Rasool,NP,Saw 
+PB-46,Abdul Ghafoor,BNP,Axe 
+PB-46,Abdul Samad,Independent,Gas Cylinder 
+PB-46,Zahir Ali,Independent,Pickup 
+PB-46,Syed Ehsan Shah,BNP-A,Camel 
+PB-46,Khalid Waleed,MMA,Book 
+PB-46,Jamal Jan Ahmed,Independent,Hammer 
+PB-46,Hotman,Independent,Sheep 
+PB-50,Jam Kamal Khan,BAP,Cow 
+PB-50,Muhammad Asim,Independent,Tulip 
+PB-50,Muhammad Saleem,NP,Saw 
+PB-50,Muhammad Hassan,PPPP,Arrow 
+PB-50,Ghulam Qadir,Independent,Butterfly 
+PB-50,Abdul Majeed,TLP,Crane 
+PB-50,Sher Muhammad,Independent,Crocodile 
+PB-50,Rasool Bux,PST,Table Lamp 
+PB-50,Habiba Iqbal,MMA,Book 
+PB-50,Nasrullah,Independent,Jeep 
+PB-43,Asadullah,BNP-A,Camel 
+PB-43,Muhammad Yaseen,MMA,Book 
+PB-43,Muhammad Umar,BAP,Cow 
+PB-43,Farooq ul Zaman,PPPP,Arrow 
+PB-43,Shahbaz Tariq,Independent,Hammer 
+PB-43,Shakeel Ahmed,Independent,Computer 
+PB-43,Shah Hussain,PML N,Tiger 
+PB-43,Zahid Hussain,BNP,Axe 
+PB-43,Rehmat Ali,NP,Saw 
+PB-43,Khuda Rehm,Independent,Kettle 
+PB-43,Asadullah Baloch,PTI,Bat 
+PB-43,Meer Habib ur Rehman,Independent,Sun Flower 
+PB-35,Haji Muhammad,Independent,Road Roller 
+PB-35,Muhammad Anwarr,Independent,Bunch of Grapes 
+PB-35,Muhammad Faisal,PTI,Bat 
+PB-35,Meer Ahmed,PSP,Dolphin 
+PB-35,Meer Dolat Khan,BNM,Sickle 
+PB-35,Meer Muhammad Akbar Bangalzai,PPPP,Arrow 
+PB-35,Nawabzada siraj Raisani,BAP,Cow 
+PB-35,Nawabzada Shahdain Shahwani,Independent,Apple 
+PB-35,Nawabzada Muzaffarullah Shahwani,Independent,House 
+PB-35,Nawab Muhammad Aslam Khan Raisani,Independent,Gun 
+PB-35,Noor Muhammad,BNP,Axe 
+PB-35,Fateh Muhammad,JWP,Wheel 
+PB-35,Mujeeb Ur Rehman Shahwani,BNP-A,Camel 
+PB-35,Sardar Kamal Khan Bangalzai,NP,Saw 
+PB-35,Saeed Ahmed,TLI,Cannon 
+PB-35,Sikandar Hayat,Independent,Hammer 
+PB-35,Shahjahan Bangalzai,Independent,Jeep 
+PB-35,Abdul Jaleel,Independent,Jug 
+PB-35,Abdul Rauf,AATPK,Chair 
+PB-35,Abdul Salam,Independent,Pomegranate 
+PB-35,Imran Khan,NPCP,Swallow 
+PB-35,Ghulam Haider,MMA,Book 
+PB-35,Ghulam Rasool Qazi,JUI (Nazryat),Takhti 
+PB-35,Wadera Sultan Udin,Independent,Mountain 
+PB-39,Nawabzada Meer Israr ullah,BNP-A,Camel 
+PB-39,Sarar Muhammad Aslam Bizenjo,NP,Saw 
+PB-39,Shafiq Ahmed,Independent,Pencil 
+PB-39,Shakeel Ahmed Durani,BAP,Cow 
+PB-39,Abdul Rehman,PTI,Bat 
+PB-39,Abdul Rehman,PML N,Tiger 
+PB-39,Abdul Sattar,BNM,Sickle 
+PB-39,Abdul Ghafoor,JUI (Nazryat),Takhti 
+PB-39,Abdul Fatah,TLP,Crane 
+PB-39,Ghareeb Shah,TLI,Cannon 
+PB-39,Fouzia Sikandar,Independent,Apple 
+PB-39,Muhammad Ismail,Independent,Goat 
+PB-39,Mir Younas Aziz Zehri,MMA,Book 
+PB-39,Khalid Mehmood,PPPP,Arrow 
+PB-17,Arbab,Independent,Hen 
+PB-17,Mir Sardar Khan Rind,Independent,Revolver 
+PB-17,Manzoor Qadir,Independent,Hud Hud 
+PB-17,Mehmood Khan Kurd,PPPP,Arrow 
+PB-17,Muhammad Younis,Independent,Apple 
+PB-17,Muhammad Waris,Independent,Pitcher 
+PB-17,Muhammad Momin Kurd,Independent,Rabbit 
+PB-17,Muhammad Salah,ATP,Tyre 
+PB-17,Muhammad Ramzan,Independent,Binoculars 
+PB-17,Muhammad Javed,Independent,Charpai 
+PB-17,Mujeeb Ur Rehman Shahwani,BNP-A,Camel 
+PB-17,Gul Muhammad,Independent,Railway Engine 
+PB-17,Farooq Ahmed,Independent,Crocodile 
+PB-17,Mir Muhammad Asim Kurd,BAP,Cow 
+PB-17,Mir Muhammad Hashim Khan,Independent,Bowl 
+PB-17,Ghulam Murtaza,Independent,Mountain 
+PB-17,Altaf Hussain,Independent,Bucket 
+PB-17,Pir Jan,MQM Pakistan,Kite 
+PB-17,Habib ur Rehman Raisani,Independent,Sun Flower 
+PB-17,Sardar Liaqat Ali Kurd,MMA,Book 
+PB-17,Sadullah,Independent,Telephone 
+PB-17,Shahbaz Khan,Independent,Sheep 
+PB-17,Sahib Zada Muneer Ahmed,Independent,Jeep 
+PB-17,Ghulam Haider,Independent,Parrot 
+PB-17,Ghulam Rasool,Independent,Bullock Cart 
+PB-17,Ghulam Farooq,BNP,Axe 
+PB-17,Ghulam Mujtaba Abro,Independent,Gun 
+PB-17,Ghulam Mohidin,JWP,Wheel 
+PB-17,SARDAR YAR MUHAMMAD RIND,PTI,Bat 
+PB-42,Ehsan Ahmed,Independent,Hud Hud 
+PB-42,Aziz Ahmed Muhammad Hassani,Independent,Wheel Barrow 
+PB-42,Muhammad Asif,Independent,Pickup 
+PB-42,Muhammad Sadiq,PRHP,Iron 
+PB-42,Mir Waheed Amir Sumalani,Independent,Gun 
+PB-42,Mir Noor ud Din Nausherwani,Independent,Fan 
+PB-42,Mir Muhammad Ismail Peerkazai,Independent,Gun 
+PB-42,Mir Sherbaz Sasoli,PPPP,Arrow 
+PB-42,Mir Shoukat Ali Mengal,PTI,Bat 
+PB-42,Mir Ahmed Nawaz Muhammad Hassani,Independent,Rabbit 
+PB-42,Abdul Kreem Nosherwani,BAP,Cow 
+PB-42,Abdul Qadir,PML N,Tiger 
+PB-42,Syed Tusuf Shah Jeelani,JUP (Noorani),Key 
+PB-42,Ijaz Ahmed,Independent,Sheep 
+PB-42,Sana Ullah Baloch,BNP,Axe 
+PB-42,Jamal Abdul Nasir,JUI (Nazryat),Takhti 
+PB-42,Jamal Nosherwani,Independent,Parrot 
+PB-42,Hafiz Hamid Ali,MMA,Book 
+PB-42,Dr. Ishaq Baloch,NP,Saw 
+PB-42,Zeeshan Ahmed,TJP,Laptop 
+PB-42,Sardar Attaullah Dehani,Independent,Jeep 
+PB-42,Sardar Muhammad Hussain,Independent,Human Eye 
+PB-42,Abdul Lateef,Independent,Apple 
+PB-9,Bahadur Khan Marri,Independent,Butterfly 
+PB-9,Muhammad Iqbal,BNP-A,Camel 
+PB-9,Muhammad Qasim,Independent,Sparrow 
+PB-9,Misri Khan,Independent,Thermos 
+PB-9,Mir Asghar Khan,Independent,Pencil 
+PB-9,Nawab Zada Gazain Khan Marri,Independent,Jeep 
+PB-9,Nawab Zada Buzair Marri,Independent,Fan 
+PB-9,Nawab Changaiz Khan Marri,BAP,Cow 
+PB-9,Naimat Ullah,Independent,Transformer 
+PB-9,Nisar Ahmed Khan,Independent,Revolver 
+PB-9,Mir Naseeb Ullah Khan,PTI,Bat 
+PB-9,Mir Liaqat Ali,Independent,Hud Hud 
+PB-9,Mir Qayoom Khan,PSP (T),Spade 
+PB-9,Mir Shereen Khan,PPPP,Arrow 
+PB-9,Mir Baz Muhammad,MMA,Book 
+PB-9,Mir Bijar Khan Marri,Independent,Sheep 
+PB-9,Mir Bangul Marri,Independent,Hammer 
+PB-9,Bacha Hoo,PMAP,Tree 
+PB-9,Israrullah Zaib,Independent,Oil Tanker 
+PB-9,Ahmed Jameel,Independent,Parrot 
+PB-9,Bahawal Khan,Independent,Rabbit 
+PB-9,Muhabbat Khan,Independent,Gun 
+PB-9,Mehrab Khan,NP,Saw 
+PB-9,Gaman Khan,BNP,Axe 
+PB-9,Koh Dayar Marri,Independent,Fire Engine 
+PB-9,Alam Geer Khan,Independent,Bowl 
+PB-9,Sher Yar Marri,Independent,Duck 
+PB-9,Jameel Ahmed,Independent,Pitcher 
+PB-9,Haji Mir babar Khan,Independent,Apple 
+PB-9,Mir Khair Muhammad Khan,Independent,Pickup 
+PB-9,Mir Shah Nawaz Khan Marri,Independent,Bullock Cart 

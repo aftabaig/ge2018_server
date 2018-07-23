@@ -1,0 +1,615 @@
+constituency_id,candidate_name,symbol_id
+NA-9,Istiqbal Khan,31
+NA-9,Sir Mir Khan,93
+NA-9,Sher Akbar Khan,19
+NA-9,Abdul Rauf,162
+NA-9,Fanoos Gujjar,40
+NA-9,Kamran Khan,284
+NA-9,Mian Moin Ud Din,151
+NA-10,Amir Sultan,31
+NA-10,Bakht Naseeb Khan,40
+NA-10,Parvaiz Ahmad,241
+NA-10,Hamid Iqbal Khan,12
+NA-10,Sadeed Ur Rehman,162
+NA-10,Safeer Khan,123
+NA-10,Syed Fareen,128
+NA-10,Ibadullah Khan,284
+NA-10,Waqar Ahmad Khan,19
+NA-11,Afreen Khan,31
+NA-11,Aurang Zeb,19
+NA-11,Bakhat Jahan,55
+NA-11,Juma Din,85
+NA-11,Haji Misar Khan,284
+NA-11,Haji Mir Dad,151
+NA-11,Dost Muhammad Shakir,56
+NA-11,Syed Jan,128
+NA-11,Syed Gul Badshah,149
+NA-11,Shehzad Latif,241
+NA-11,Sher Baz,129
+NA-11,Abdul Qayum,153
+NA-11,Mehboobullah Jan,292
+NA-11,Muhammad Naseer,174
+NA-11,Muhammad Yaseen,167
+NA-11,Malik Noor Wali Shah,12
+NA-11,Noor Ul Ameen,58
+NA-12,Rustam Khan,58
+NA-12,Rasheed Ahmad,69
+NA-12,Sardar Malik Jan,12
+NA-12,Saeed Ahmad,149
+NA-12,Sabir Hussain Shah,292
+NA-12,Muhammad Nawaz Khan,19
+NA-12,Muhammad Yousaf,31
+NA-12,Misbah ullah Babar,162
+NA-13,Afsar Khan,190
+NA-13,Samar Islam,241
+NA-13,Sardar Shah Jahan Yousaf,284
+NA-13,Sardar Muhammad Sultan,128
+NA-13,Saleh Muhammad,56
+NA-13,Amir Shehzad,71
+NA-13,Abdul Salam,61
+NA-13,Iffat Kalsoom,162
+NA-13,Ambareen Ahsan,266
+NA-13,Muhammad Baseer Khan,31
+NA-13,Muhammad Banaris,123
+NA-13,Muhammad Javed,85
+NA-13,Muhammad Gulfam Sawati,151
+NA-13,Nargis Ali,292
+NA-14,Ahmad Shehryar Khan,39
+NA-14,Roshan Zaman,149
+NA-14,Zar Gul Khan,19
+NA-14,Fakhar Uz Zaman Khan,292
+NA-14,Qazi Tayyab Shehzad,71
+NA-14,Kafaytullah,31
+NA-14,Muhammad Asif,58
+NA-14,Muhammad Sajjad,66
+NA-14,Muhammad Safdar,284
+NA-14,Muhammad Aqeel Khan Durrani,55
+NA-14,Muhammad Wajid Khan,28
+NA-15,Ayaz Khan Jadoon,147
+NA-15,Sameen Riaz Abbasi,118
+NA-15,Zulfiqar Javed,34
+NA-15,Sardar Gohar Zaman Khan,204
+NA-15,Sardar Muhammad Iqbal Khan,58
+NA-15,Sardar Muhammad Yaqoob,149
+NA-15,Sardar Manzoor Mumtaz Abbasi,12
+NA-15,Ali Asghar khan,19
+NA-15,Fazal Ur Rehman,31
+NA-15,Muhammad Asghar Shah,128
+NA-15,Makhdoom Arif Hussain Kazmi,71
+NA-15,Murtaza Javed Abbasi,284
+NA-15,Nurat Anjum,85
+NA-16,Ayyaz Khan Jadoon,147
+NA-16,Bilal Siddique,266
+NA-16,Javed Khan,279
+NA-16,Jamil Hussain,58
+NA-16,Rizwan Khan,204
+NA-16,Sardar Maqsood Ayoub,129
+NA-16,Syed Saeed Khalid,277
+NA-16,Syed Faisal Hussain Shah Gillani,280
+NA-16,Shoukat Ali Tanoli,56
+NA-16,Ali Khan Jadoon,19
+NA-16,Muhammad Irshad,162
+NA-16,Muhammad Asghar Shah,128
+NA-16,Muhammad Rashid,196
+NA-16,Muhammad Rohail,149
+NA-16,Muhammad Saeed Khan,31
+NA-16,Muhammad Waqas,71
+NA-16,Murad Sher,180
+NA-16,Mohabbat Khan,284
+NA-17,Irum Fatima,162
+NA-17,Babar Nawaz Khan,284
+NA-17,Habib Ullah,34
+NA-17,Raja Qaiser Ali,177
+NA-17,Rizwan Saeed Mughal,39
+NA-17,Syed Hamid Shah,292
+NA-17,Shaista Naz,12
+NA-17,Umer Ayoub Khan,19
+NA-17,Farooq Shah,31
+NA-17,Qazi Attiq Ur Rehman,242
+NA-17,Muhammad Zubair,71
+NA-17,Muhammad Fiaz,163
+NA-17,Malik Shakeel Ahmad,55
+NA-17,Wakalat khan,128
+NA-18,Asad Qaiser,19
+NA-18,Khalid Mehmood,40
+NA-18,Khalil Ahmad,274
+NA-18,Rizwan Ullah,128
+NA-18,Sajjad Ahmad,284
+NA-18,Shamas Ul Qamar,151
+NA-18,Shah nawaz KhanZada,56
+NA-18,Fazal Akram,149
+NA-18,Fazal Ali,31
+NA-18,Muhammad Islam Khan,162
+NA-18,Muhammad Razzaq,201
+NA-18,Muhammad Tariq,283
+NA-18,Masood Jabbar,58
+NA-19,Syed Khalid,58
+NA-19,Shahid Khan,40
+NA-19,Shehzad Ali Khan,163
+NA-19,Usman Khan,19
+NA-19,Atta Ul Haq,31
+NA-19,Imran Ullah,284
+NA-19,Kashif Ahmad,292
+NA-19,Muhammad Naeem,12
+NA-19,Waris Khan,162
+NA-20,Akhtar Nawaz,284
+NA-20,Atta Ur Rehman,31
+NA-20,Gul Nawaz Khan,162
+NA-20,Mujahid Ali,19
+NA-20,Nawabzada Khawaja Muhammad Khan Hoti,12
+NA-21,Amir Haider Azam Khan,162
+NA-21,Syed Abid Ali Shah,12
+NA-21,Shuja Ul Mulk,31
+NA-21,Muhammad Syed,78
+NA-21,Muhammad Atif,19
+NA-21,Mukhtiar,56
+NA-22,Ahsan Ullah,71
+NA-22,Jamshed Khan,284
+NA-22,Shoaib Alam Khan,12
+NA-22,Azmat Ali,134
+NA-22,Ali Muhammad,19
+NA-22,Muhammad Qasim,31
+NA-22,Malik Aman Khan,162
+NA-23,Aftab Ahmad Khan Sherpao,58
+NA-23,Anwar Taj,19
+NA-23,Begum Tahira Bukhari,284
+NA-23,Haji Zafar Ali Khan,31
+NA-23,Sobedar Khan,56
+NA-23,Gulzar Ahmad Khan,162
+NA-23,Manzoor Ahmad,12
+NA-24,Aftab Alam,12
+NA-24,Asfandyar Wali Khan,162
+NA-24,Zahoor Ahmad,93
+NA-24,Farooq Shah,130
+NA-24,Fazal Muhammad Khan,19
+NA-24,Muhammad Shafiq,71
+NA-24,Molana Muhammad Gohar Shah,31
+NA-24,Mian Alamgir Shah,284
+NA-25,Ihrar Khan,201
+NA-25,Ijaz Ul Haq,11
+NA-25,Parvez Khatak,19
+NA-25,Khan Prvez,12
+NA-25,Siraj Muhammad Khan,284
+NA-25,Syed Zulfiqar Ali Shah,31
+NA-25,Ayesha Gulalai Wazir,214
+NA-25,Muhammad Sher Ali,142
+NA-25,Malik Juma Khan,162
+NA-26,Asif Luqman Qazi,31
+NA-26,Sana Ullah Jan,71
+NA-26,Jamal Khan Khatak,162
+NA-26,Hji Nawab Khan,284
+NA-26,Saleh Muhammad,66
+NA-26,Imran Khatak,19
+NA-26,Feroz Jamal shah Kaka Khel,12
+NA-26,Muhammad Tanveer,11
+NA-26,Muhammad Faisal Khatak,163
+NA-27,Amjad Ali,58
+NA-27,Sobia Shahid,284
+NA-27,Haji Ghulam Ali,31
+NA-27,Sidra Qadeem,208
+NA-27,Shakeel Abid,196
+NA-27,Tahir Nadeem,162
+NA-27,Asima Alamgir,12
+NA-27,Faqeer Muhammad,11
+NA-27,Noor Alam Khan,19
+NA-27,Naveed Ali,149
+NA-28,Arbab Amir Ayoub,19
+NA-28,Ikram Ullah,71
+NA-28,Shafi Akbar,162
+NA-28,Sabir Hussain Awan,31
+NA-28,Muhammad Intikhab Khan,284
+NA-28,Muhammad Daood Khan Barki,11
+NA-29,Arbab Kamal Ahmad,162
+NA-29,Ameer Muqam,284
+NA-29,Muhammad Shafiq,71
+NA-29,Nasir Khan,19
+NA-29,Naeem Jan,31
+NA-30,Arbab Alamgir Khan,12
+NA-30,Arbab Najeeb Ullah Khan,31
+NA-30,Sher Ali Arbab,19
+NA-30,Muhammad Junaid,284
+NA-30,Muhammad Shoukat Khursheed,11
+NA-30,Muhammad Alamgir Khalil,162
+NA-30,Malik Haider Khan,292
+NA-30,Noor Wali Khan,118
+NA-31,Akhunzada Irfan Ullah Shah,12
+NA-31,Ilyas Ahmad Bilour,223
+NA-31,Aurangzeb Khan,93
+NA-31,Haji Ghulam Ahmad Bilour,162
+NA-31,Rooh Ullah,149
+NA-31,Shoukat Ali S/O Fazal Muhammad Afzal,145
+NA-31,Shoukat Ali S/O Liaqat Ali,19
+NA-31,Gull Rehman,17
+NA-31,Muhammad Saqqaf Yasir,273
+NA-31,Muhammad Sadiq Ur Rehman Paracha,31
+NA-31,Muhammad Nadeem,284
+NA-31,Noor Hussain,309
+NA-31,Yasmeen,71
+NA-32,Bismillah Khan,12
+NA-32,Sehriyar Afridi,19
+NA-32,Abbas Afridi,284
+NA-32,Asmat Ullah Khan,204
+NA-32,Gohar Muhammad Khan Bangash,31
+NA-32,Muhammad Fayyaz,56
+NA-32,Madiha Faraz,266
+NA-32,Mufi Ibrar Sultan,101
+NA-32,Najeeb ullah Durani,71
+NA-32,Yousaf Afridi,183
+NA-33,Akhtar MUnir Bangash,233
+NA-33,Ulfat Husain,12
+NA-33,Taj Muhammad,24
+NA-33,Hussain Jalali,172
+NA-33,Khaliq Ur Rehman,11
+NA-33,Khial Zaman,19
+NA-33,Rangeen Khan,59
+NA-33,Sultan Akbar,107
+NA-33,Syed Haider Ali Shah,162
+NA-33,Arif Hussain,128
+NA-33,Atiq Ur Rehman,31
+NA-33,Muhammad Imran,39
+NA-33,Malak Riaz Bangash,121
+NA-34,Ikhtiar Gull,39
+NA-34,Altaf Qadir,135
+NA-34,Touseef Razzaq,101
+NA-34,Haseeb Ahmad Afaqi,292
+NA-34,Hameed Ullah Khan,283
+NA-34,Zeeshan Ahmad,201
+NA-34,Rehmat Salam Khatak,284
+NA-34,Asad Ullah Khan Khatak,142
+NA-34,Shakir Zeeshan Khatak,118
+NA-34,Shahid Ahmad,19
+NA-34,Shah Abdul Aziz,161
+NA-34,Shamas Ur Rehamn Khatak,149
+NA-34,Zafar Mehmood,263
+NA-34,Usman Ghani,324
+NA-34,Aziz Khan,23
+NA-34,Ammad Azam,73
+NA-34,Gul Sahib Khan,294
+NA-34,Mir Zakim Khan,31
+NA-34,Nawabzada Mohsin Ali Khan,12
+NA-35,Amin Ullah,147
+NA-35,Islam Noor,161
+NA-35,Akram Khan Durrani,31
+NA-35,Inam Ullah,118
+NA-35,Hamid Shah,11
+NA-35,Syed Yasmeen Safdar,12
+NA-35,Safdar Iqbal Shah,35
+NA-35,Abdul Samad Khan,85
+NA-35,Imran Ahmed Khan Niazi,19
+NA-35,Liaqat Ali Khan,93
+NA-35,Muhammad Usman Ali Khan,264
+NA-35,Wali Dad Khan,175
+NA-36,Ashraf AliKhan,101
+NA-36,Ashfaq Ahmad Khan,19
+NA-36,Amir Nawaz Khan,287
+NA-36,Inam Ullah Khan,12
+NA-36,Haji Jamil Ur Rehman Nasir,142
+NA-36,Sher Afzal Khan,314
+NA-36,Abdul Hayat,277
+NA-36,Abdullah,295
+NA-36,Aziz Khan,264
+NA-36,Imran Ullah Khan,284
+NA-36,Imran Nawab,248
+NA-36,Gul Razan Shah,11
+NA-36,Muhammad Idrees Khan,48
+NA-36,Muhammad Anwar,31
+NA-36,Muhammad Ali,71
+NA-36,Mansoor Kamal Marwat,128
+NA-36,Najeeb Ullah Khan,56
+NA-36,Naseem Ullah,294
+NA-37,Ahmad Habib Ullah Khan Kundi,18
+NA-37,Asad Mehmood,31
+NA-37,Habib Ullah Khan,19
+NA-37,Dawar Khan Kundi,204
+NA-37,Saeed AHMAD,172
+NA-37,Sami Ullah Khan Burqi,284
+NA-37,Abdul Rehman,101
+NA-37,Ghulam Badishah,11
+NA-37,Faisal Kareem Kundi,266
+NA-37,Muhammad Ayoub Khan,149
+NA-37,Muhammad Ramzan,264
+NA-37,Nawabzada Sadat Khan,93
+NA-37,Waqar Ahmad Khan,167
+NA-38,Ahmad Kundi,4
+NA-38,Akhtar Saeed,284
+NA-38,Chaudhary Siraj Ud Din,264
+NA-38,Hafeez Ullah,71
+NA-38,Hameed Ullah Khan Qadri,153
+NA-38,Dawar Khan Kundi,204
+NA-38,Saeed Hussain Muhayud Din Gillani,149
+NA-38,Ubair Ur Rehman,11
+NA-38,Ali Ameen Khan,19
+NA-38,Fazal Ur Rehman,31
+NA-38,Faisal Kareem Kundi,12
+NA-38,Muhammad Ali Raza,218
+NA-38,Muhammad Naeem Khan,73
+NA-38,Makhdoom Syed Mureed Kazim Shah,220
+NA-38,Waqar Ahmad Khan,167
+NA-39,Ahtisham Ullah Khan,73
+NA-39,Alhaj Sardar Umer FAROOQ khan,32
+NA-39,Ubaid Ur Rehman,128
+NA-39,Irfan Ullah Khan,100
+NA-39,Asmat Ullah,149
+NA-39,Fazal Ur Rehman,31
+NA-39,Faisal Kareem Kundi,294
+NA-39,Qaizar Khan,145
+NA-39,Muhammad Aftab Anayat,264
+NA-39,Muhammad Akbar Khan,35
+NA-39,Muhammad Amir,204
+NA-39,Muhammad Maqbool,309
+NA-39,Muhammad Yaqoob Sheikh,19
+NA-39,Nurang Khan,12
+NA-39,Waqar Ahmad Khan,167
+NA-40,Israr Ud Din Khan,164
+NA-40,Javed Miandad,324
+NA-40,Sardar Khan,204
+NA-40,Syed Akhun Zada Chattan,12
+NA-40,Syed Badshah,279
+NA-40,Shoukat Ullah,101
+NA-40,Gul Fazal,162
+NA-40,Gul Dad Khan,19
+NA-40,Muhammad Israr,85
+NA-40,Muhammad Asghar,295
+NA-40,Muhmmad Akbar Khan,284
+NA-40,Maumber Khan,149
+NA-40,Naseer Khan,58
+NA-40,Hidayt Ullah,109
+NA-41,Hafeez Ur Rehman,149
+NA-41,Sultan Zaib Khan,101
+NA-41,Syed Akhun Zada Chattan,12
+NA-41,Shahab Ud Din Khan,164
+NA-41,Sher Ahmad,11
+NA-41,Salah Ud Din,55
+NA-41,Abdul Rasheed,31
+NA-41,Abdul Majeed,204
+NA-41,Gul Zada,162
+NA-41,Gul Zafar Khan,19
+NA-41,Muhammad Ayyaz,56
+NA-41,Waheed Zaman,85
+NA-42,Ahsan Ullah,161
+NA-42,Israil,12
+NA-42,Bilal Rehman,23
+NA-42,Khan Dad,140
+NA-42,Rehman Gul,193
+NA-42,Zar Khan,284
+NA-42,Sajid Khan,19
+NA-42,Shah Khalid,204
+NA-42,Shafi Ullah,44
+NA-42,Abbas Ur Rehman,11
+NA-42,Abdul Rehman,101
+NA-42,Ghulam Muhammad Sadiq,31
+NA-42,Muhammad Iqrar Khan,201
+NA-42,Muhammad Saeed,283
+NA-42,Mustafa Khan,58
+NA-42,Malik Abdul Rehman,42
+NA-42,Nisar Ahmad,162
+NA-42,Naveed Ali,209
+NA-43,Ahsan Ullah,262
+NA-43,Alhaj Shahgee Gul Afridi,101
+NA-43,Hazrat Wali,12
+NA-43,Daulat Shah,118
+NA-43,Zar Noor Afridi,283
+NA-43,Sardar Azam,284
+NA-43,Syeda Jan,162
+NA-43,Saidgha Jan,128
+NA-43,Shahzaib,44
+NA-43,Shakeel Afridi,204
+NA-43,Shermat Khan,239
+NA-43,Abdul Razzaq Shinwari,34
+NA-43,Abdul Nawaz,21
+NA-43,Atiq Ullah,161
+NA-43,Mohib Ullah,145
+NA-43,Muhammad Ejaz,31
+NA-43,Nawabzada Muhammad Shah,167
+NA-43,Noor Haq AlQadri,19
+NA-44,Anwar Khan,149
+NA-44,Bilawal Afridi,101
+NA-44,Jasam Khan,208
+NA-44,Jan Wali,153
+NA-44,Jahangir Khan,266
+NA-44,Hazrat Wali,201
+NA-44,Hameed Ullah Jan Afridi,204
+NA-44,Khan Wali,160
+NA-44,Dilshad Ullah,330
+NA-44,Ruman Khan,18
+NA-44,Zahid Ullah,301
+NA-44,Saeed Ullah,294
+NA-44,Sohail Ahmad,12
+NA-44,Syed Karam Shah Afridi,59
+NA-44,Saeed Muhammad,235
+NA-44,Syed Nawab,145
+NA-44,Shah Faisal Afridi,169
+NA-44,Shamas Ul dIN,140
+NA-44,Mohabbat Khan,196
+NA-44,Arat Khan,182
+NA-44,Abdul Qayyum Khan,283
+NA-44,Ajeeb Khan,177
+NA-44,Adnan Nasir,113
+NA-44,Izat Ullah,161
+NA-44,Atta Ullah Khan,298
+NA-44,Imran Khan,62
+NA-45,Akhunzada Abdul Wali Khan,162
+NA-45,Akhunzada Muhammad Akram Khan,56
+NA-45,Aman Ullah Jan,35
+NA-45,Badi Uzaman,264
+NA-45,JAMAL dAR,167
+NA-45,Habib Malik,305
+NA-45,Hazrat Nabi,34
+NA-45,Hukam Syed,204
+NA-45,Hikmat Khan,283
+NA-45,Khayal Marjan,149
+NA-45,Syed Jamal,19
+NA-45,Arif Hussain,12
+NA-45,Abdul Rasheed Khan,151
+NA-45,Abdul Qadir,11
+NA-45,Abdul Kareem Abid,284
+NA-45,Abdul Wahid,134
+NA-45,Abdul Wali Khan,193
+NA-45,Adnan Sattar,101
+NA-45,Irfan Ullah,129
+NA-45,Asmat Ullah,174
+NA-45,Atta Ullah Jan Banghsh,163
+NA-45,Farooq AHmad,162
+NA-45,Fakhar Zaman Khan,59
+NA-45,Fazal Khaliq,266
+NA-45,Gul Faraz,169
+NA-45,Gulab Khan,218
+NA-45,Muhammad Shehzad,330
+NA-45,Muhammad Tufail Shaheen,140
+NA-45,Muhammad Kabeer,44
+NA-45,Muhammad Luqman,164
+NA-45,Muhammad Nasir Khan,239
+NA-45,Malik Rasheed Ahmad Khan,279
+NA-45,Malik Noor Akbar,18
+NA-45,Muneer Khan Orakzai,31
+NA-45,Noor Akbar,147
+NA-45,Noor Muhammad,208
+NA-45,Naveed Ahmad Khan,73
+NA-45,Niaz Badshah,128
+NA-46,Ibrar Hussain,204
+NA-46,Jameel Hussain S/O Kamal Hussain,164
+NA-46,Jameel Hussain S/O Yousaf Hussain,128
+NA-46,Hashmat Hussain,173
+NA-46,Zahid Hussain Toorie,196
+NA-46,Sajid Hussain Toorie,12
+NA-46,Syed Arshad Hussain,149
+NA-46,Syed Iqbal Mian,19
+NA-46,Syed Munir Syed,277
+NA-46,Shabbir Hussain,282
+NA-46,Sher Hussain,193
+NA-46,Amir Abbas,107
+NA-46,Abdul Ghaffar,180
+NA-46,Ali Begum Khan,11
+NA-46,Anayat Hussain,142
+NA-46,Anayat Ali,266
+NA-46,Fazal Rabi,147
+NA-46,Muhammad Hussain Toorie,208
+NA-46,Muhammad Shehzad,330
+NA-46,Muhammad Naseeb,220
+NA-46,Mehmood Ali Jan,67
+NA-46,Mushtaq Ali,239
+NA-46,Mansab Ali,34
+NA-46,Waqar Ahmad,44
+NA-47,Akhtar Gul,193
+NA-47,Iqbal Hussain,12
+NA-47,Aurangzaib Khan,39
+NA-47,Jawad Hussain,19
+NA-47,Johar Abbas,266
+NA-47,Habib Noor,305
+NA-47,Khadim Hussain,101
+NA-47,Raj Muhammad,283
+NA-47,Rizwan Ullah,44
+NA-47,Rafi Ullah,190
+NA-47,Speem Gul,153
+NA-47,Sohrab,221
+NA-47,Syed Anees Ul Hassan,317
+NA-47,Muhammad Ayyaz,263
+NA-47,Malik Khalid Naeem,56
+NA-47,Malik Syed Noor Akbar,204
+NA-47,Malik Gul Kareem Khan,241
+NA-47,Noor Shaheed Khan,67
+NA-48,Ashraf Ullah,326
+NA-48,Akbar Ali Khan,204
+NA-48,Auragzaib,255
+NA-48,Aurangzaib Khan,19
+NA-48,Muhammad Aqeel Shah,149
+NA-48,Javed Iqbal,317
+NA-48,Javed Khan,163
+NA-48,Jahanzaib Khan,58
+NA-48,Hanif Ullah,174
+NA-48,Daud Khan,177
+NA-48,Rehman Gull Akhunzada,330
+NA-48,Sher Ullah Khan,11
+NA-48,Sher Wali Khan,66
+NA-48,Saif Ullah,295
+NA-48,Zia Ur Rehman,59
+NA-48,Qismat Khan Wazir,161
+NA-48,Gula Dar Khan,196
+NA-48,Mohsin Javed,101
+NA-48,Muhammad Iqbal Khan,283
+NA-48,Muhammad Deen,271
+NA-48,Muhammad Rasool,249
+NA-48,Muhammad Umer Akbar Khan,121
+NA-48,Muhammad Kamran Khan,24
+NA-48,Muhammad Nazir Khan,96
+NA-48,Muhammad Niaz Khan,279
+NA-48,Misbah Ud Din,31
+NA-48,Malik Ghulam Khan,12
+NA-48,Malik Fareed Ullah Khan Wazir,139
+NA-48,Molana Syed Naik Zaman Haqani,235
+NA-48,Noor Buhran,208
+NA-48,Naik Amal Khan,284
+NA-48,Naik Muhammad Khan,73
+NA-48,Humayun Khan S/O Guladar Khan,294
+NA-48,Humayun Khan S/O Mir jalil Khan,201
+NA-49,Ahmad Hussain,164
+NA-49,Asfar Khan,36
+NA-49,Jmal Shah,295
+NA-49,Jhangir Khan,162
+NA-49,Dilawar Khan,284
+NA-49,Dilbar Khan,279
+NA-49,Dost Muhammad Khan,19
+NA-49,Sami Ullah Jan,44
+NA-49,Syed Muhammad Zahoor Shah,241
+NA-49,Sher Pao,59
+NA-49,Sadam Hussain,266
+NA-49,Zahir Shah,263
+NA-49,Abdul Hameed,142
+NA-49,Abdul Raheem Khan Burki,135
+NA-49,Abdul Quddos Khan,172
+NA-49,Abdullah,140
+NA-49,Abdul Majeed,330
+NA-49,Atta Mir Khan,58
+NA-49,Qayyum Sher,39
+NA-49,Muhammad Iqbal,196
+NA-49,Muhammad Jamal Ud Din,31
+NA-49,Nawab Naik Badshah Mahsud,128
+NA-49,Noor Hassan,56
+NA-49,Waheed Khan,47
+NA-50,Allah Dad Khan,239
+NA-50,Aman Ullah,12
+NA-50,Anwar Khan S/O Sadoo Khan,235
+NA-50,Anwar Khan S/O Umer Khan,100
+NA-50,Taj Muhammad,59
+NA-50,Sana Ullah Khan,113
+NA-50,Javed Iqbal,149
+NA-50,Juma Khan,39
+NA-50,Hafiz Ul Ameen,279
+NA-50,Zarwali Khan,161
+NA-50,Syed Tariq Gillani,294
+NA-50,Muhammad Abdul Khaliq Khan,140
+NA-50,Abdul Rasheed,248
+NA-50,Abdullah,28
+NA-50,Ajab Gul,3
+NA-50,Ghalib Khan,284
+NA-50,Muhammad Ayyaz Khan,162
+NA-50,Muhammad Asghar Khan,208
+NA-50,Muhammad Ilyas,201
+NA-50,Muhammad Rehman,158
+NA-50,Muhammad Ali,167
+NA-50,Muhammad Ghulab,128
+NA-50,Muhammad Noor,196
+NA-50,Mehmood Alam,31
+NA-50,Naseer Ullah Khan,204
+NA-50,Noor Hassan,67
+NA-50,Nek Muhammad S/O Khadim Khan,29
+NA-50,Nek Muhammad S/O Haji Sail Khan,142
+NA-51,Ashfaq Khan Bettani,151
+NA-51,Akram Ullah,12
+NA-51,Aimal Khan,196
+NA-51,Baz Gul,149
+NA-51,Juma Khan,167
+NA-51,Hazrat Nawaz,283
+NA-51,Rozi Shah,230
+NA-51,Shahi Khan,162
+NA-51,Abid Rehman,128
+NA-51,Abdul Shakoor,31
+NA-51,Abdullah,101
+NA-51,Allaudin,239
+NA-51,Ghulam Badshah,113
+NA-51,Qaisar Jamal,19
+NA-51,Kafayat,201
+NA-51,Muhammad Sohail Khan Bettani,218
+NA-51,Miraj Gull,139
+NA-51,Wazir Badshah,11
+NA-51,Younas Khan,295
