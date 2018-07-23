@@ -30,7 +30,7 @@ module.exports = {
       ref  : 'origin/master',
       repo : 'https://github.com/aftabaig/ge2018_server.git',
       path : '/root/ge2018',
-      'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env staging'
+      'post-deploy' : 'pm2 reload ecosystem.config.js --env staging'
     }
   }
 };
