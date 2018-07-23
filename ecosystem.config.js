@@ -28,7 +28,7 @@ module.exports = {
       user : 'root',
       host : '188.40.167.174',
       ref  : 'origin/master',
-      repo : 'git@github.com:aftabaig/ge2018_server.git',
+      repo : 'https://github.com/aftabaig/ge2018_server.git',
       path : '/root/ge2018',
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env staging'
     }
