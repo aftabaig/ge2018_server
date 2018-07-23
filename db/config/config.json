@@ -10,7 +10,7 @@
         "username": "postgres",
         "password": "",
         "database": "ge2018",
-        "host": "188.40.167.174",
+        "host": "127.0.0.1",
         "dialect": "postgres"
     },
     "production": {
