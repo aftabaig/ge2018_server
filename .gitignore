@@ -5,8 +5,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-public/
-
 # VS Code
 .vscode/settings.json
 dump.rdb
