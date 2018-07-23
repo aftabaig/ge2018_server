@@ -8,9 +8,9 @@
     },
     "staging": {
         "username": "postgres",
-        "password": "P@$$w00rd123",
+        "password": "",
         "database": "ge2018",
-        "host": "127.0.0.1",
+        "host": "188.40.167.174",
         "dialect": "postgres"
     },
     "production": {
