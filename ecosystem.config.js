@@ -24,7 +24,7 @@ module.exports = {
    */
   deploy : {
     staging : {
-      key  : '/Users/ssasoft/.ssh/id_rsa',
+      key  : '/Users/ssasoft/.ssh/id_rsa_gcp',
       user : 'root',
       host : '188.40.167.174',
       ref  : 'origin/master',
