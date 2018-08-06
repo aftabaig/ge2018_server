@@ -31,6 +31,15 @@ module.exports = {
       repo : 'https://github.com/aftabaig/ge2018_server.git',
       path : '/root/ge2018',
       'post-deploy' : 'pm2 reload ecosystem.config.js --env staging'
+    },
+    production: {
+      key: '/Users/ssasoft/.ssh/id_rsa',
+      user: 'root',
+      host: '35.229.86.235',
+      ref: 'origin/master',
+      repo: 'https://github.com/aftabaig/ge2018_server.git',
+      path: '/root/ge2018',
+      'post-deploy' : 'pm2 reload ecosystem.config.js --env production'
     }
   }
 };

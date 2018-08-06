@@ -104,7 +104,7 @@ module.exports = {
                     'assembly.id',
                     'assembly.name',
                     'assembly.abbreviation',
-                    [models.sequelize.fn('COUNT', 'id'), 'totalSeats']
+                    [models.sequelize.fn('COUNT', 'id'), 'totalSeats'],
                 ],
                 include: [{
                     model: models.Assembly,
@@ -121,13 +121,14 @@ module.exports = {
                 group: [
                     'constituency->assembly.id',
                     'constituency->assembly.name',
-                    'constituency->assembly.abbreviation'
+                    'constituency->assembly.abbreviation',
                 ],
                 attributes: [
                     'constituency->assembly.id',
                     'constituency->assembly.name',
                     'constituency->assembly.abbreviation',
-                    [models.sequelize.fn('COUNT', 'constituency.assemblyId'), 'seats']
+                    [models.sequelize.fn('COUNT', 'constituency.assemblyId'), 'seats'],
+                    [models.sequelize.fn('SUM', models.sequelize.col('status')), 'won']
                 ],
                 include: [{
                     model: models.Constituency,
@@ -157,7 +158,7 @@ module.exports = {
                     if (cStat.id == pStat.id) {
                         found = true;
                         finalStat.seats = pStat.seats;
-                        finalStat.won = 0;
+                        finalStat.won = pStat.won;
                         finalStat.lost = 0;
                         finalStat.awaited = pStat.seats;
                     }

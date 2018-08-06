@@ -103,7 +103,7 @@ module.exports = {
                     constituencyId: constituencyId
                 },
                 order: [
-                    ['fullName', 'ASC']
+                    ['score', 'DESC']
                 ],
                 include: [{
                     model: models.Constituency,
@@ -125,6 +125,21 @@ module.exports = {
                 }]
             })
             return candidates
-        }
+        },
+    },
+    Mutation: {
+        updateScore: async(parent, { candidateId, score }, { models }) => {
+            var candidate = await models.Candidate.find({
+                where: {
+                    id: candidateId
+                }
+            })
+            if (candidate) {
+                await candidate.updateAttributes({
+                    score: score
+                });
+                return candidate;
+            }
+        } 
     }
 }
