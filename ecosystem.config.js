@@ -34,7 +34,7 @@ module.exports = {
     },
     production: {
       key: '/Users/ssasoft/.ssh/id_rsa',
-      user: 'postgres',
+      user: 'aftabaig',
       host: '35.229.86.235',
       ref: 'origin/master',
       repo: 'https://github.com/aftabaig/ge2018_server.git',
