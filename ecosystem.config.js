@@ -38,7 +38,7 @@ module.exports = {
       host: '35.229.86.235',
       ref: 'origin/master',
       repo: 'https://github.com/aftabaig/ge2018_server.git',
-      path: '/root/ge2018',
+      path: '/home/deployer/ge2018_server',
       'post-deploy' : 'pm2 reload ecosystem.config.js --env production'
     }
   }
